@@ -20,7 +20,7 @@ with open(original_CSV_file, "r") as originalFile:
 
         for line in reader:
             # Check to see if there are multiple subsets in "consent title" column
-            if len(line[CONSENT_TITLE_ROW_NUMBER]) != 1:
+            if len(line[CONSENT_TITLE_ROW_NUMBER]) > 1:
                 # Parse each subset into an element of an array
                 Titles = line[CONSENT_TITLE_ROW_NUMBER].split(";")
                 numTitles = len(Titles)
