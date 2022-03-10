@@ -53,8 +53,8 @@ with open(original_CSV_file, "r") as originalFile:
             if copyLine[CONSENT_TITLE_COLUMN_NUMBER].upper() in upperMappedData:
                 # Find subset key consent title in list of terms and insert extra cell in current line for PURL column
                 key = copyLine[CONSENT_TITLE_COLUMN_NUMBER].upper()
-                purl = str(upperMappedData[key]).strip("['']")
                 # Strip '[]' in the URL so it becomes a clickable link
+                purl = str(upperMappedData[key]).strip("['']")
                 copyLine[PURL_COLUMN_NUMBER] = purl
             else:
                 # Fragment consent_title by whitespace into list of subsets
