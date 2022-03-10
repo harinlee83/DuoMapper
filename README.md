@@ -3,7 +3,8 @@
 This repo is for the python projects that I complete for Jonathan Lawson under the supervision of Gideon Pinto. (February 18, 2022)
 
 **Components**
-1) Each semi-colon in Column I represents a unique subset of the row-level dataset.
+
+1A) Each semi-colon in Column I represents a unique subset of the row-level dataset.
 Task: Therefore to appropriately organize the data, for each dataset with semicolon denoted subsets in Column I we should create an additional row with the same metadata for all fields except Column I, and having one of the unique terms broken up by semicolons in Column I in each row.
 Done when: There are as many dataset rows as unique entries in Column I with only one Column I subset per dataset row. 
 Mapping the Column I free text to the Data Use Ontology is cumbersome. (Completed 2/19/2022, 2 hours)
