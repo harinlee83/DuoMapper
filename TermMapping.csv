@@ -1,0 +1,55 @@
+Query for:,"If found, then add*:",Primary Permission Terms,Note,,
+GRU,http://purl.obolibrary.org/obo/DUO_0000042,X,,,
+General Research,http://purl.obolibrary.org/obo/DUO_0000042,X,,Column B inserts found at: https://www.ebi.ac.uk/ols/search?q=&groupField=iri&start=0&ontology=mondo&ontology=doid&ontology=duo,
+General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,X,,DS,http://purl.obolibrary.org/obo/DUO_0000007
+Research of any type,http://purl.obolibrary.org/obo/DUO_0000042,X,,GRU,http://purl.obolibrary.org/obo/DUO_0000042
+health research,http://purl.obolibrary.org/obo/DUO_0000006,X,,NPU,"http://purl.obolibrary.org/obo/DUO_0000045
+"
+medical research,http://purl.obolibrary.org/obo/DUO_0000006,X,,PUB,http://purl.obolibrary.org/obo/DUO_0000019
+biomedical research,http://purl.obolibrary.org/obo/DUO_0000006,X,,NCU,http://purl.obolibrary.org/obo/DUO_0000046
+HMB,http://purl.obolibrary.org/obo/DUO_0000006,X,,POA,http://purl.obolibrary.org/obo/DUO_0000011
+health medical biomedical research,http://purl.obolibrary.org/obo/DUO_0000006,X,,Open Access,"http://purl.obolibrary.org/obo/DUO_0000004
+"
+health/medical/biomedical research,http://purl.obolibrary.org/obo/DUO_0000006,X,,NMDS,"http://purl.obolibrary.org/obo/DUO_0000015
+"
+health/medical/biomedical,http://purl.obolibrary.org/obo/DUO_0000006,X,,GSO,"http://purl.obolibrary.org/obo/DUO_0000016
+"
+NPU,"http://purl.obolibrary.org/obo/DUO_0000045
+",,,NPU/NCU,http://purl.obolibrary.org/obo/DUO_0000018
+Non profit,"http://purl.obolibrary.org/obo/DUO_0000045
+",,,COL,http://purl.obolibrary.org/obo/DUO_0000020
+Non-profit,"http://purl.obolibrary.org/obo/DUO_0000045
+",,,IRB,http://purl.obolibrary.org/obo/DUO_0000021
+Not-for-profit,"http://purl.obolibrary.org/obo/DUO_0000045
+",,,HMB,http://purl.obolibrary.org/obo/DUO_0000006
+Not for profit,"http://purl.obolibrary.org/obo/DUO_0000045
+",,,,
+PUB,http://purl.obolibrary.org/obo/DUO_0000019,,Should not capture 'pub' used in the midst of other words,,
+Publication Required,http://purl.obolibrary.org/obo/DUO_0000019,,,,
+NCU,http://purl.obolibrary.org/obo/DUO_0000046,,,,
+Non-commercial,http://purl.obolibrary.org/obo/DUO_0000046,,,,
+Non commercial,http://purl.obolibrary.org/obo/DUO_0000046,,,,
+Population research,http://purl.obolibrary.org/obo/DUO_0000011,X,,,
+Origin research,http://purl.obolibrary.org/obo/DUO_0000011,X,,,
+Ancestry research,http://purl.obolibrary.org/obo/DUO_0000011,X,,,
+POA ,http://purl.obolibrary.org/obo/DUO_0000011,X,,,
+Open Access,"http://purl.obolibrary.org/obo/DUO_0000004
+",X,,,
+No restrictions,"http://purl.obolibrary.org/obo/DUO_0000004
+",X,,,
+Methods prohibited,"http://purl.obolibrary.org/obo/DUO_0000015
+",,,,
+No methods,"http://purl.obolibrary.org/obo/DUO_0000015
+",,,,
+GSO,"http://purl.obolibrary.org/obo/DUO_0000016
+",,,,
+Genetic studies only,"http://purl.obolibrary.org/obo/DUO_0000016
+",,,,
+COL,http://purl.obolibrary.org/obo/DUO_0000020,,,,
+Collaboration required,http://purl.obolibrary.org/obo/DUO_0000020,,,,
+Letter of collaboration,http://purl.obolibrary.org/obo/DUO_0000020,,,,
+Ethics approval,http://purl.obolibrary.org/obo/DUO_0000021,,,,
+IRB,http://purl.obolibrary.org/obo/DUO_0000021,,,,
+DS,http://purl.obolibrary.org/obo/DUO_0000007,X,,,
+Disease Specific,http://purl.obolibrary.org/obo/DUO_0000007,X,,,
+Disease-Specific,http://purl.obolibrary.org/obo/DUO_0000007,X,,,
