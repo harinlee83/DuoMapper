@@ -2,7 +2,7 @@
 
 This repo is for the python projects that I complete for Jonathan Lawson under the supervision of Gideon Pinto. (February 18, 2022)
 
-##Components
+## Components
 
 > 1A) Task: Each semi-colon in Column I represents a unique subset of the row-level dataset. Therefore to appropriately organize the data, for
 > each dataset with semicolon denoted subsets in Column I we should create an additional row with the same metadata for all fields except Column
@@ -19,7 +19,7 @@ This repo is for the python projects that I complete for Jonathan Lawson under t
 > identified, add a corresponding permanent URL (PURL) for each in a new column, Column K (DOID) and Column L (MONDO). This may involve adding
 > multiple PURLs to a column.
 
-##Python Scripts
+## Python Scripts
 
 > organizer.py takes in a csv file and splits the consent title column so that each unique subset has its own row.
 > 
