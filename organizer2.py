@@ -14,6 +14,7 @@
 # Genetic Defects in familial renal disorders
 # Genetic Studies of Stroke
 # Studies of Genes for Medical Conditions
+# not-for_profit
 
 import csv
 import re
