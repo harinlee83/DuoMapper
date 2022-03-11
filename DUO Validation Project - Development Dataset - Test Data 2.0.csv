@@ -1,0 +1,2426 @@
+phs,dac_list,consent_title
+phs000394,NINDS,Academic Research Use
+phs000434,NHGRI,Accelerated Aging Syndromes
+phs000016,JAAMH,ADHD
+phs000358,JAAMH,ADHD and Related Disorders
+phs000425,JAAMH,Alcohol Related Conditions
+phs000277,JAAMH,"Alcohol Related Conditions; Substance Dependence, Childhood Trauma and Related Disorders; Research on Alcohol and Tobacco Related Phenotypes; Substance Use Dependence Only"
+phs000092,NHGRI,Alcoholism and Related Conditions; Health Research
+phs000649,NIGMS,All PEAR patients
+phs000168,JAAMH,Alzheimer Disease and Non-Profit Use Only ; General Research Use; Non Profit Use; Alzheimer Disease Only
+phs000610,JAAMH,Alzheimer's and age related conditions
+phs000700,JAAMH,Alzheimer's and age related conditions
+phs000372,JAAMH,Alzheimer's Disease Genetics Consortium
+phs000483,JAAMH,Alzheimer's disorder and related disorders
+phs000548,NIGMS,Aspirin-Related Research
+phs000166,NHLBI,Asthma-Related Research
+phs000407,JAAMH,Attention Deficit Hyperactivity Disorder
+phs000426,NIGMS,Biomedical Research Use
+phs001350,NIGMS,Biomedical Research Use
+phs000017,JAAMH,Bipolar disorder only; Bipolar and related disorders; General Research Use
+phs002324,NHGRI,Birth defects and genetic conditions; Health/Medical/Biomedical
+phs000474,NHGRI,Bone Marrow Failure Conditions
+phs002292,JAAMH,Brain health and disease; General Research Use
+phs000547,NHGRI,"Breast cancer, study drug efficacy and toxicity, and covariates"
+phs000488,NHGRI,Cancer and Methods Research Only; Cancer Research Only; General Research Use; Lung Cancer Only
+phs000093,NCI DAC,Cancer and other diseases in adults only (PLCO); Research related to smoking or lung disease (EAGLE)
+phs000346,NCI DAC,"Cancer in all age groups, adult diseases, and methods"
+phs000351,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods"
+phs000882,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods"
+phs000652,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods; Disease-Specific (Glioma in Adults Only, GSO)"
+phs000396,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods; Esophageal and stomach cancer"
+phs000336,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods; Research related to lung disease or smoking"
+phs000245,NHGRI,Cancer Research
+phs000443,NCI DAC,Cancer Research and General Methods
+phs000513,NCI DAC,Cancer Research and General Methods
+phs000525,NCI DAC,Cancer Research and General Methods
+phs000418,eNCI DAC,Cancer Research and General Methods
+phs000502,NCI DAC,Cancer Research and General Methods with Publication Statement
+phs000369,NCI DAC,Cancer Research and General Methods; General Research Use
+phs000534,eNCI DAC,Cancer Research and General Methods; Pediatric Cancer Research
+phs000567,eNCI DAC,Cancer Research and Methods
+phs000419,NCI DAC,Cancer Research Only
+phs000472,NHGRI,Cancer Research Only
+phs000504,NHGRI,Cancer Research Only
+phs000447,NHGRI,Cancer Research Only; General Research Use
+phs000611,NHGRI,Cancer Treatment Research Only; Disease-Specific (Cancer)
+phs000512,NHGRI,Cardiovascular Disease
+phs000485,NHGRI,Congenital Diaphragmatic Hernia and Related Disorders
+phs000094,NIDCR,Craniofacial Anomalies
+phs000302,NIDDK,diabetes and complications
+phs000462,NIDDK,Diabetes and Related Conditions
+phs000333,NIDDK,"diabetes, kidney disease, retinopathy and/or related diseases"
+phs000581,NHLBI,Disease Specific (Familial Dilated Cardiomyopathy)
+phs000716,NCI DAC,"Disease Specific (LC, MDS)"
+phs000582,NHLBI,Disease Specific (Lung Diseases)
+phs000327,NHLBI,Disease Specific (Stroke and Related Disorders)
+phs000585,NHLBI,Disease Specific for Cardiovascular Disease with IRB approval
+phs000359,NINDS,Diseases of Muscle and the Nervous System
+phs000365,NIAID,Diseases of the Immune System
+phs000776,NICHD,"Disease-Specific (3-Methylcrotonyl-CoA Carboxylase Deficiency, IRB, NPU)"
+phs002157,NINDS,Disease-Specific (Acute Ischemic Stroke); Disease-Specific (Stroke); General Research Use; Health/Medical/Biomedical
+phs001408,NCI DAC,"Disease-Specific (Acute Myelogenous Leukemia, IRB, NPU, MDS)"
+phs001458,JAAMH,"Disease-Specific (Addiction and Mental Health, IRB)"
+phs000852,JAAMH,"Disease-Specific (Addiction and Mental Health, IRB, GSO, RD)"
+phs001208,JAAMH,"Disease-Specific (Addictive Disorders, IRB)"
+phs002076,NLM_DAC,"Disease-Specific (Addictive Disorders, IRB)"
+phs002077,NLM_DAC,"Disease-Specific (Addictive Disorders, IRB)"
+phs001649,JAAMH,"Disease-Specific (Addictive Disorders, IRB, GSO, RD)"
+phs000952,JAAMH,"Disease-Specific (Addictive Disorders, IRB, RD)"
+phs001754,JAAMH,"Disease-Specific (Addictive Disorders, PUB, NPU, MDS)"
+phs001379,NEI,Disease-Specific (Age-Related Macular Degeneration)
+phs001039,NEI,Disease-Specific (Age-Related Macular Degeneration); General Research Use
+phs001046,NEI,"Disease-Specific (Age-Related Macular Degeneration, IRB); General Research Use (IRB)"
+phs001896,NEI,"Disease-Specific (Age-Related Macular Degeneration, NPU); General Research Use (NPU)"
+phs001808,JAAMH,"Disease-Specific (Aging Related 1, NPU)"
+phs000510,NIAMS,"Disease-Specific (Aging Related 1, RD)"
+phs000373,NIAMS,"Disease-Specific (Aging Related 3, RD); Disease-Specific (Aging Related 1, RD); Disease-Specific (Aging Related 2, RD)"
+phs001981,JAAMH,"Disease-Specific (Alcoholism, IRB, NPU)"
+phs001807,JAAMH,"Disease-Specific (Alcoholism, IRB, NPU, RD)"
+phs001775,JAAMH,"Disease-Specific (Alcoholism, IRB, PUB, NPU, MDS, RD)"
+phs000763,JAAMH,"Disease-Specific (Alcoholism, IRB, RD)"
+phs000976,JAAMH,"Disease-Specific (Alcoholism, IRB, RD)"
+phs001009,NHLBI,"Disease-Specific (Allergy, Asthma, and Respiratory, IRB)"
+phs001851,NIAID,"Disease-Specific (Allergy, IRB, PUB, COL, NPU)"
+phs000586,NIAMS,"Disease-Specific (Alopecia areata, MDS, RD)"
+phs000572,ADSP DAC,"Disease-Specific (Alzheimer Disease, IRB, NPU); Exchange Area; Disease-Specific (Neurodegenerative Disease, IRB, NPU); Health/Medical/Biomedical (IRB); Disease-Specific (Neurodegenerative Disease, IRB); Disease-Specific (Alzheimer Disease, IRB); Health/Medical/Biomedical (IRB, NPU)"
+phs000831,NHGRI,Disease-Specific (Amyotrophic Lateral Sclerosis)
+phs001238,NHLBI,"Disease-Specific (Arteriosclerosis and its Risk Factors, NPU)"
+phs001401,NHLBI,"Disease-Specific (Arteriosclerosis and its Risk Factors, NPU)"
+phs001345,NHLBI,"Disease-Specific (Arteriosclerosis and its Risk Factors, NPU); Exchange Area (NPU)"
+phs002069,NINDS,"Disease-Specific (Arteriovenous Malformation, Stroke and related Vascular Diseases)"
+phs000233,NHLBI,Disease-Specific (Asthma and atopy)
+phs001605,NHLBI,"Disease-Specific (Asthma, IRB, COL); Exchange Area"
+phs001727,NHLBI,"Disease-Specific (Asthma, IRB, COL); Exchange Area (IRB, COL)"
+phs001728,NHLBI,"Disease-Specific (Asthma, IRB, COL); Exchange Area (IRB, COL)"
+phs001729,NHLBI,"Disease-Specific (Asthma, IRB, COL); Exchange Area (IRB, COL)"
+phs001730,NHLBI,"Disease-Specific (Asthma, IRB, COL); Exchange Area (IRB, COL)"
+phs001732,NHLBI,"Disease-Specific (Asthma, IRB, COL); Exchange Area (IRB, COL)"
+phs001225,NHLBI,"Disease-Specific (Asthma, IRB, PUB, MDS, RD)"
+phs001216,NHLBI,"Disease-Specific (Asthma, IRB, PUB, NPU, MDS, GSO, RD)"
+phs001227,NHGRI,"Disease-Specific (Atherosclerosis, IRB, MDS); General Research Use (IRB)"
+phs001001,NHLBI,"Disease-Specific (Atrial Fibrillation, IRB, RD); Health/Medical/Biomedical (IRB)"
+phs001116,NHLBI,"Disease-Specific (Atrial Fibrillation, IRB, RD); Health/Medical/Biomedical (IRB)"
+phs001117,NHLBI,"Disease-Specific (Atrial Fibrillation, IRB, RD); Health/Medical/Biomedical (IRB)"
+phs001118,NHLBI,"Disease-Specific (Atrial Fibrillation, IRB, RD); Health/Medical/Biomedical (IRB)"
+phs002043,NHGRI,Disease-Specific (Autism or Autism Spectrum Disorder); General Research Use
+phs001676,NHGRI,"Disease-Specific (Autism or other Neurodevelopmental Disease, IRB)"
+phs001740,NHGRI,"Disease-Specific (Autism Spectrum Disorder and Related Diseases, IRB)"
+phs000267,JAAMH,Disease-Specific (Autism Spectrum Disorder)
+phs000639,JAAMH,Disease-Specific (Autism Spectrum Disorder)
+phs001148,JAAMH,Disease-Specific (Autism Spectrum Disorder)
+phs001741,NHGRI,"Disease-Specific (Autism Spectrum Disorder, IRB)"
+phs001766,NHGRI,"Disease-Specific (Autism Spectrum Disorder, IRB)"
+phs002044,NHGRI,"Disease-Specific (Autism Spectrum Disorder, IRB)"
+phs001876,JAAMH,"Disease-Specific (Autism Spectrum Disorder, IRB, GSO)"
+phs000436,JAAMH,"Disease-Specific (Autism Spectrum Disorder, RD)"
+phs000482,JAAMH,"Disease-Specific (Autism Spectrum Disorder, RD)"
+phs000712,NICHD,"Disease-Specific (Autism Spectrum Disorder, RD)"
+phs001874,JAAMH,Disease-Specific (Autism)
+phs002004,NHGRI,Disease-Specific (Autism)
+phs001816,JAAMH,"Disease-Specific (Autism, IRB)"
+phs001881,JAAMH,"Disease-Specific (Autism, IRB)"
+phs002512,NHGRI,"Disease-Specific (Autism, IRB, RD)"
+phs000672,NIDCR,Disease-Specific (Autoimmune Diseases)
+phs000019,NIAMS,"Disease-Specific (Autoimmune Diseases, GSO); General Research Use"
+phs000947,NCATS,"Disease-Specific (Autoimmune Diseases, IRB)"
+phs000797,NIAID,"Disease-Specific (Autoimmune Diseases, IRB, PUB)"
+phs002122,NIAMS,"Disease-Specific (Autoinflammatory Disease, IRB, PUB, NPU, RD)"
+phs001912,NCI DAC,Disease-Specific (Barrett's Esophagus or EA)
+phs001654,NCI DAC,Disease-Specific (Barrett's Esophagus)
+phs001698,NIDDK,"Disease-Specific (Benign prostatic hyperplasia, IRB)"
+phs000960,NIDDK,"Disease-Specific (Biliary Atresia, IRB, NPU, GSO)"
+phs000865,JAAMH,Disease-Specific (Bipolar Disorder)
+phs000899,JAAMH,Disease-Specific (Bipolar Disorder); General Research Use
+phs001020,JAAMH,Disease-Specific (Bipolar Disorder); General Research Use; Disease-Specific (Schizophrenia and related disorders)
+phs001358,JAAMH,"Disease-Specific (Bipolar Disorder, IRB, NPU)"
+phs001413,JAAMH,"Disease-Specific (Bipolar Disorder, NPU, MDS); Health/Medical/Biomedical (NPU); Health/Medical/Biomedical (NPU, MDS); Disease-Specific (Neurological Disorders Research, MDS); General Research Use (NPU); General Research Use; Disease-Specific (Schizophrenia and related disorders, NPU); Disease-Specific (Mental Health Disorders Research, MDS); Disease-Specific (Obsessive Compulsive Disorder and other psychiatric conditions, NPU, MDS); Mental Heath and Cognition in Adults over 18 years of age; Disease-Specific (Attention deficit hyperactive disorder, MDS); Disease-Specific (Mental Health - Disorders Related to OCD Only, MDS, RD); Health/Medical/Biomedical (MDS); Disease-Specific (ADHD and Related Conditions, MDS, RD); Disease-Specific (Schizophrenia and related disorders, MDS, RD); Disease-Specific (Mental Health Disorders Research, NPU)"
+phs000692,JAAMH,"Disease-Specific (Bipolar Disorder, RD)"
+phs001064,NCI DAC,Disease-Specific (Bladder Cancer)
+phs001743,NCI DAC,"Disease-Specific (Bladder Cancer, GSO)"
+phs001613,NCI DAC,"Disease-Specific (Bladder Cancer, PUB, MDS)"
+phs002357,NCI DAC,"Disease-Specific (Bladder Cancer, PUB, MDS)"
+phs000549,NHLBI,"Disease-specific (Blood Disorders, MDS)"
+phs002640,NIAID,"Disease-Specific (Blood Disorders, NPU)"
+phs001549,NCI DAC,Disease-Specific (Bone Cancers); General Research Use; Disease-Specific (Ewing's Sarcoma)
+phs001272,NHGRI,"Disease-Specific (Bone Failure Disorders, MDS); Disease-Specific (No Insurance companies, employers, or the police until required by court order or by law); General Research Use; Disease-Specific (Kidney and Related Disorders, RD); Health/Medical/Biomedical (MDS); Disease-Specific (Cardiovascular Disease, MDS); Disease-Specific (Neurology, MDS)"
+phs000563,NCI DAC,"Disease-Specific (Brain and Spinal Tumors, GSO)"
+phs000552,NCI DAC,"Disease-Specific (Brain Disorders and Brain Cancer, NPU, MDS)"
+phs001653,NHGRI,"Disease-Specific (Brain Disorders, IRB, PUB)"
+phs001497,NCI DAC,"Disease-Specific (Brain tumors and all cancer, MDS); General Research Use"
+phs001646,NHGRI,"Disease-Specific (Brain Tumors, IRB)"
+phs001461,NCI DAC,"Disease-Specific (Brain Tumors, PUB, NPU, MDS)"
+phs001428,NCI DAC,"Disease-Specific (Breast Cancer Treatment Toxicities, COL, MDS, GSO)"
+phs000480,NCI DAC,Disease-Specific (Breast Cancer)
+phs002062,NCI DAC,Disease-Specific (Breast Cancer)
+phs001017,NHGRI,Disease-Specific (Breast Cancer); Disease-Specific (Cancer)
+phs002622,NCI DAC,Disease-Specific (Breast Cancer); General Research Use; Health/Medical/Biomedical
+phs000669,NCI DAC,"Disease-Specific (Breast Cancer, COL, MDS, GSO)"
+phs001708,NCI DAC,"Disease-Specific (Breast Cancer, GSO)"
+phs002659,NCI DAC,"Disease-Specific (Breast Cancer, IRB)"
+phs001534,NCI DAC,"Disease-Specific (Breast Cancer, IRB, PUB, NPU, MDS)"
+phs001255,NCI DAC,"Disease-Specific (Breast Cancer, MDS)"
+phs001263,NCI DAC,"Disease-Specific (Breast Cancer, MDS)"
+phs001285,NHGRI,"Disease-Specific (Breast Cancer, MDS)"
+phs001870,NCI DAC,"Disease-Specific (Breast Cancer, MDS)"
+phs001264,NCI DAC,"Disease-Specific (Breast Cancer, MDS); General Research Use"
+phs001261,NCI DAC,"Disease-Specific (Breast Cancer, NPU, MDS)"
+phs000644,NCI DAC,"Disease-Specific (Breast Cancer, PUB, MDS)"
+phs002411,JAAMH,"Disease-Specific (Breast Cancer, PUB, NPU)"
+phs001885,NCI DAC,"Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS); General Research Use; General Research Use (NPU); Endometrial Tumors (MDS)"
+phs001282,NCI DAC,"Disease-Specific (Burkitt Lymphoma, PUB, NPU)"
+phs000822,NHGRI,"Disease-Specific (Cancer - Germline genetic susceptibility, GSO)"
+phs000824,NHGRI,"Disease-Specific (Cancer - Germline genetic susceptibility, GSO)"
+phs000348,NCI DAC,"Disease-Specific (Cancer and Cancer-Related Disorders, MDS); General Research Use (MDS)"
+phs001273,NCI DAC,"Disease-Specific (Cancer or Lung Diseases, PUB, NPU); Health/Medical/Biomedical (PUB); Health/Medical/Biomedical (MDS, GSO); Disease-Specific (Cancer); Health/Medical/Biomedical; Disease-Specific (Cancer, GSO); Lung Disease and Smoking; General Research Use; Cancer in all age groups, other diseases in adults only, and methods; Disease-Specific (Cancer, COL, NPU, MDS); General Research Use (COL); Disease-Specific (Cancer, MDS); Disease-Specific (Cancer, PUB, NPU); Lung Cancer, Environmental, Diet, Occupational Exposures"
+phs000780,NIDDK,Disease-Specific (Cancer Research and Methods)
+phs000730,NHGRI,Disease-Specific (Cancer Research and Methods); General Research Use; General Research Use (NPU)
+phs000922,NHGRI,"Disease-Specific (Cancer Research and Methods, MDS)"
+phs000612,NIDCR,Disease-Specific (Cancer)
+phs000907,NCI DAC,Disease-Specific (Cancer)
+phs000943,NHGRI,Disease-Specific (Cancer)
+phs001043,NIGMS,Disease-Specific (Cancer)
+phs001106,NHGRI,Disease-Specific (Cancer)
+phs001185,NCI DAC,Disease-Specific (Cancer)
+phs001291,NHGRI,Disease-Specific (Cancer)
+phs001830,NCI DAC,Disease-Specific (Cancer)
+phs001924,NCI DAC,Disease-Specific (Cancer)
+phs001925,NCI DAC,Disease-Specific (Cancer)
+phs001999,NCI DAC,Disease-Specific (Cancer)
+phs002290,NCI DAC,Disease-Specific (Cancer)
+phs002529,NCI DAC,Disease-Specific (Cancer)
+phs002571,NIDCR,Disease-Specific (Cancer)
+phs001210,NCI DAC,"Disease-Specific (Cancer); Disease-Specific (Cancer, PUB, NPU, RD); General Research Use; Disease-Specific (Cancer, MDS); General Research Use (IRB)"
+phs000803,NHGRI,Disease-Specific (Cancer); Disease-Specific (MULTIPLE)
+phs001623,NIDCR,Disease-Specific (Cancer); General Research Use
+phs000893,NCI DAC,"Disease-Specific (Cancer); General Research Use (COL, MDS); General Research Use (MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); Disease-Specific (Chronic Diseases); Disease-Specific (Endometrial Diseases, MDS); Cancer in all age groups, other disease in adults only and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Disease-Specific (Endometrial Carcinoma, MDS)"
+phs002429,NCI DAC,Disease-Specific (Cancer); Health/Medical/Biomedical
+phs001391,NCI DAC,"Disease-Specific (Cancer); Health/Medical/Biomedical; Prostate Cancer or Radiation-induced Toxicity in Prostate Cancer Patients; Disease-Specific (Cancer, NPU, GSO); Disease-Specific (Prostate Cancer, MDS); Men's Health and Nutrition in Serious Illnesses (MDS); Disease-Specific (Cancer, MDS); General Research Use (IRB); Disease-Specific (Cancer, PUB); General Research Use (NPU); Cancer in all age groups, other diseases in adults only, and methods; Disease-Specific (Cancer, MDS, GSO); Disease-Specific (Prostate Cancer, MDS, GSO); Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS); Health/Medical/Biomedical (PUB); Disease-Specific (Prostate Cancer); Health/Medical/Biomedical (PUB, NPU); Disease-Specific (Prostate Cancer Predisposition); Health/Medical/Biomedical (NPU); Prostate Cancer, Methods, Non-control; Disease-Specific (Prostate Cancer, PUB, MDS); Epidemiological and Medical Research on Cancer, Methods; General Research Use; Disease-Specific (Cancer, Heart Disease, Stroke, Alzheimer Disease, and Diabetes, MDS); Chronic Diseases (including Cancer), Methods; Disease-Specific (Cancer, NPU)"
+phs000912,NCI DAC,"Disease-Specific (Cancer, benign neoplasms, or hematopoietic diseases related to cancer, MDS); Exchange Area; General Research Use (COL)"
+phs002323,NCI DAC,"Disease-Specific (cancer, cell processing, transplantation outcomes and graft versus host disease, IRB, NPU)"
+phs001597,NCI DAC,"Disease-Specific (Cancer, COL)"
+phs001863,NCI DAC,"Disease-Specific (Cancer, COL)"
+phs000779,NHGRI,"Disease-Specific (Cancer, IRB)"
+phs001234,NCI DAC,"Disease-Specific (Cancer, IRB)"
+phs001572,NCI DAC,"Disease-Specific (Cancer, IRB)"
+phs000709,NCI DAC,"Disease-Specific (Cancer, IRB, MDS)"
+phs000826,NCI DAC,"Disease-Specific (Cancer, IRB, MDS)"
+phs001465,NCI DAC,"Disease-Specific (Cancer, IRB, NPU)"
+phs000994,NCI DAC,"Disease-Specific (Cancer, IRB, PUB)"
+phs002244,NCI DAC,"Disease-Specific (Cancer, IRB, PUB, NPU)"
+phs000370,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs000554,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs000597,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs000600,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs000601,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs000694,NHGRI,"Disease-Specific (Cancer, MDS)"
+phs001007,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs001121,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs001127,NHGRI,"Disease-Specific (Cancer, MDS)"
+phs001181,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs001219,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs001307,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs001787,NCI DAC,"Disease-Specific (Cancer, MDS)"
+phs002104,NHGRI,"Disease-Specific (Cancer, MDS)"
+phs001417,NCI DAC,"Disease-Specific (Cancer, MDS); Disease-Specific (Breast Cancer, MDS); Disease-Specific (Prostate Cancer, MDS)"
+phs001565,NCI DAC,"Disease-Specific (Cancer, MDS); Disease-Specific (Cancer -Thoracic and Lung, MDS); General Research Use; Disease-Specific (Bladder Cancer, MDS)"
+phs000598,NHGRI,"Disease-Specific (Cancer, MDS); Disease-Specific (Cancer); Disease-Specific (Human Esophageal Cancer)"
+phs000579,NCI DAC,"Disease-Specific (Cancer, MDS); Disease-Specific (Gastrointestinal Illness, MDS); General Research Use (MDS)"
+phs000923,NHGRI,"Disease-Specific (Cancer, MDS); Disease-Specific (Germ Cell Tumors, MDS)"
+phs001447,NCI DAC,"Disease-Specific (Cancer, MDS); Disease-Specific (Prostate Cancer, MDS)"
+phs001577,NCI DAC,"Disease-Specific (Cancer, MDS); Disease-Specific (Prostate Cancer, MDS)"
+phs000830,NCI DAC,"Disease-Specific (Cancer, MDS); Disease-Specific (Skin Cancer, MDS)"
+phs001349,NCI DAC,"Disease-Specific (Cancer, MDS); Disease-Specific (Testicular Cancer, PUB, MDS); Disease-Specific (Testicular Cancer, MDS); Health/Medical/Biomedical"
+phs001370,NHGRI,"Disease-Specific (Cancer, MDS); Disease-Specific (Uveal Melanoma, NPU)"
+phs000804,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use"
+phs001284,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use"
+phs001493,eNCI DAC,"Disease-Specific (Cancer, MDS); General Research Use"
+phs001819,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use"
+phs000235,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (IRB); General Research Use"
+phs000527,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (IRB); General Research Use"
+phs000528,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (IRB); General Research Use"
+phs000529,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (IRB); General Research Use"
+phs000530,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (IRB); General Research Use"
+phs000531,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (IRB); General Research Use"
+phs000532,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (IRB); General Research Use"
+phs000676,eNCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (MDS)"
+phs000450,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (NPU, MDS); Health/Medical/Biomedical; Disease-Specific (Blood and Lymph Disorders, MDS)"
+phs000720,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use (PUB, MDS)"
+phs001988,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use; Disease-Specific (Prostate Cancer, MDS)"
+phs001800,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use; Health/Medical/Biomedical"
+phs001983,NCI DAC,"Disease-Specific (Cancer, MDS); General Research Use; Health/Medical/Biomedical"
+phs001250,NHGRI,"Disease-Specific (Cancer, MDS); General Research Use; Health/Medical/Biomedical (MDS)"
+phs001906,NCI DAC,"Disease-Specific (Cancer, MDS); Health/Medical/Biomedical"
+phs000915,NCI DAC,"Disease-Specific (Cancer, MDS); Health/Medical/Biomedical (PUB, NPU); General Research Use; Disease-Specific (Prostate Cancer, MDS)"
+phs000508,NCI DAC,"Disease-Specific (Cancer, MDS); Pediatric Cancer Research"
+phs000533,eNCI DAC,"Disease-Specific (Cancer, MDS); Pediatric Cancer Research; Cancer Research and General Methods"
+phs001399,NCI DAC,"Disease-Specific (Cancer, NPU)"
+phs001271,NCI DAC,"Disease-Specific (Cancer, NPU, GSO); Health/Medical/Biomedical (PUB, NPU, MDS); Disease-Specific (Kidney Cancer, MDS)"
+phs000699,NCI DAC,"Disease-Specific (Cancer, NPU, MDS)"
+phs000973,NCI DAC,"Disease-Specific (Cancer, NPU, MDS)"
+phs001244,NHGRI,"Disease-Specific (Cancer, NPU, MDS)"
+phs000937,NCI DAC,"Disease-Specific (Cancer, NPU, MDS); Disease-Specific (Lung Cancer, MDS)"
+phs002183,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB)"
+phs000929,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Breast and Ovarian cancer, GSO); Disease-Specific (Cancer, IRB, PUB, COL, NPU, MDS, GSO); Disease-Specific (Cancer, GSO); Cancer, Benign Neoplasms, or Hematopoietic Diseases (MDS); General Research Use; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Breast Cancer, PUB, MDS); Disease-Specific (Cancer, MDS); Disease-Specific (Breast Diseases)"
+phs001483,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Breast Diseases, MDS); General Research Use; Disease-Specific (Colorectal, ovarian, and/or breast cancer, NPU, MDS); Health/Medical/Biomedical (PUB, NPU); Disease-Specific (Breast Diseases)"
+phs002345,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Breast Diseases, MDS); Health/Medical/Biomedical; Familial and environmental influences on breast disease; Health/Medical/Biomedical (PUB, NPU)"
+phs001632,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Cancer); General Research Use (NPU); General Research Use (PUB, NPU); Disease-Specific (Cancer, IRB, GSO); Disease-Specific (Multiple Myeloma, MDS); General Research Use; Health/Medical/Biomedical (IRB, NPU)"
+phs001524,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Prostate Cancer); Disease-Specific (Cancer, NPU, GSO); Disease-Specific (Prostate Cancer, NPU, MDS); General Research Use; Disease-Specific (Prostate Cancer, MDS); Men's Health and Nutrition in Serious Illnesses (MDS); Cancer in all age groups, other diseases in adults only, and methods"
+phs001081,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Prostate Cancer, MDS); Disease-Specific (Prostate Cancer)"
+phs001120,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Prostate Cancer, MDS); Disease-Specific (Prostate Cancer)"
+phs001125,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); Disease-Specific (Prostate Cancer, MDS); Disease-Specific (Prostate Cancer)"
+phs000965,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001056,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001077,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001078,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001092,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001094,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001104,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001113,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001114,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001128,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001129,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001170,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs001171,NCI DAC,"Disease-Specific (Cancer, PUB); Health/Medical/Biomedical (PUB); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs000328,NCI DAC,"Disease-Specific (Cancer, PUB, MDS)"
+phs000364,NCI DAC,"Disease-Specific (Cancer, PUB, MDS)"
+phs000689,NCI DAC,"Disease-Specific (Cancer, PUB, MDS)"
+phs001223,NCI DAC,"Disease-Specific (Cancer, PUB, MDS)"
+phs001783,NCI DAC,"Disease-Specific (Cancer, PUB, MDS)"
+phs001858,NCI DAC,"Disease-Specific (Cancer, PUB, MDS)"
+phs001072,NCI DAC,"Disease-Specific (Cancer, PUB, MDS, GSO)"
+phs001943,NCI DAC,"Disease-Specific (Cancer, PUB, NPU, MDS, GSO)"
+phs002124,NINR DAC,Disease-Specific (Cancer-related fatigue)
+phs001259,NHGRI,"Disease-Specific (Cardiology, MDS, GSO)"
+phs000924,NHLBI,"Disease-Specific (Cardiomyopathy and Mitochondrial Disease, MDS); General Research Use; Disease-Specific (Cardiomyopathy, MDS)"
+phs001325,NHLBI,"Disease-Specific (Cardiomyopathy, NPU, MDS); Disease-Specific (Cardiomyopathy and Mitochondrial Disease, NPU, MDS); General Research Use (NPU)"
+phs002282,NHGRI,Disease-Specific (Cardiovascular Disease and Risk Factors)
+phs002469,NHLBI,"Disease-Specific (Cardiovascular Disease and/or Human Immunodeficiency Virus, IRB)"
+phs000741,NHLBI,Disease-Specific (Cardiovascular Disease)
+phs000902,NHLBI,Disease-Specific (Cardiovascular Disease)
+phs000990,NHLBI,Disease-Specific (Cardiovascular Disease)
+phs001058,NHLBI,Disease-Specific (Cardiovascular Disease)
+phs001560,NINDS,Disease-Specific (Cardiovascular Disease)
+phs001592,NHLBI,Disease-Specific (Cardiovascular Disease)
+phs001411,NHLBI,"Disease-Specific (Cardiovascular Disease, Diabetes and Kidney Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs000551,NIGMS,"Disease-Specific (Cardiovascular Disease, IRB)"
+phs000703,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)"
+phs000704,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)"
+phs000705,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)"
+phs001838,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)"
+phs002165,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)"
+phs000090,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs000223,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs000280,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs000398,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs000557,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs000668,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs000860,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs001536,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs001387,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, COL, NPU, RD); Exchange Area (IRB, COL, NPU, RD)"
+phs000226,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS); Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS); Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS); Exchange Area with IRB"
+phs000301,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS); Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS); Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS); Exchange Area with IRB"
+phs000377,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS); Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS); Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS); Exchange Area with IRB"
+phs000400,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS); Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS); Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS); Exchange Area with IRB"
+phs000667,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS); Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS); Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS); Exchange Area with IRB"
+phs001013,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs001789,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU)"
+phs001074,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU, RD)"
+phs000587,NHLBI,"Disease-Specific (Cardiovascular disease, lipoprotein metabolism disorders/atherosclerosis)"
+phs001901,NHGRI,"Disease-Specific (Cardiovascular Disease, MDS)"
+phs000916,NHLBI,"Disease-Specific (Cardiovascular Disease, NPU)"
+phs001000,NHLBI,"Disease-Specific (Cardiovascular Disease, NPU); General Research Use (NPU)"
+phs000287,NHLBI,"Disease-Specific (Cardiovascular Disease, NPU, MDS); Health/Medical/Biomedical (NPU, MDS); Health/Medical/Biomedical (MDS); Disease-Specific (Cardiovascular Disease, MDS)"
+phs001792,NINR DAC,"Disease-Specific (Cardiovascular Disease, NPU, MDS, GSO, RD)"
+phs001487,NHGRI,"Disease-Specific (Cardiovascular, metabolic disease and associated risk factors, IRB, COL, NPU, RD)"
+phs001545,NHLBI,"Disease-Specific (Cardiovascular, metabolic disease and associated risk factors, MDS); Exchange Area (MDS)"
+phs001394,NHLBI,"Disease-Specific (Cardiovascular, Metabolic, and Endocrine Diseases, IRB, NPU, MDS, GSO)"
+phs001397,NHLBI,"Disease-Specific (Cardiovascular, Metabolic, and Endocrine Diseases, IRB, NPU, MDS, GSO)"
+phs001990,NINR DAC,"Disease-Specific (cerebral aneurysm or subarachnoid hemorrhage, IRB, PUB, MDS, GSO)"
+phs000545,NINR DAC,Disease-Specific (Chemotherapy Induced Mucositis)
+phs002301,NCI DAC,Disease-Specific (Chordoma)
+phs001280,NCI DAC,"Disease-Specific (Chordoma, MDS)"
+phs000650,NIDDK,"Disease-Specific (Chronic Kidney Disease and Related Complications, IRB)"
+phs000842,NIDDK,"Disease-Specific (Chronic Kidney Disease and Related Complications, IRB)"
+phs000843,NIDDK,"Disease-Specific (Chronic Kidney Disease and Related Complications, IRB)"
+phs000844,NIDDK,"Disease-Specific (Chronic Kidney Disease and Related Complications, IRB)"
+phs000767,NCI DAC,Disease-Specific (Chronic Lymphocytic Leukemia)
+phs001119,NHLBI,"Disease-Specific (Chronic Obstructive Pulmonary Disease); General Research Use; General Research Use (NPU); Disease-Specific (Chronic Obstructive Pulmonary Disease, NPU)"
+phs002399,NHLBI,"Disease-Specific (Chronic Obstructive Pulmonary Disease); General Research Use; General Research Use (NPU); Disease-Specific (Chronic Obstructive Pulmonary Disease, NPU)"
+phs002384,NHGRI,"Disease-Specific (Circulatory and Cardiovascular System Diseases, MDS)"
+phs002236,NHGRI,"Disease-Specific (Circulatory and Cardiovascular System Diseases, NPU, MDS); Disease-Specific (Diabetes, NPU, MDS)"
+phs002242,NHGRI,"Disease-Specific (Circulatory and Cardiovascular System Diseases, NPU, MDS); Disease-Specific (Diabetes, NPU, MDS)"
+phs001045,NCI DAC,Disease-Specific (Colorectal Cancer)
+phs001499,NCI DAC,Disease-Specific (Colorectal Cancer)
+phs002129,NHGRI,"Disease-Specific (Congenital Birth Defects, IRB, PUB, NPU)"
+phs000783,NICHD,"Disease-Specific (Congenital Diaphragmatic Hernia, IRB, COL)"
+phs000571,NHLBI,Disease-Specific (Congenital Heart Disease); Health/Medical/Biomedical
+phs001138,Kids First DAC,Disease-Specific (Congenital Heart Disease); Health/Medical/Biomedical
+phs001194,NHLBI,Disease-Specific (Congenital Heart Disease); Health/Medical/Biomedical
+phs001843,NHLBI,Disease-Specific (Congenital Heart Disease); Health/Medical/Biomedical
+phs001774,NHLBI,"Disease-Specific (Congenital Heart Disease, IRB)"
+phs001252,NHLBI,"Disease-Specific (COPD and Smoking, MDS, RD)"
+phs001161,NHLBI,"Disease-Specific (COPD and Smoking, RD)"
+phs001871,NHGRI,"Disease-Specific (Coronary Artery Disease, IRB)"
+phs002190,NHLBI,"Disease-Specific (Coronary Artery Disease, NPU, GSO)"
+phs002686,NIAID,Disease-Specific (COVID-19)
+phs002221,NIDCR,Disease-Specific (Craniofacial and Eye Disorders)
+phs000437,NHGRI,Disease-Specific (Craniofacial Disorders)
+phs002130,Kids First DAC,Disease-Specific (Craniofacial Disorders)
+phs000622,NIDCR,Disease-Specific (Craniofacial Research)
+phs000774,NIAMS,Disease-Specific (Craniofacial Research)
+phs000949,NIDCR,Disease-Specific (Craniofacial Research)
+phs001090,NIDCR,Disease-Specific (Craniofacial Research)
+phs002684,NIDCR,"Disease-Specific (Craniosynostosis, all)"
+phs001508,NIDCR,"Disease-Specific (Craniosynostosis, metopic)"
+phs001751,NIDDK,"Disease-Specific (Crohn's Disease, IRB, PUB, NPU)"
+phs001275,NICHD,"Disease-Specific (Cryptorchidism, IRB, PUB, NPU, GSO)"
+phs000986,NICHD,"Disease-Specific (Cryptorchidism, PUB, COL, NPU, GSO)"
+phs000556,NHLBI,Disease-Specific (Cystic Fibrosis)
+phs002254,NHLBI,Disease-Specific (Cystic Fibrosis)
+phs001591,NIDCR,"Disease-Specific (Dental and Oral Health, MDS); Disease-Specific (Dental and Oral Health, Cardiac Health, MDS)"
+phs000681,NIDDK,"Disease-Specific (Diabetes and Heart Disease, IRB)"
+phs001412,NHLBI,"Disease-Specific (Diabetes and Heart Disease, IRB, COL, NPU); Health/Medical/Biomedical (IRB, COL, NPU); Exchange Area (IRB, COL, NPU)"
+phs001008,NHLBI,"Disease-Specific (Diabetes and Heart Disease, IRB, NPU, MDS, RD)"
+phs001014,NHLBI,"Disease-Specific (Diabetes and Heart Disease, IRB, NPU, MDS, RD)"
+phs001130,NHLBI,"Disease-Specific (Diabetes and Heart Disease, IRB, NPU, MDS, RD)"
+phs001215,NHLBI,"Disease-Specific (Diabetes and Heart Disease, IRB, PUB, MDS, RD); Exchange Area (IRB, PUB, MDS, RD)"
+phs001012,NHLBI,"Disease-Specific (Diabetes and Related Complications, IRB)"
+phs002116,NEI,"Disease-Specific (Diabetes and Related Complications, IRB)"
+phs001533,NIDDK,"Disease-Specific (Diabetes and Related Complications, IRB, MDS)"
+phs001222,NHGRI,"Disease-Specific (Diabetes and Related Complications, IRB, NPU)"
+phs002147,NIDDK,"Disease-Specific (Diabetes and Related Complications, PUB, NPU, GSO, RD)"
+phs000847,NIDDK,"Disease-Specific (Diabetes, IRB, RD)"
+phs000849,NIDDK,"Disease-Specific (Diabetes, IRB, RD)"
+phs002447,NIDDK,"Disease-Specific (Diabetes, NPU)"
+phs002434,NCI DAC,"Disease-Specific (Diffuse Large B-Cell Lymphoma, IRB, NPU)"
+phs002641,NHLBI,Disease-Specific (Dilated Cardiomyopathy)
+phs000718,NICHD,"Disease-Specific (Down Syndrome, IRB, RD)"
+phs000663,NIDDK,"Disease-Specific (Drug-Induced Liver Injury, IRB)"
+phs001504,NIDDK,"Disease-Specific (Endocrine Diseases, IRB, NPU, MDS)"
+phs000967,NHGRI,"Disease-Specific (Endometrial Cancer, COL)"
+phs001153,NHGRI,"Disease-Specific (Endometrial Cancer, COL)"
+phs000841,NHGRI,Disease-Specific (Endometrial Carcinoma)
+phs001894,NHGRI,"Disease-Specific (Epilepsy and Cognition, PUB, GSO)"
+phs000690,NINDS,"Disease-Specific (Epilepsy and seizure disorders, GSO); General Research Use"
+phs000742,NINDS,Disease-Specific (Epilepsy)
+phs002128,NINDS,Disease-Specific (Epilepsy); General Research Use
+phs000875,NINDS,"Disease-Specific (Epilepsy, GSO)"
+phs002067,NINDS,"Disease-Specific (Epilepsy, PUB, NPU, GSO); General Research Use (PUB, NPU)"
+phs001489,NHGRI,"Disease-Specific (Epilepsy, Structural Brain Abnormalities, Convulsions, Intellectual Disability, NPU, MDS, RD); Disease-Specific (Epilepsy and Anti-epileptic Drugs, IRB, NPU, MDS); Health/Medical/Biomedical; Disease-Specific (Epilepsy - Adults, NPU, MDS); Disease-Specific (Epilepsy and Anti-epileptic Drugs, MDS); Disease-Specific (Epilepsy, Antiseizure Medicines, MDS, RD); General Research Use (IRB); Disease-Specific (Nervous System Diseases, NPU, MDS); Disease-Specific (Neurology, Epilepsy, MDS); Disease-Specific (Epilepsy); General Research Use (NPU); Disease-Specific (Epilepsy, Antiseizure Medicines, MDS); Disease-Specific (Nervous System Diseases-Adults, NPU, MDS); Disease-Specific (Mental, Behavioral & Neurodevelopmental Disorders, NPU, MDS); Disease-Specific (Neurology, MDS); Disease-Specific (Epilepsy, MDS); Disease-Specific (Epilepsy and Epilepsy Comorbidities, MDS, RD); Health/Medical/Biomedical (NPU, MDS); Health/Medical/Biomedical (IRB, MDS, GSO); Disease-Specific (Epilepsy, Structural Brain Abnormalities, Intellectual Disability, MDS, RD); Disease-Specific (Cardiology, Neurology, MDS); Health/Medical/Biomedical (IRB, MDS); Disease-Specific (Epilepsy, NPU); Health/Medical/Biomedical (GSO); Disease-Specific (Epilepsy Multiple Disorders, MDS); Disease-Specific (Seizure Disorders); Disease-Specific (Epilepsy causes and Responses to Antiepileptic Tx, MDS); General Research Use; Disease-Specific (Epilepsy, Structural Brain Abnormalities, Convulsions, Intellectual Disability, MDS, RD); Disease-Specific (Epilepsy, Structural Brain Abnormalities, MDS, RD); Disease-Specific (Neurology - Adults, NPU); Health/Medical/Biomedical (MDS); Disease-Specific (Neuropsychiatric Disorders, IRB, NPU)"
+phs001724,NINDS,"Disease-Specific (Erythromelalgia, COL)"
+phs001448,NCI DAC,Disease-Specific (Esophageal Cancer)
+phs000966,NINDS,"Disease-Specific (Essential Tremor and Neurodegenerative Diseases, NPU, MDS, GSO, RD)"
+phs001452,NINDS,"Disease-Specific (Essential Tremor, COL, GSO)"
+phs001507,NINDS,"Disease-Specific (Essential Tremor, PUB, NPU)"
+phs002015,NEI,"Disease-Specific (Eye Disease, IRB, PUB); General Research Use (IRB, PUB)"
+phs001517,NEI,"Disease-Specific (Eye Disease, NPU, GSO)"
+phs001247,Kids First DAC,"Disease-Specific (Eye Movement Disorders); Disease-Specific (Eye and Lid Movement Disorders); Disease-Specific (Congenital Cranial Dysinnervation Disorders, RD)"
+phs002438,NICHD,"Disease-Specific (Facioscapulohumeral Muscular Dystrophy, IRB, NPU, MDS)"
+phs001233,NINDS,"Disease-Specific (Familial Dysautonomia, COL)"
+phs002463,NHGRI,"Disease-Specific (Focused Disease Only, IRB); General Research Use; Health/Medical/Biomedical (IRB); Health/Medical/Biomedical (IRB, MDS); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB, NPU)"
+phs000286,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs000402,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs000498,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs000499,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs001069,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs001098,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs001356,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs002256,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs002369,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB)"
+phs001378,NHGRI,"Disease-Specific (Follicular Lymphoma, PUB, NPU)"
+phs001853,NCI DAC,"Disease-Specific (Gastric Cancer, MDS)"
+phs002566,NCI DAC,"Disease-Specific (Gastric Cancer, NPU); Health/Medical/Biomedical (PUB, NPU); Disease-Specific (Gastric Cancer)"
+phs001936,NCI DAC,"Disease-Specific (Gastric Cancer, PUB, NPU, MDS)"
+phs002288,NCI DAC,"Disease-Specific (Gastroenterology related research, MDS)"
+phs001642,NHGRI,Disease-Specific (Gastrointestinal Diseases); Disease-Specific (Inflammatory Bowel Disease); General Research Use; Health/Medical/Biomedical
+phs001829,NCI DAC,"Disease-Specific (Gastrointestinal Diseases, MDS)"
+phs000771,NHGRI,Disease-Specific (Genitourinary Cancer); Disease-Specific (Bladder Cancer)
+phs001673,NEI,"Disease-Specific (Glaucoma, PUB, GSO)"
+phs001319,NCI DAC,"Disease-Specific (Glioma, PUB); Disease-Specific (Cancer); Disease-Specific (Glioma); General Research Use; General Research Use (COL); Disease-Specific (Glioma and Related Conditions); Disease-Specific (Brain Tumors)"
+phs001441,NIAID,"Disease-Specific (Gram negative bacteremia, IRB)"
+phs001505,NIAID,"Disease-Specific (Gram negative bacteremia, IRB)"
+phs002349,NIDCR,"Disease-Specific (Head and Neck Cancer); Disease-Specific (Head and Neck Cancer, NPU); Disease-Specific (Head and Neck Cancer, IRB, NPU)"
+phs002503,NIDCR,"Disease-Specific (Head and Neck Cancer); Health/Medical/Biomedical (IRB, NPU, GSO); Disease-Specific (Cancer); Health/Medical/Biomedical"
+phs002375,NIDCD DAC,"Disease-Specific (Head and neck squamous cell carcinoma, PUB)"
+phs002376,NIDCD DAC,"Disease-Specific (Head and neck squamous cell carcinoma, PUB)"
+phs001581,NIDCD DAC,"Disease-Specific (Head and neck squamous cell carcinoma, PUB, NPU); General Research Use (PUB, NPU)"
+phs002115,Kids First DAC,"Disease-Specific (Hearing Loss or Deafness); Health/Medical/Biomedical; Disease-Specific (Birth defects, major)"
+phs002325,NHGRI,Disease-Specific (Heart and Blood Vessel Disease)
+phs000883,NHLBI,Disease-Specific (Heart Disease)
+phs002204,NHLBI,"Disease-Specific (Heart Disease, IRB)"
+phs001501,NHLBI,"Disease-Specific (Heart Failure, IRB)"
+phs000954,NHLBI,"Disease-Specific (Heart, Lung, Blood, and Sleep Disorders, IRB, NPU); Exchange Area (IRB, NPU)"
+phs002121,NHGRI,Disease-Specific (Hematologic Disease)
+phs000159,NHGRI,Disease-Specific (Hematologic Disease); General Research Use
+phs000819,NHGRI,Disease-Specific (Hematologic Disease); Health/Medical/Biomedical
+phs002681,NCI DAC,Disease-Specific (Hematological Malignancies)
+phs001568,NCI DAC,"Disease-Specific (Hematological Malignancies, GSO)"
+phs001998,NCI DAC,"Disease-Specific (Hematological Malignancies, MDS); General Research Use"
+phs002185,NCI DAC,"Disease-Specific (Hematopoietic Cell Transplantation and Cell Therapy, GSO)"
+phs001710,NCI DAC,"Disease-Specific (Hematopoietic Cell Transplantation and Cell Therapy, IRB)"
+phs002635,NCI DAC,"Disease-Specific (Hematopoietic Cell Transplantation and Cell Therapy, IRB)"
+phs002615,NINDS,"Disease-Specific (hemimegalencephaly, RD)"
+phs001902,NIAID,"Disease-Specific (Hepatitis C, IRB, COL, NPU)"
+phs001744,NCI DAC,"Disease-Specific (Hepatocellular Carcinoma, IRB); Disease-Specific (Liver Cancer and Chronic Liver Disease, MDS)"
+phs002435,NCI DAC,"Disease-Specific (Hepatocellular Carcinoma, IRB, COL)"
+phs002439,NCI DAC,"Disease-Specific (Hepatocellular Carcinoma, IRB, COL)"
+phs001779,JAAMH,"Disease-Specific (Hereditary connective tissue disorders, IRB, COL, GSO, RD)"
+phs001619,NEI,"Disease-Specific (Hereditary Eye Diseases, NPU, GSO)"
+phs000707,NHGRI,"Disease-Specific (Hereditary Neurological Disorders, NPU)"
+phs001351,NINDS,"Disease-Specific (Hereditary Neuropathies, IRB, GSO)"
+phs000497,NHGRI,Disease-Specific (Hirschsprung Disease)
+phs001864,NCI DAC,"Disease-Specific (Histiocytoses, MDS)"
+phs002061,NCI DAC,"Disease-Specific (Human Immunodeficiency Virus, COL)"
+phs001253,NIAID,"Disease-Specific (Human Immunodeficiency Virus, IRB)"
+phs001484,NIAID,"Disease-Specific (Human Immunodeficiency Virus, IRB)"
+phs001849,NIAID,"Disease-Specific (Human Immunodeficiency Virus, IRB)"
+phs001548,NIAID,"Disease-Specific (Human Immunodeficiency Virus, PUB, NPU)"
+phs001655,NIAMS,Disease-Specific (Human Microbiome Research)
+phs000618,NHLBI,"Disease-Specific (Hypertriglyceridemia, MDS, RD)"
+phs000815,NIGMS,Disease-Specific (Immunological Research)
+phs001294,NHGRI,Disease-Specific (Immunological Research)
+phs002007,NIGMS,Disease-Specific (Immunological Research)
+phs002259,NIGMS,Disease-Specific (Immunological Research)
+phs000666,NIAID,"Disease-Specific (Immunological Research, IRB)"
+phs000934,NIAID,"Disease-Specific (Immunological Research, IRB)"
+phs001200,NIAID,"Disease-Specific (Immunological Research, IRB)"
+phs001324,NIAID,"Disease-Specific (Immunological Research, IRB)"
+phs001695,NHLBI,Disease-Specific (Infertility and Infertility Treatments)
+phs001076,NHGRI,Disease-Specific (Inflammatory Bowel Disease); General Research Use
+phs000367,NIDDK,"Disease-Specific (Inflammatory Bowel Disease, IRB)"
+phs000926,NIDDK,"Disease-Specific (Inflammatory Bowel Disease, IRB, RD)"
+phs002144,NIDDK,"Disease-Specific (Inflammatory Bowel Disease, PUB, COL)"
+phs001677,NIAMS,"Disease-Specific (Inherited Musculoskeletal Disorders, IRB); Disease-Specific (Scoliosis, idiopathic, IRB)"
+phs002112,NHGRI,"Disease-Specific (Intellectual Disability and Structural Birth Defects, IRB); Disease-Specific (Intellectual Disability, IRB)"
+phs001667,NIAID,"Disease-Specific (Kidney and Related Disorders, IRB, PUB, COL, NPU, MDS)"
+phs001736,NCI DAC,"Disease-Specific (Kidney Cancer); General Research Use (IRB, NPU); Cancer in all age groups, other diseases in adults, and methods; General Research Use"
+phs002150,NCI DAC,Disease-Specific (Kidney Cancer); Health/Medical/Biomedical
+phs001107,NCI DAC,"Disease-Specific (Kidney Cancer, IRB)"
+phs000863,NCI DAC,"Disease-Specific (Kidney Cancer, NPU, MDS)"
+phs001971,NCI DAC,Disease-Specific (Kidney Disease)
+phs002186,NIDDK,Disease-Specific (Kidney Disease); Health/Medical/Biomedical
+phs002053,NCI DAC,"Disease-Specific (Kidney Disease, IRB)"
+phs001670,NIAID,"Disease-Specific (Kidney Transplant Outcomes, IRB, PUB, COL, NPU, MDS)"
+phs001513,NCI DAC,Disease-Specific (Leukemia)
+phs001628,NCI DAC,Disease-Specific (Leukemia)
+phs001657,NCI DAC,Disease-Specific (Leukemia)
+phs001799,NCI DAC,Disease-Specific (Leukemia)
+phs002359,NCI DAC,Disease-Specific (LGL leukemia)
+phs001136,NHLBI,"Disease-Specific (Lipid Metabolism Control, IRB); Exchange Area use by Finnish Familial Dyslipedemia study investigators only"
+phs001784,NCI DAC,"Disease-Specific (Liver Cancer and Chronic Liver Disease, COL)"
+phs001930,NIDDK,Disease-Specific (Liver Disease)
+phs000855,NHGRI,"Disease-Specific (Lung Cancer and Thoracic Malignancies, MDS)"
+phs001464,NCI DAC,"Disease-Specific (Lung Cancer and Thoracic Malignancies, MDS)"
+phs002334,NCI DAC,"Disease-Specific (Lung Cancer and Thoracic Malignancies, MDS)"
+phs001920,NCI DAC,"Disease-Specific (Lung Cancer and Thoracic Malignancies, MDS); Disease-Specific (Brain Tumors); General Research Use"
+phs001618,NCI DAC,"Disease-Specific (Lung Cancer and Thoracic Malignancies, MDS); General Research Use"
+phs000876,eNCI DAC,"Disease-Specific (Lung Cancer or Smoking, RD); Exchange Area; Disease-Specific (Cancer); Lung Cancer Risk Factors; Health/Medical/Biomedical (MDS); Disease-Specific (Cancer, MDS)"
+phs000877,eNCI DAC,"Disease-Specific (Lung Cancer or Smoking, RD); Exchange Area; Disease-Specific (Cancer); Lung Cancer Risk Factors; Health/Medical/Biomedical (MDS); Disease-Specific (Cancer, MDS)"
+phs000878,eNCI DAC,"Disease-Specific (Lung Cancer or Smoking, RD); Exchange Area; Disease-Specific (Cancer); Lung Cancer Risk Factors; Health/Medical/Biomedical (MDS); Disease-Specific (Cancer, MDS)"
+phs001049,NHGRI,Disease-Specific (Lung Cancer)
+phs002556,NCI DAC,Disease-Specific (Lung Cancer)
+phs000728,NHGRI,Disease-Specific (Lung Cancer); General Research Use
+phs001980,NCI DAC,"Disease-Specific (Lung Cancer, COL)"
+phs001823,NCI DAC,"Disease-Specific (Lung Cancer, IRB)"
+phs000629,NCI DAC,"Disease-Specific (Lung Cancer, IRB, COL, MDS)"
+phs001811,NCI DAC,"Disease-Specific (Lung Cancer, NPU)"
+phs001366,NHGRI,"Disease-Specific (Lung Cancer, PUB, MDS)"
+phs001192,NCI DAC,"Disease-Specific (Lung Cancer, PUB, NPU)"
+phs001169,NCI DAC,"Disease-Specific (Lung disease or smoking, MDS)"
+phs002346,NCI DAC,"Disease-Specific (Lung disease or smoking, MDS)"
+phs002496,NCI DAC,"Disease-Specific (Lung disease or smoking, MDS)"
+phs001745,NHLBI,"Disease-Specific (Lung Disease, IRB, COL, NPU, GSO)"
+phs000751,NHLBI,"Disease-Specific (Lung Disease, IRB, PUB)"
+phs001180,NHLBI,"Disease-Specific (Lung Disease, RD)"
+phs001274,NHLBI,"Disease-Specific (Lung Disease, RD)"
+phs000624,NHLBI,"Disease-Specific (Lung Diseases, IRB, PUB, MDS)"
+phs001229,NHGRI,Disease-Specific (Lymphoma)
+phs002497,NCI DAC,"Disease-Specific (Lymphoma, GSO); Disease-Specific (Multiple Myeloma, IRB, PUB, GSO); Disease-Specific (Lymphoproliferative Disorders, IRB, PUB, GSO); General Research Use; Disease-Specific (Monoclonal Gammopathy of Undetermined Significance, PUB, GSO); Disease-Specific (Multiple Myeloma, IRB, NPU); Disease-Specific (Multiple Myeloma); Disease-Specific (Multiple Myeloma, PUB, GSO); Disease-Specific (Multiple Myeloma, GSO); Disease-Specific (Cancer, IRB, NPU)"
+phs000729,NCI DAC,"Disease-Specific (Lymphoma, MDS)"
+phs001407,NCI DAC,"Disease-Specific (Lynch Syndrome, PUB, NPU)"
+phs001137,JAAMH,"Disease-Specific (Major Depressive Disorder, NPU, GSO)"
+phs001346,NIAID,"Disease-Specific (Malaria, IRB)"
+phs001777,NICHD,"Disease-Specific (Male Infertility, IRB, PUB, COL)"
+phs001692,NHLBI,Disease-Specific (Male Reproductive and Urologic Health)
+phs001857,NCI DAC,"Disease-Specific (Mammographic Density and Breast Cancer Risk, MDS)"
+phs001694,NHLBI,Disease-Specific (Markers of HIV Infection)
+phs001005,NHGRI,Disease-Specific (Melanoma and Skin Cancer Research)
+phs001427,NHGRI,Disease-Specific (Melanoma and Skin Cancer Research)
+phs002683,NCI DAC,"Disease-Specific (Melanoma and Skin Cancer Research, MDS); Disease-Specific (Cancer, IRB, PUB)"
+phs002026,NCI DAC,Disease-Specific (Melanoma)
+phs000452,NHGRI,Disease-Specific (Melanoma); General Research Use
+phs000941,NCI DAC,"Disease-Specific (Melanoma, MDS); General Research Use"
+phs000977,NCI DAC,"Disease-Specific (Melanoma, MDS); General Research Use"
+phs000519,NCI DAC,"Disease-Specific (Melanoma, MDS); General Research Use (MDS)"
+phs000933,NCI DAC,"Disease-Specific (Melanoma, MDS, GSO)"
+phs001550,NCI DAC,"Disease-Specific (Melanoma, NPU)"
+phs001594,NCI DAC,"Disease-Specific (Melanoma, NPU)"
+phs001596,NCI DAC,"Disease-Specific (Melanoma, NPU)"
+phs001257,eNCI DAC,"Disease-Specific (Melanoma, PUB, NPU)"
+phs001070,NHGRI,"Disease-Specific (Melanoma, RD)"
+phs000722,NHGRI,Disease-Specific (Men's Health); General Research Use
+phs002114,JAAMH,"Disease-Specific (Mental Health, Cognition, Neurology, NPU, MDS); Disease-Specific (Mental Health, IRB, NPU, MDS); Health/Medical/Biomedical; Other (Patenting of any result is prohibited); General Research Use; Disease-Specific (Relationship between environment, physiological activity & adolescent health, MDS); Other-Limited to Research in Adult Population; Disease-Specific (Post Traumatic Stress Disorder); Health/Medical/Biomedical (IRB, NPU, MDS); Disease-Specific (Mental, Behavioral & Neurodevelopmental Disorders, IRB, NPU, MDS)"
+phs001768,ES DAC,Disease-Specific (Mercury and Other Environmental Exposures)
+phs002260,NCI DAC,"Disease-Specific (Merkel cell carcinoma, IRB, MDS)"
+phs002052,ES DAC,Disease-Specific (Mitochondrial Disease)
+phs001383,NHGRI,"Disease-Specific (Moebius Syndrome, RD); Disease-Specific (Strabismus, Congenital Cranial Dysinnervation Disorders, and related anomalies); Health/Medical/Biomedical (IRB)"
+phs001733,NINDS,Disease-Specific (Movement Disorders Phenotypes)
+phs001996,NINDS,"Disease-Specific (Movement Disorders Phenotypes, COL, GSO); Health/Medical/Biomedical (COL, GSO)"
+phs002498,NCI DAC,Disease-Specific (Multiple Myeloma)
+phs001015,NIAID,"Disease-Specific (Myalgic Encephalopathy - Chronic Fatigue Syndrome, IRB)"
+phs001778,NIDDK,Disease-Specific (Myelodysplasia)
+phs001518,NINR DAC,Disease-Specific (Myocardial Infarction)
+phs001991,NHLBI,"Disease-Specific (Myocardial Infarction); Disease-Specific (Asthma and Chronic Obstructive Pulmonary Disease); Health/Medical/Biomedical; Disease-Specific (COPD and Smoking, MDS, RD); Disease-Specific (Arteriosclerosis and Related Diseases, MDS); Disease-Specific (Chronic Obstructive Pulmonary Disease, RD); Disease-Specific (Chronic Obstructive Pulmonary Disease, MDS, RD); Disease-Specific (COPD and Smoking); Disease-Specific (Cardiovascular, metabolic disease and associated risk factors, MDS); Disease-Specific (Thromboembolic disorders and hemorrhage); Health/Medical/Biomedical (PUB); Disease-Specific (COPD and Smoking, RD); Disease-Specific (Data use is restricted to researchers studying cardiovascular disease, lipoprotein metabolism disorders/atherosclerosis); Disease-Specific (Familial Dilated Cardiomyopathy); Disease-Specific (Cardiovascular Disease); Health/Medical/Biomedical (GSO); Disease-Specific (Heart, Lung, and Blood diseases); General Research Use; Health/Medical/Biomedical (MDS); Disease-Specific (Heart Disease); Disease-Specific (cardiac inflammation)"
+phs000936,NHLBI,Disease-Specific (Myocardial Infarction); Disease-Specific (Cardiovascular Disease); General Research Use
+phs001342,NHLBI,"Disease-Specific (Myopathy, IRB, NPU, GSO)"
+phs001231,NINDS,Disease-Specific (neurologic and neuromuscular conditions); General Research Use
+phs002328,NINDS,Disease-Specific (Neurological and Related Disorders)
+phs001485,NINDS,"Disease-Specific (Neurological Diseases, PUB, GSO)"
+phs001424,NCI DAC,"Disease-Specific (Neurological Disorders and Cancer, MDS)"
+phs001488,NINDS,"Disease-Specific (Neurological Disorders Research, COL)"
+phs000757,NINDS,"Disease-Specific (Neurological Disorders Research, IRB)"
+phs001067,NIAID,"Disease-Specific (Neurological Disorders Research, IRB)"
+phs001854,NCI DAC,"Disease-Specific (Neurological Disorders Research, MDS)"
+phs000655,NHGRI,Disease-Specific (Neuromuscular Disease); General Research Use; Health/Medical/Biomedical
+phs002392,NICHD,"Disease-Specific (Niemann-Pick disease type C1, IRB)"
+phs001837,NIDDK,"Disease-Specific (Nonalcoholic Fatty Liver Disease, IRB, NPU); Health/Medical/Biomedical (IRB, NPU)"
+phs000801,NCI DAC,"Disease-Specific (non-Hodgkin Lymphoma, NPU, GSO); Disease-Specific (Cancer, IRB, NPU, GSO); General Research Use (NPU, MDS)"
+phs000802,NCI DAC,"Disease-Specific (non-Hodgkin Lymphoma, NPU, GSO); Disease-Specific (Cancer, IRB, NPU, GSO); General Research Use (NPU, MDS)"
+phs000818,NCI DAC,"Disease-Specific (non-Hodgkin Lymphoma, NPU, GSO); Disease-Specific (Cancer, IRB, NPU, GSO); General Research Use (NPU, MDS)"
+phs000889,NCI DAC,"Disease-Specific (non-Hodgkin Lymphoma, NPU, GSO); Disease-Specific (Cancer, IRB, NPU, GSO); General Research Use (NPU, MDS)"
+phs000890,NCI DAC,"Disease-Specific (non-Hodgkin Lymphoma, NPU, GSO); Disease-Specific (Cancer, IRB, NPU, GSO); General Research Use (NPU, MDS)"
+phs000891,NCI DAC,"Disease-Specific (non-Hodgkin Lymphoma, NPU, GSO); Disease-Specific (Cancer, IRB, NPU, GSO); General Research Use (NPU, MDS)"
+phs002296,NINDS,"Disease-Specific (Normal Pressure Hydrocephalus, IRB, NPU, GSO)"
+phs000616,NIDDK,"Disease-Specific (Obesity, IRB, RD)"
+phs000903,JAAMH,Disease-Specific (Obsessive Compulsive Disorder and other psychiatric conditions)
+phs001929,JAAMH,Disease-Specific (Obsessive Compulsive Disorder)
+phs000625,NHGRI,"Disease-Specific (Oral Clefts, GSO); Disease-Specific (Orofacial Cleft); Disease-Specific (Craniofacial Disorders)"
+phs000095,NIDCR,"Disease-Specific (Oral Health, GSO)"
+phs001420,Kids First DAC,"Disease-Specific (Orofacial birth defects and related phenotypes, RD)"
+phs001675,NIDCR,"Disease-Specific (Orofacial birth defects and related phenotypes, RD); Health/Medical/Biomedical (MDS); Disease-Specific (Craniofacial Research); Disease-Specific (Orofacial birth defects and related phenotypes, MDS, RD)"
+phs001168,Kids First DAC,"Disease-Specific (Orofacial birth defects, MDS); Disease-Specific (Oral Clefts, PUB, MDS); General Research Use; Health/Medical/Biomedical (MDS); Disease-Specific (Orofacial birth defects and related phenotypes, MDS)"
+phs000955,NIAMS,"Disease-Specific (Osteoarthritis, RD)"
+phs001941,NIDCD DAC,"Disease-Specific (Otitis Media, IRB, PUB, COL, NPU, MDS, GSO); Disease-Specific (Otitis Media, IRB, PUB, NPU, MDS, GSO)"
+phs001131,NCI DAC,"Disease-Specific (Ovarian Cancer); Disease-Specific (Ovarian Cancer, NPU); Disease-Specific (Cancer); Disease-Specific (Ovarian Cancer, MDS); Disease-Specific (Ovarian Cancer, NPU, MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); Disease-Specific (Ovarian Tumors); General Research Use; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Ovarian Cancer, MDS, GSO); General Research Use (COL); Ovarian Cancer Only; Health/Medical/Biomedical (PUB, NPU)"
+phs001132,NCI DAC,"Disease-Specific (Ovarian Cancer); Disease-Specific (Ovarian Cancer, NPU); Disease-Specific (Cancer); Disease-Specific (Ovarian Cancer, MDS); Disease-Specific (Ovarian Cancer, NPU, MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); Disease-Specific (Ovarian Tumors); General Research Use; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Ovarian Cancer, MDS, GSO); General Research Use (COL); Ovarian Cancer Only; Health/Medical/Biomedical (PUB, NPU)"
+phs001133,NCI DAC,"Disease-Specific (Ovarian Cancer); Disease-Specific (Ovarian Cancer, NPU); Disease-Specific (Cancer); Disease-Specific (Ovarian Cancer, MDS); Disease-Specific (Ovarian Cancer, NPU, MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); Disease-Specific (Ovarian Tumors); General Research Use; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Ovarian Cancer, MDS, GSO); General Research Use (COL); Ovarian Cancer Only; Health/Medical/Biomedical (PUB, NPU)"
+phs001142,NCI DAC,"Disease-Specific (Ovarian Cancer); Disease-Specific (Ovarian Cancer, NPU); Disease-Specific (Cancer); Disease-Specific (Ovarian Cancer, MDS); Disease-Specific (Ovarian Cancer, NPU, MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); Disease-Specific (Ovarian Tumors); General Research Use; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Ovarian Cancer, MDS, GSO); General Research Use (COL); Ovarian Cancer Only; Health/Medical/Biomedical (PUB, NPU)"
+phs001150,NCI DAC,"Disease-Specific (Ovarian Cancer); Disease-Specific (Ovarian Cancer, NPU); Disease-Specific (Cancer); Disease-Specific (Ovarian Cancer, MDS); Disease-Specific (Ovarian Cancer, NPU, MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); Disease-Specific (Ovarian Tumors); General Research Use; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Ovarian Cancer, MDS, GSO); General Research Use (COL); Ovarian Cancer Only; Health/Medical/Biomedical (PUB, NPU)"
+phs001882,NCI DAC,"Disease-Specific (Ovarian Cancer, NPU); Health/Medical/Biomedical; Disease-Specific (Ovarian Cancer, MDS); Disease-Specific (Cancer); Disease-Specific (Cancer, NPU, GSO); Disease-Specific (Cancer, MDS); Disease-Specific (Cancer, PUB); Disease-Specific (Ovarian Cancer); General Research Use (NPU); Disease-Specific (Ovarian Tumors); Cancer in all age groups, other diseases in adults only, and methods; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Breast and Ovarian cancer); Health/Medical/Biomedical (PUB, MDS); General Research Use (COL); Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS); Health/Medical/Biomedical (PUB); Health/Medical/Biomedical (PUB, NPU); General Research Use (PUB, NPU); Disease-Specific (Ovarian Cancer, NPU, MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); General Research Use; Disease-Specific (Ovarian Cancer, MDS, GSO); Ovarian Cancer Only"
+phs001480,NINR DAC,"Disease-Specific (Paclitaxel-associated pain, NPU); Disease-Specific (Cancer, NPU)"
+phs000648,NCI DAC,Disease-Specific (Pancreatic Cancer)
+phs000953,NCI DAC,"Disease-Specific (Pancreatic Cancer, IRB, NPU, MDS)"
+phs001910,NCI DAC,"Disease-Specific (Pancreatic Cancer, MDS); Health/Medical/Biomedical; Disease-Specific (Pancreatic Cancer, NPU, MDS)"
+phs002394,NCI DAC,"Disease-Specific (Pancreatic Cancer, PUB)"
+phs002063,NINDS,Disease-Specific (Parkinson's Disease and other Brain Disorders)
+phs000126,NINDS,"Disease-Specific (Parkinson's Disease and Related Disorders, NPU); General Research Use"
+phs000376,NINDS,Disease-Specific (Parkinson's disease or other neurodegenerative disorders)
+phs001664,NINDS,"Disease-Specific (Parkinson's disease or other neurodegenerative disorders, PUB, MDS, GSO); Disease-Specific (Parkinson's Disease); General Research Use; Disease-Specific (Parkinson's disease or other neurodegenerative disorders, PUB, MDS); Disease-Specific (Neurological Disorders Research, IRB, NPU); Disease-Specific (Parkinson's disease or other neurodegenerative disorders, PUB); Health/Medical/Biomedical (IRB, NPU, MDS); Disease-Specific (Parkinson's disease or other neurodegenerative disorders, MDS)"
+phs002132,NINDS,Disease-Specific (Parkinson's Disease)
+phs001897,NIAID,"Disease-Specific (Peanut Hypersensitivity, IRB)"
+phs000614,NCI DAC,"Disease-Specific (Pediatric Brain Disorders and Pediatric Brain Cancer, NPU, MDS)"
+phs002009,NCI DAC,Disease-Specific (Pediatric Cancer Research)
+phs002206,NHGRI,"Disease-Specific (Pediatric Disease, IRB)"
+phs000828,NCI DAC,"Disease-Specific (Pediatric Liver Cancer, GSO)"
+phs001439,NICHD,"Disease-Specific (Pelvic Floor Disorders, RD)"
+phs001785,Kids First DAC,Disease-Specific (PHACE Syndrome); Health/Medical/Biomedical
+phs001323,NCI DAC,Disease-Specific (plasma cell dyscrasias)
+phs001277,NHGRI,"Disease-Specific (Platelet Function, RD)"
+phs002103,JAAMH,"Disease-Specific (Post-partum depression, IRB, PUB)"
+phs001523,NICHD,"Disease-Specific (Pregnancy Complications, IRB, PUB, MDS)"
+phs000714,NICHD,"Disease-Specific (Pregnancy Complications, RD)"
+phs000332,NICHD,Disease-Specific (Preterm Birth)
+phs001693,NHLBI,Disease-Specific (Pre-Term Labor)
+phs000661,NHGRI,Disease-Specific (Prostate Cancer)
+phs000733,NCI DAC,Disease-Specific (Prostate Cancer)
+phs002462,NCI DAC,"Disease-Specific (Prostate Cancer, IRB)"
+phs001221,NCI DAC,"Disease-Specific (Prostate Cancer, IRB, NPU, MDS)"
+phs002056,NCI DAC,"Disease-Specific (Prostate Cancer, IRB, NPU, MDS); Disease-Specific (Prostate Cancer); Disease-Specific (Prostate Cancer, PUB, MDS); General Research Use; Disease-Specific (Prostate Cancer, MDS); Disease-Specific (Prostate Cancer, IRB, PUB, MDS); Health/Medical/Biomedical (MDS); Health/Medical/Biomedical (PUB, MDS); Disease-Specific (Cancer, MDS); Disease-Specific (Prostate Cancer, IRB, MDS); Health/Medical/Biomedical (IRB, MDS); Disease-Specific (Prostate Cancer, PUB, NPU, MDS)"
+phs000717,NCI DAC,"Disease-Specific (Prostate Cancer, MDS)"
+phs000985,NCI DAC,"Disease-Specific (Prostate Cancer, PUB, MDS)"
+phs001921,NCI DAC,"Disease-Specific (Prostate Disease, PUB, NPU, MDS)"
+phs001688,NIAMS,"Disease-Specific (Psoriasis and related diseases, NPU)"
+phs000486,JAAMH,Disease-Specific (Psychiatric Disorders and Related Somatic Conditions)
+phs000738,JAAMH,Disease-Specific (Psychiatric Disorders and Related Somatic Conditions)
+phs000775,JAAMH,Disease-Specific (Psychiatric Disorders and Related Somatic Conditions); General Research Use
+phs000866,JAAMH,"Disease-Specific (Psychiatric Disorders and Related Somatic Conditions, RD)"
+phs000719,NIAID,"Disease-Specific (Pulmonary non-tuberculous mycobacterial infection, IRB)"
+phs002358,NHLBI,"Disease-Specific (Pulmonary Vascular Disease, IRB, COL, NPU); Exchange Area (IRB, COL, NPU)"
+phs001607,NHLBI,"Disease-Specific (Pulmonary, Interstitial Lung Disease, IRB, NPU); Disease-Specific (Pulmonary Fibrosis, IRB, NPU); Disease-Specific (Interstitial Lung Disease, IRB, NPU); Exchange Area (IRB, NPU); Disease-Specific (Lung Disease, IRB, NPU); Health/Medical/Biomedical (IRB, NPU)"
+phs002252,NCI DAC,"Disease-Specific (Renal Cell Carcinoma, MDS)"
+phs001018,NHGRI,"Disease-Specific (Renal Cell Carcinoma, MDS, RD)"
+phs001023,NHGRI,Disease-Specific (Reproductive Disorders)
+phs002039,NIAID,Disease-Specific (Respiratory Viral Infections)
+phs002373,NIDCD DAC,"Disease-Specific (Respiratory Viral Infections, PUB)"
+phs002374,NIDCD DAC,"Disease-Specific (Respiratory Viral Infections, PUB)"
+phs002393,NEI,"Disease-Specific (Retinal Diseases, NPU, GSO); Disease-Specific (Retinal Diseases, NPU)"
+phs002459,NEI,"Disease-Specific (Retinal Diseases, PUB)"
+phs001207,NHLBI,"Disease-Specific (Sarcoidosis, IRB); Exchange Area (IRB)"
+phs002305,NCI DAC,Disease-Specific (Sarcoma); General Research Use
+phs001196,JAAMH,"Disease-Specific (Schizophrenia and related disorders, GSO, RD)"
+phs000959,JAAMH,"Disease-Specific (Schizophrenia and related disorders, IRB, GSO); Health/Medical/Biomedical (IRB, GSO)"
+phs002041,JAAMH,"Disease-Specific (Schizophrenia and related disorders, MDS); General Research Use; Disease-Specific (Mental Health, MDS)"
+phs001656,JAAMH,"Disease-Specific (Schizophrenia, Bipolar Disorder, and genetically related illnesses, IRB, RD)"
+phs002107,NIAMS,"Disease-Specific (Scoliosis, idiopathic)"
+phs002470,NHLBI,Disease-Specific (Sickle Cell Disease)
+phs001608,NHLBI,"Disease-Specific (Sickle Cell Disease, IRB, PUB, COL, MDS, RD); Exchange Area (IRB, PUB, COL, MDS, RD)"
+phs002383,NHLBI,"Disease-Specific (Sickle Cell Disease, IRB, PUB, COL, NPU, MDS, RD)"
+phs001514,NHLBI,"Disease-Specific (Sickle Cell Disease, IRB, PUB, COL, NPU, MDS, RD); Exchange Area (IRB, PUB, COL, NPU, MDS, RD); Health/Medical/Biomedical (IRB, PUB, COL, NPU, MDS, GSO)"
+phs002415,NHLBI,"Disease-Specific (Sickle Cell Disease, IRB, RD)"
+phs000785,NIAMS,Disease-Specific (Skin Cancer)
+phs001270,NINDS,Disease-Specific (Sleep and Circadian Disorders)
+phs000153,NHLBI,"Disease-Specific (Social Network, IRB, MDS); Disease-Specific (Social Network, IRB, NPU, MDS)"
+phs002032,JAAMH,"Disease-Specific (Spinal Muscular Atrophy, MDS); General Research Use"
+phs000546,NHLBI,"Disease-Specific (Stroke, IRB, RD)"
+phs000615,NINDS,"Disease-Specific (Stroke, NPU); General Research Use (NPU)"
+phs002125,NINDS,"Disease-Specific (Stroke, PUB, COL, NPU, MDS)"
+phs001804,JAAMH,Disease-Specific (Substance Use Disorders)
+phs001841,JAAMH,"Disease-Specific (Substance Use Disorders, IRB, NPU)"
+phs001647,JAAMH,"Disease-Specific (Substance Use Disorders, IRB, NPU, MDS, GSO)"
+phs001609,NIAMS,"Disease-Specific (Systemic lupus erythematosus, GSO); Disease-Specific (Autoimmune Diseases); Disease-Specific (Systemic lupus erythematosus, PUB); Disease-Specific (Systemic lupus erythematosus, IRB, PUB, NPU, MDS)"
+phs001025,NIAMS,"Disease-Specific (Systemic lupus erythematosus, NPU, MDS, RD)"
+phs000761,NIDCR,"Disease-Specific (Temporomandibular Joint Disorder, RD)"
+phs000762,NIDCR,"Disease-Specific (Temporomandibular Joint Disorder, RD)"
+phs000796,NIDCR,"Disease-Specific (Temporomandibular Joint Disorder, RD)"
+phs000850,NIDCR,"Disease-Specific (Temporomandibular Joint Disorder, RD)"
+phs001303,NCI DAC,"Disease-Specific (Testicular Cancer, COL, MDS); General Research Use"
+phs000708,NHLBI,Disease-Specific (Thromboembolic disorders and hemorrhage)
+phs001423,JAAMH,"Disease-Specific (Tourette Syndrome, IRB, PUB, GSO, RD)"
+phs000415,NINDS,"Disease-Specific (Tourette Syndrome, NPU); General Research Use"
+phs002332,JAAMH,"Disease-Specific (Tourette, Other Related Disorders, Other Developmental Disorders, IRB)"
+phs001475,NIAID,"Disease-Specific (Tropical Enteropathy, IRB, PUB, NPU, MDS, GSO, RD)"
+phs001476,NIAID,"Disease-Specific (Tropical Enteropathy, IRB, PUB, NPU, MDS, GSO, RD)"
+phs001478,NIAID,"Disease-Specific (Tropical Enteropathy, IRB, PUB, NPU, MDS, GSO, RD)"
+phs001665,NIAID,"Disease-Specific (Tropical Enteropathy, IRB, PUB, NPU, MDS, GSO, RD)"
+phs001891,NIAID,"Disease-Specific (Tropical Enteropathy, IRB, PUB, NPU, MDS, GSO, RD)"
+phs001236,NHLBI,"Disease-Specific (Tuberous Sclerosis Complex, IRB, NPU, MDS, GSO)"
+phs001531,NHLBI,"Disease-Specific (Turner Syndrome, IRB, NPU, MDS)"
+phs000018,NIDDK,"Disease-Specific (Type 1 Diabetes, Complications, and Related Traits, IRB)"
+phs002468,NIDDK,"Disease-Specific (Type 1 Diabetes, Complications, and Related Traits, IRB)"
+phs000180,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB)"
+phs000910,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"
+phs000911,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"
+phs001037,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"
+phs001426,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"
+phs001442,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"
+phs001443,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"
+phs001562,NIDDK,"Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"
+phs001535,NIDDK,"Disease-Specific (Type 2 Diabetes or Gestational Diabetes Mellitus, IRB, COL)"
+phs001844,NHGRI,Disease-Specific (Type 2 Diabetes)
+phs000737,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs000840,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs001093,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs001095,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs001096,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs001102,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs001167,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs000838,NCI DAC,"Disease-Specific (Urinary Conditions, MDS)"
+phs002637,NCI DAC,"Disease-Specific (Urinary Conditions, MDS); Health/Medical/Biomedical (PUB); Disease-Specific (Cancer, PUB); Health/Medical/Biomedical; Disease-Specific (Prostate Cancer); General Research Use; Disease-Specific (Prostate Cancer, MDS); Disease-Specific (Cancer, Heart Disease, Stroke, Alzheimer Disease, and Diabetes, MDS); Disease-Specific (Prostate Cancer, IRB, PUB, MDS); Disease-Specific (Cancer, IRB)"
+phs001152,NHGRI,"Disease-Specific (Uterine Endometrial Carcinosarcoma, COL)"
+phs001409,NICHD,"Disease-Specific (Uterine Fibroids, PUB, COL)"
+phs001953,NCI DAC,"Disease-Specific (Uveal Melanoma, GSO)"
+phs000224,NIAMS,Disease-Specific (Vitiligo); Disease-Specific (Vitiligo or Autoimmune Disorders)
+phs000602,eNCI DAC,Disease-specific-Cancer
+phs000540,NHGRI,Disorders of Connective Tissues
+phs000361,NCI DAC,Esophageal and gastric cancer in adults; Cancer and other important diseases in adults
+phs001467,NHLBI,Exchange Area (COL); Health/Medical/Biomedical (COL)
+phs001661,NHLBI,"Exchange Area (GSO); Disease-Specific (Asthma, GSO)"
+phs001624,NHLBI,Exchange Area (GSO); Health/Medical/Biomedical (GSO)
+phs001359,NHLBI,"Exchange Area (IRB); Disease-Specific (Cardiovascular Disease, IRB)"
+phs001600,NHLBI,"Exchange Area (IRB); Disease-Specific (Cardiovascular Disease, IRB)"
+phs001211,NHLBI,"Exchange Area (IRB); Disease-Specific (Cardiovascular Disease, IRB); Health/Medical/Biomedical (IRB)"
+phs001217,NHLBI,"Exchange Area (IRB); Disease-Specific (High blood pressure and related cardiovascular-renal disease, IRB)"
+phs001293,NHLBI,"Exchange Area (IRB); General Research Use (IRB); Disease-Specific (Cardiovascular Disease, IRB, RD)"
+phs000920,NHLBI,"Exchange Area (IRB, COL); Disease-Specific (Lung Diseases, IRB, COL)"
+phs000921,NHLBI,"Exchange Area (IRB, COL); Disease-Specific (Lung Diseases, IRB, COL)"
+phs001542,NHLBI,"Exchange Area (IRB, COL); Disease-Specific (Lung Diseases, IRB, COL)"
+phs001599,NHLBI,"Exchange Area (IRB, COL); Health/Medical/Biomedical (IRB, COL)"
+phs002338,NHLBI,"Exchange Area (IRB, NPU); Health/Medical/Biomedical (IRB, NPU)"
+phs001237,NHLBI,"Exchange Area (IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs001612,NHLBI,"Exchange Area (IRB, NPU); Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs001218,NHLBI,"Exchange Area (IRB, NPU, MDS); Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS)"
+phs002382,NHLBI,"Exchange Area (IRB, PUB); General Research Use (IRB, PUB)"
+phs001682,NHLBI,"Exchange Area (IRB, PUB, COL); Disease-Specific (Sickle Cell Disease, IRB, PUB, COL)"
+phs001606,NHLBI,Exchange Area (MDS); General Research Use
+phs001933,NHLBI,Exchange Area (MDS); Health/Medical/Biomedical (MDS)
+phs001662,NHLBI,Exchange Area (MDS); Health/Medical/Biomedical (MDS)
+phs001472,NHLBI,"Exchange Area (MDS, RD); Disease-Specific (COPD and Smoking, MDS, RD)"
+phs001435,NHLBI,"Exchange Area (NPU, MDS); Health/Medical/Biomedical (NPU, MDS)"
+phs001544,NHLBI,"Exchange Area (NPU, MDS); Health/Medical/Biomedical (NPU, MDS)"
+phs001598,NHLBI,"Exchange Area (NPU, MDS); Health/Medical/Biomedical (NPU, MDS)"
+phs001368,NHLBI,"Exchange Area (NPU, MDS); Health/Medical/Biomedical (NPU, MDS); Health/Medical/Biomedical (MDS); Disease-Specific (Cardiovascular Disease, MDS); Disease-Specific (Cardiovascular Disease, NPU, MDS)"
+phs000200,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000281,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000315,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000386,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000503,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000675,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000746,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs001334,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs001335,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs001614,NHLBI,"Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000555,NHLBI,Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000810,NHLBI,Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000880,NHLBI,Exchange Area use by PAGE study investigators only; Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000812,NCI DAC,"Exchange Area; Cancer in all age groups, other disease in adults only and methods ; General Research Use (MDS); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); Health/Medical/Biomedical (PUB, MDS)"
+phs000220,NHGRI,Exchange Area; Cancer Research and Methods; General Research Use
+phs000279,NHLBI,Exchange Area; Cardiovascular Disease
+phs001477,CDAC,Exchange Area; Consent Group 1; Consent Group 2
+phs001109,JAAMH,"Exchange Area; Disease-Specific (Addictive Disorders, IRB, NPU)"
+phs001726,NHLBI,Exchange Area; Disease-Specific (Asthma and Chronic Obstructive Pulmonary Disease)
+phs000988,NHLBI,"Exchange Area; Disease-Specific (Asthma, IRB, MDS, RD)"
+phs001062,NHLBI,"Exchange Area; Disease-Specific (Atrial Fibrillation, IRB, RD); Health/Medical/Biomedical (IRB)"
+phs000634,NCI DAC,Exchange Area; Disease-Specific (Cancer); General Research Use (MDS)
+phs000756,NHGRI,Exchange Area; Disease-Specific (Cardio-Brain-Cancer-Diabetes-Asthma-Allergy)
+phs001735,NHLBI,Exchange Area; Disease-Specific (Congenital Heart Disease); Health/Medical/Biomedical
+phs000946,NHLBI,"Exchange Area; Disease-Specific (COPD and Smoking, RD)"
+phs000964,NHLBI,"Exchange Area; Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB, NPU)"
+phs002302,NHLBI,Exchange Area; Disease-Specific (Hemophilia)
+phs001239,NCI DAC,"Exchange Area; Disease-Specific (Lung disease or smoking, MDS)"
+phs000748,NCI DAC,"Exchange Area; Disease-Specific (Myeloma and other cancer-related disorders, MDS); General Research Use (MDS)"
+phs000749,NCI DAC,"Exchange Area; Disease-Specific (Myeloma and other cancer-related disorders, MDS); General Research Use (MDS)"
+phs001466,NHLBI,"Exchange Area; Disease-Specific (Sickle Cell Disease, RD); Health/Medical/Biomedical; Disease-Specific (Sickle Cell Disease)"
+phs000743,NIDDK,"Exchange Area; Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs000752,NIDDK,"Exchange Area; Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs000919,NIDDK,"Exchange Area; Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs001100,NIDDK,"Exchange Area; Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs000222,NINDS,Exchange Area; General Research Use
+phs000424,NHGRI,Exchange Area; General Research Use
+phs000925,NHGRI,Exchange Area; General Research Use
+phs001033,NHGRI,Exchange Area; General Research Use
+phs001402,NHLBI,Exchange Area; General Research Use
+phs001434,NHLBI,Exchange Area; General Research Use
+phs001446,NHLBI,Exchange Area; General Research Use
+phs001546,NHLBI,Exchange Area; General Research Use
+phs001569,NHLBI,Exchange Area; General Research Use
+phs001602,NHLBI,Exchange Area; General Research Use
+phs001603,NHLBI,Exchange Area; General Research Use
+phs001604,NHLBI,Exchange Area; General Research Use
+phs001725,NHLBI,Exchange Area; General Research Use
+phs001974,NHLBI,Exchange Area; General Research Use
+phs002453,NHLBI,Exchange Area; General Research Use
+phs000291,NHLBI,Exchange Area; General Research Use
+phs001134,NCI DAC,Exchange Area; General Research Use
+phs001163,NCI DAC,Exchange Area; General Research Use
+phs001032,NHLBI,Exchange Area; General Research Use (IRB)
+phs001189,NHLBI,Exchange Area; General Research Use (IRB)
+phs001927,NHLBI,"Exchange Area; General Research Use (NPU); General Research Use; Disease-Specific (Chronic Obstructive Pulmonary Disease, NPU); Disease-Specific (Chronic Obstructive Pulmonary Disease)"
+phs000799,NCI DAC,"Exchange Area; General Research Use (PUB, NPU)"
+phs000254,NHLBI,Exchange Area; General Research Use; Disease-Specific (Cystic Fibrosis)
+phs000334,NHLBI,Exchange Area; Health/Medical/Biomedical
+phs000631,NHLBI,Exchange Area; Health/Medical/Biomedical
+phs000686,NHLBI,Exchange Area; Health/Medical/Biomedical
+phs001024,NHLBI,Exchange Area; Health/Medical/Biomedical
+phs001040,NHLBI,Exchange Area; Health/Medical/Biomedical
+phs001174,NHGRI,Exchange Area; Health/Medical/Biomedical
+phs000997,NHLBI,Exchange Area; Health/Medical/Biomedical (IRB)
+phs000956,NHLBI,"Exchange Area; Health/Medical/Biomedical (IRB, MDS)"
+phs000993,NHLBI,"Exchange Area; Health/Medical/Biomedical (IRB, MDS); Disease-Specific (Cardiovascular Disease, IRB, MDS)"
+phs000974,NHLBI,"Exchange Area; Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000813,NCI DAC,Exchange Area; Health/Medical/Biomedical (MDS)
+phs000517,eNCI DAC,Exchange Area; Health/Medical/Biomedical (MDS); Disease-Specific (Cancer); General Research Use (MDS)
+phs001395,NHLBI,Exchange Area; Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs001416,NHLBI,Exchange Area; Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000296,NHLBI,"Exchange Area; Health/Medical/Biomedical; Disease-Specific (COPD and Smoking, RD)"
+phs000765,NHLBI,"Exchange Area; Health/Medical/Biomedical; Disease-Specific (COPD and Smoking, RD)"
+phs000951,NHLBI,"Exchange Area; Health/Medical/Biomedical; Disease-Specific (COPD and Smoking, RD)"
+phs000182,NEI,Eye Disease Research Only; General Research Use
+phs000246,NEI,Eye Disease Research Only; General Research Use
+phs000421,NEI,FECD Studies Only; Eye Disease Research Only; General Research Use
+phs000310,NHGRI,"For general medical research, for non-profit only"
+phs000311,NHGRI,"For general medical research, for non-profit only"
+phs000807,NIGMS,"For the use in future research to learn about, prevent or treat cancer"
+phs000250,NIGMS,"For use in future research to learn about, prevent or treat cancer"
+phs000305,NIGMS,"For use in the future research to learn about, prevent or treat cancer"
+phs000204,NHLBI,Freeman Sheldon Syndrome Exome - General Research Use
+phs000199,NIGMS,General research use
+phs000211,NIGMS,General research use
+phs000288,NHGRI,General Research
+phs000089,NINDS,General research use
+phs000103,NHGRI,General Research Use
+phs000122,NIAMS,General Research Use
+phs000124,NCI DAC,General Research Use
+phs000138,JAAMH,General Research Use
+phs000142,NEI,General Research Use
+phs000144,NHGRI,General Research Use
+phs000147,NCI DAC,General Research Use
+phs000169,JAAMH,General Research Use
+phs000178,NCI DAC,General Research Use
+phs000187,NCI DAC,General Research Use
+phs000205,NICHD,General Research Use
+phs000208,NHGRI,General Research Use
+phs000215,JAAMH,General Research Use
+phs000216,NIAMS,General Research Use
+phs000221,NHLBI,General Research Use
+phs000225,NIAMS,General Research Use
+phs000249,JAAMH,General Research Use
+phs000253,NHLBI,General Research Use
+phs000268,NIGMS,General Research Use
+phs000272,NIAMS,General Research Use
+phs000274,NIDDK,General Research Use
+phs000276,NHLBI,General Research Use
+phs000290,NHLBI,General Research Use
+phs000293,NINDS,General Research Use
+phs000294,NHLBI,General Research Use
+phs000303,NEI,General Research Use
+phs000304,NHLBI,General Research Use
+phs000313,JAAMH,General Research Use
+phs000314,NICHD,General Research Use
+phs000335,NHLBI,General Research Use
+phs000338,JAAMH,General Research Use
+phs000339,None,General Research Use
+phs000340,eNCI DAC,General Research Use
+phs000341,eNCI DAC,General Research Use
+phs000344,NINDS,General Research Use
+phs000349,NHLBI,General Research Use
+phs000352,NCI DAC,General Research Use
+phs000354,NHLBI,General Research Use
+phs000355,NHLBI,General Research Use
+phs000356,NHGRI,General Research Use
+phs000366,NHLBI,General Research Use
+phs000374,NHGRI,General Research Use
+phs000379,NHLBI,General Research Use
+phs000382,NINDS,General Research Use
+phs000384,NCI DAC,General Research Use
+phs000385,NCI DAC,General Research Use
+phs000389,NIDDK,General Research Use
+phs000392,NHGRI,General Research Use
+phs000393,JAAMH,General Research Use
+phs000395,NCI DAC,General Research Use
+phs000405,NHGRI,General Research Use
+phs000406,JAAMH,General Research Use
+phs000409,NCI DAC,General Research Use
+phs000413,NCI DAC,General Research Use
+phs000414,NCI DAC,General Research Use
+phs000417,JAAMH,General Research Use
+phs000422,NHLBI,General Research Use
+phs000430,JAAMH,General Research Use
+phs000435,NHGRI,General Research Use
+phs000441,TCGA,General Research Use
+phs000442,NHLBI,General Research Use
+phs000448,JAAMH,General Research Use
+phs000451,JAAMH,General Research Use
+phs000455,NINDS,General Research Use
+phs000456,NHGRI,General Research Use
+phs000461,NEI,General Research Use
+phs000473,JAAMH,General Research Use
+phs000475,NHGRI,General Research Use
+phs000479,NHLBI,General Research Use
+phs000481,NHLBI,General Research Use
+phs000489,TCGA,General Research Use
+phs000490,NHGRI,General Research Use
+phs000491,NCI DAC,General Research Use
+phs000500,NHGRI,General Research Use
+phs000501,CDAC,General Research Use
+phs000505,eNCI DAC,General Research Use
+phs000509,NHGRI,General Research Use
+phs000514,NHGRI,General Research Use
+phs000516,NHGRI,General Research Use
+phs000518,NHLBI,General Research Use
+phs000523,NIDDK,General Research Use
+phs000535,NCI DAC,General Research Use
+phs000536,NIGMS,General Research Use
+phs000537,NHGRI,General Research Use
+phs000539,NHGRI,General Research Use
+phs000542,NHGRI,General Research Use
+phs000544,TCGA,General Research Use
+phs000550,NCI DAC,General Research Use
+phs000559,NHGRI,General Research Use
+phs000562,NCI DAC,General Research Use
+phs000564,NICHD,General Research Use
+phs000565,NIDDK,General Research Use
+phs000568,NCI DAC,General Research Use
+phs000569,TCGA,General Research Use
+phs000570,TCGA,General Research Use
+phs000573,NCI DAC,General Research Use
+phs000584,JAAMH,General Research Use
+phs000608,JAAMH,General Research Use
+phs000609,JAAMH,General Research Use
+phs000619,JAAMH,General Research Use
+phs000620,JAAMH,General Research Use
+phs000623,NHGRI,General Research Use
+phs000626,NIAID,General Research Use
+phs000630,JAAMH,General Research Use
+phs000636,NINDS,General Research Use
+phs000645,NICHD,General Research Use
+phs000647,NHLBI,General Research Use
+phs000653,NINDS,General Research Use
+phs000654,NINDS,General Research Use
+phs000659,NIDDK,General Research Use
+phs000660,NINDS,General Research Use
+phs000664,NHGRI,General Research Use
+phs000673,NHGRI,General Research Use
+phs000677,NCI DAC,General Research Use
+phs000678,ES DAC,General Research Use
+phs000679,JAAMH,General Research Use
+phs000682,JAAMH,General Research Use
+phs000688,CDAC,General Research Use
+phs000691,NHGRI,General Research Use
+phs000713,JAAMH,General Research Use
+phs000715,NINDS,General Research Use
+phs000721,NHGRI,General Research Use
+phs000725,NHGRI,General Research Use
+phs000727,NINDS,General Research Use
+phs000731,JAAMH,General Research Use
+phs000732,NHGRI,General Research Use
+phs000734,NCI DAC,General Research Use
+phs000735,NICHD,General Research Use
+phs000745,JAAMH,General Research Use
+phs000747,NINDS,General Research Use
+phs000750,NIGMS,General Research Use
+phs000754,NHGRI,General Research Use
+phs000755,JAAMH,General Research Use
+phs000766,NHGRI,General Research Use
+phs000768,NCI DAC,General Research Use
+phs000770,NHGRI,General Research Use
+phs000784,NHLBI,General Research Use
+phs000793,NINDS,General Research Use
+phs000806,NHLBI,General Research Use
+phs000808,NHLBI,General Research Use
+phs000811,NHGRI,General Research Use
+phs000814,NHLBI,General Research Use
+phs000816,NHGRI,General Research Use
+phs000817,NIAID,General Research Use
+phs000820,NHLBI,General Research Use
+phs000825,JAAMH,General Research Use
+phs000827,NHGRI,General Research Use
+phs000832,JAAMH,General Research Use
+phs000845,JAAMH,General Research Use
+phs000853,ES DAC,General Research Use
+phs000854,NCI DAC,General Research Use
+phs000859,NHGRI,General Research Use
+phs000861,NHGRI,General Research Use
+phs000864,JAAMH,General Research Use
+phs000868,NCI DAC,General Research Use
+phs000870,NHGRI,General Research Use
+phs000871,NHGRI,General Research Use
+phs000872,JAAMH,General Research Use
+phs000873,NHLBI,General Research Use
+phs000879,NHGRI,General Research Use
+phs000886,NHLBI,General Research Use
+phs000887,JAAMH,General Research Use
+phs000892,NCI DAC,General Research Use
+phs000895,NHGRI,General Research Use
+phs000896,NIAMS,General Research Use
+phs000900,NCI DAC,General Research Use
+phs000901,NINDS,General Research Use
+phs000909,NHGRI,General Research Use
+phs000917,NHLBI,General Research Use
+phs000918,NINDS,General Research Use
+phs000927,NHGRI,General Research Use
+phs000930,NHLBI,General Research Use
+phs000932,NCI DAC,General Research Use
+phs000935,NHGRI,General Research Use
+phs000939,NHGRI,General Research Use
+phs000940,JAAMH,General Research Use
+phs000945,NHGRI,General Research Use
+phs000957,NHGRI,General Research Use
+phs000958,NHGRI,General Research Use
+phs000971,NHGRI,General Research Use
+phs000975,NCI DAC,General Research Use
+phs000979,JAAMH,General Research Use
+phs000981,NIAMS,General Research Use
+phs000982,NIAMS,General Research Use
+phs000983,NIGMS,General Research Use
+phs000984,NIGMS,General Research Use
+phs000996,ES DAC,General Research Use
+phs000998,NHLBI,General Research Use
+phs000999,NHGRI,General Research Use
+phs001003,NCI DAC,General Research Use
+phs001004,NINDS,General Research Use
+phs001006,NCI DAC,General Research Use
+phs001019,NHGRI,General Research Use
+phs001022,JAAMH,General Research Use
+phs001044,NCI DAC,General Research Use
+phs001048,NHGRI,General Research Use
+phs001050,NIGMS,General Research Use
+phs001052,NCI DAC,General Research Use
+phs001055,NHGRI,General Research Use
+phs001059,ES DAC,General Research Use
+phs001060,NICHD,General Research Use
+phs001061,JAAMH,General Research Use
+phs001065,NINDS,General Research Use
+phs001071,NINDS,General Research Use
+phs001075,NHGRI,General Research Use
+phs001080,NINDS,General Research Use
+phs001084,NCI DAC,General Research Use
+phs001086,NHGRI,General Research Use
+phs001089,NHGRI,General Research Use
+phs001091,NHGRI,General Research Use
+phs001103,NINDS,General Research Use
+phs001110,Kids First DAC,General Research Use
+phs001111,NCI DAC,General Research Use
+phs001115,NCI DAC,General Research Use
+phs001122,JAAMH,General Research Use
+phs001124,NIGMS,General Research Use
+phs001126,NCI DAC,General Research Use
+phs001135,JAAMH,General Research Use
+phs001140,NCI DAC,General Research Use
+phs001141,NCI DAC,General Research Use
+phs001145,NCI DAC,General Research Use
+phs001157,JAAMH,General Research Use
+phs001158,NINDS,General Research Use
+phs001160,NCI DAC,General Research Use
+phs001162,NCI DAC,General Research Use
+phs001164,JAAMH,General Research Use
+phs001165,NHGRI,General Research Use
+phs001172,NINDS,General Research Use
+phs001173,NCI DAC,General Research Use
+phs001175,NCI DAC,General Research Use
+phs001176,NIGMS,General Research Use
+phs001178,Kids First DAC,General Research Use
+phs001182,ES DAC,General Research Use
+phs001184,NCI DAC,General Research Use
+phs001188,NHGRI,General Research Use
+phs001190,JAAMH,General Research Use
+phs001191,NHGRI,General Research Use
+phs001195,JAAMH,General Research Use
+phs001197,JAAMH,General Research Use
+phs001198,JAAMH,General Research Use
+phs001199,NCI DAC,General Research Use
+phs001206,NINDS,General Research Use
+phs001209,JAAMH,General Research Use
+phs001212,NHLBI,General Research Use
+phs001213,JAAMH,General Research Use
+phs001220,JAAMH,General Research Use
+phs001224,NHGRI,General Research Use
+phs001228,Kids First DAC,General Research Use
+phs001230,NHGRI,General Research Use
+phs001232,NHGRI,General Research Use
+phs001235,NIAID,General Research Use
+phs001242,NHGRI,General Research Use
+phs001246,NICHD,General Research Use
+phs001251,NHGRI,General Research Use
+phs001266,JAAMH,General Research Use
+phs001267,NICHD,General Research Use
+phs001287,NCI DAC,General Research Use
+phs001299,JAAMH,General Research Use
+phs001300,JAAMH,General Research Use
+phs001301,JAAMH,General Research Use
+phs001302,JAAMH,General Research Use
+phs001322,NINDS,General Research Use
+phs001341,NHLBI,General Research Use
+phs001344,JAAMH,General Research Use
+phs001353,JAAMH,General Research Use
+phs001354,JAAMH,General Research Use
+phs001357,NHGRI,General Research Use
+phs001365,NIGMS,General Research Use
+phs001372,NCI DAC,General Research Use
+phs001374,NCI DAC,General Research Use
+phs001375,NIDDK,General Research Use
+phs001377,JAAMH,General Research Use
+phs001381,NCI DAC,General Research Use
+phs001385,NCI DAC,General Research Use
+phs001388,NIDDK,General Research Use
+phs001398,NHGRI,General Research Use
+phs001403,NCI DAC,General Research Use
+phs001404,NCI DAC,General Research Use
+phs001414,JAAMH,General Research Use
+phs001418,ES DAC,General Research Use
+phs001431,NCI DAC,General Research Use
+phs001436,Kids First DAC,General Research Use
+phs001437,NCI DAC,General Research Use
+phs001438,JAAMH,General Research Use
+phs001440,JAAMH,General Research Use
+phs001444,NCI DAC,General Research Use
+phs001445,NHGRI,General Research Use
+phs001449,NCI DAC,General Research Use
+phs001451,NCI DAC,General Research Use
+phs001455,NINDS,General Research Use
+phs001462,JAAMH,General Research Use
+phs001463,JAAMH,General Research Use
+phs001473,NCI DAC,General Research Use
+phs001474,NCI DAC,General Research Use
+phs001481,NCI DAC,General Research Use
+phs001482,NICHD,General Research Use
+phs001486,NCI DAC,General Research Use
+phs001492,NHLBI,General Research Use
+phs001494,JAAMH,General Research Use
+phs001495,NCI DAC,General Research Use
+phs001500,NCI DAC,General Research Use
+phs001510,NICHD,General Research Use
+phs001519,NCI DAC,General Research Use
+phs001561,NIAID,General Research Use
+phs001566,NCI DAC,General Research Use
+phs001573,NCI DAC,General Research Use
+phs001585,NINDS,General Research Use
+phs001586,ES DAC,General Research Use
+phs001587,NCI DAC,General Research Use
+phs001589,NCI DAC,General Research Use
+phs001611,NCI DAC,General Research Use
+phs001621,NCI DAC,General Research Use
+phs001622,NINR DAC,General Research Use
+phs001627,NHGRI,General Research Use
+phs001631,JAAMH,General Research Use
+phs001633,NIGMS,General Research Use
+phs001641,NHGRI,General Research Use
+phs001648,NCI DAC,General Research Use
+phs001650,NIGMS,General Research Use
+phs001652,NCI DAC,General Research Use
+phs001658,NCI DAC,General Research Use
+phs001699,NHGRI,General Research Use
+phs001714,NCI DAC,General Research Use
+phs001718,NINDS,General Research Use
+phs001722,NCI DAC,General Research Use
+phs001738,Kids First DAC,General Research Use
+phs001739,NINR DAC,General Research Use
+phs001742,NCI DAC,General Research Use
+phs001746,NHGRI,General Research Use
+phs001748,NCI DAC,General Research Use
+phs001749,NIDDK,General Research Use
+phs001750,NHLBI,General Research Use
+phs001758,NCI DAC,General Research Use
+phs001761,NCI DAC,General Research Use
+phs001765,NCI DAC,General Research Use
+phs001771,NHGRI,General Research Use
+phs001773,NHGRI,General Research Use
+phs001794,NCI DAC,General Research Use
+phs001795,NINDS,General Research Use
+phs001796,NINDS,General Research Use
+phs001801,NCI DAC,General Research Use
+phs001802,NHGRI,General Research Use
+phs001809,None,General Research Use
+phs001810,JAAMH,General Research Use
+phs001813,NCI DAC,General Research Use
+phs001814,NHLBI,General Research Use
+phs001822,NICHD,General Research Use
+phs001824,NCI DAC,General Research Use
+phs001831,NCI DAC,General Research Use
+phs001836,JAAMH,General Research Use
+phs001839,NCI DAC,General Research Use
+phs001840,NCI DAC,General Research Use
+phs001846,Kids First DAC,General Research Use
+phs001847,NCI DAC,General Research Use
+phs001860,NHGRI,General Research Use
+phs001865,NINR DAC,General Research Use
+phs001866,NCI DAC,General Research Use
+phs001867,NHGRI,General Research Use
+phs001868,NCI DAC,General Research Use
+phs001869,JAAMH,General Research Use
+phs001872,NHGRI,General Research Use
+phs001875,NCI DAC,General Research Use
+phs001884,NICHD,General Research Use
+phs001887,NHGRI,General Research Use
+phs001889,NINDS,General Research Use
+phs001892,NHLBI,General Research Use
+phs001893,NCI DAC,General Research Use
+phs001895,NCI DAC,General Research Use
+phs001899,NIAID,General Research Use
+phs001900,JAAMH,General Research Use
+phs001923,NINR DAC,General Research Use
+phs001928,NCI DAC,General Research Use
+phs001931,NCI DAC,General Research Use
+phs001934,NIGMS,General Research Use
+phs001935,NCI DAC,General Research Use
+phs001939,NCI DAC,General Research Use
+phs001942,NCI DAC,General Research Use
+phs001945,NHGRI,General Research Use
+phs001947,NCI DAC,General Research Use
+phs001951,NCI DAC,General Research Use
+phs001952,NCI DAC,General Research Use
+phs001957,NIGMS,General Research Use
+phs001958,JAAMH,General Research Use
+phs001959,NHGRI,General Research Use
+phs001961,NHLBI,General Research Use
+phs001963,JAAMH,General Research Use
+phs001964,NCI DAC,General Research Use
+phs001965,NCI DAC,General Research Use
+phs001966,JAAMH,General Research Use
+phs001968,JAAMH,General Research Use
+phs001969,NCI DAC,General Research Use
+phs001970,NCI DAC,General Research Use
+phs001979,NCI DAC,General Research Use
+phs001982,NCI DAC,General Research Use
+phs001985,NLM_DAC,General Research Use
+phs001986,NLM_DAC,General Research Use
+phs001993,NCI DAC,General Research Use
+phs002000,NCI DAC,General Research Use
+phs002001,NCI DAC,General Research Use
+phs002005,NCI DAC,General Research Use
+phs002012,NCI DAC,General Research Use
+phs002016,NHLBI,General Research Use
+phs002020,NEI,General Research Use
+phs002021,NCI DAC,General Research Use
+phs002022,NCI DAC,General Research Use
+phs002023,NCI DAC,General Research Use
+phs002025,NIAID,General Research Use
+phs002030,NHGRI,General Research Use
+phs002037,NCI DAC,General Research Use
+phs002045,NCI DAC,General Research Use
+phs002046,JAAMH,General Research Use
+phs002047,NEI,General Research Use
+phs002051,NCI DAC,General Research Use
+phs002064,NCI DAC,General Research Use
+phs002066,NCI DAC,General Research Use
+phs002070,NCI DAC,General Research Use
+phs002081,NLM_DAC,General Research Use
+phs002083,NCI DAC,General Research Use
+phs002084,NLM_DAC,General Research Use
+phs002085,NLM_DAC,General Research Use
+phs002086,NLM_DAC,General Research Use
+phs002089,NCI DAC,General Research Use
+phs002097,NCI DAC,General Research Use
+phs002098,NCI DAC,General Research Use
+phs002100,NCI DAC,General Research Use
+phs002101,NCI DAC,General Research Use
+phs002110,NHGRI,General Research Use
+phs002111,NHGRI,General Research Use
+phs002113,JAAMH,General Research Use
+phs002119,NHGRI,General Research Use
+phs002123,NHGRI,General Research Use
+phs002136,JAAMH,General Research Use
+phs002139,ES DAC,General Research Use
+phs002143,NHLBI,General Research Use
+phs002145,JAAMH,General Research Use
+phs002146,NHGRI,General Research Use
+phs002154,NCI DAC,General Research Use
+phs002156,NINDS,General Research Use
+phs002158,NICHD,General Research Use
+phs002161,Kids First DAC,General Research Use
+phs002162,Kids First DAC,General Research Use
+phs002164,NCI DAC,General Research Use
+phs002168,NINDS,General Research Use
+phs002170,NIAID,General Research Use
+phs002172,Kids First DAC,General Research Use
+phs002175,NINDS,General Research Use
+phs002176,NCI DAC,General Research Use
+phs002182,NHLBI,General Research Use
+phs002184,NICHD,General Research Use
+phs002187,Kids First DAC,General Research Use
+phs002188,NCI DAC,General Research Use
+phs002192,NCI DAC,General Research Use
+phs002197,NINDS,General Research Use
+phs002199,NINR DAC,General Research Use
+phs002202,JAAMH,General Research Use
+phs002207,NCI DAC,General Research Use
+phs002209,NCI DAC,General Research Use
+phs002222,NIAID,General Research Use
+phs002224,NHLBI,General Research Use
+phs002225,NCI DAC,General Research Use
+phs002229,NCI DAC,General Research Use
+phs002233,NICHD,General Research Use
+phs002239,NCI DAC,General Research Use
+phs002240,NIGMS,General Research Use
+phs002245,NIAID,General Research Use
+phs002247,NCI DAC,General Research Use
+phs002248,NCI DAC,General Research Use
+phs002249,NHGRI,General Research Use
+phs002250,NCI DAC,General Research Use
+phs002253,NCI DAC,General Research Use
+phs002262,NCI DAC,General Research Use
+phs002265,NEI,General Research Use
+phs002267,NHGRI,General Research Use
+phs002268,NHGRI,General Research Use
+phs002269,NCI DAC,General Research Use
+phs002270,NINDS,General Research Use
+phs002276,Kids First DAC,General Research Use
+phs002279,NICHD,General Research Use
+phs002280,NIAID,General Research Use
+phs002286,NCI DAC,General Research Use
+phs002287,NCI DAC,General Research Use
+phs002291,NIDDK,General Research Use
+phs002294,NCI DAC,General Research Use
+phs002295,NCI DAC,General Research Use
+phs002297,NHLBI,General Research Use
+phs002304,NCI DAC,General Research Use
+phs002307,NHGRI,General Research Use
+phs002309,NCI DAC,General Research Use
+phs002311,NCI DAC,General Research Use
+phs002313,NCI DAC,General Research Use
+phs002315,NHGRI,General Research Use
+phs002316,NIAID,General Research Use
+phs002319,NIGMS,General Research Use
+phs002320,NCI DAC,General Research Use
+phs002326,NCI DAC,General Research Use
+phs002327,NCI DAC,General Research Use
+phs002329,NIAID,General Research Use
+phs002333,NIAID,General Research Use
+phs002340,NCI DAC,General Research Use
+phs002342,NCI DAC,General Research Use
+phs002344,NCI DAC,General Research Use
+phs002347,NCI DAC,General Research Use
+phs002348,NHLBI,General Research Use
+phs002361,JAAMH,General Research Use
+phs002362,NHLBI,General Research Use
+phs002364,NIDCR,General Research Use
+phs002365,NCI DAC,General Research Use
+phs002368,NHGRI,General Research Use
+phs002370,RADx,General Research Use
+phs002372,NCI DAC,General Research Use
+phs002378,NHGRI,General Research Use
+phs002379,NINDS,General Research Use
+phs002381,NIAID,General Research Use
+phs002385,NHLBI,General Research Use
+phs002386,NHLBI,General Research Use
+phs002388,NCI DAC,General Research Use
+phs002391,NHGRI,General Research Use
+phs002395,JAAMH,General Research Use
+phs002396,NCI DAC,General Research Use
+phs002397,NIGMS,General Research Use
+phs002398,NCI DAC,General Research Use
+phs002400,NINDS,General Research Use
+phs002401,NHLBI,General Research Use
+phs002402,NHLBI,General Research Use
+phs002404,NCI DAC,General Research Use
+phs002405,NICHD,General Research Use
+phs002407,NCI DAC,General Research Use
+phs002412,NHLBI,General Research Use
+phs002416,NCI DAC,General Research Use
+phs002420,NCI DAC,General Research Use
+phs002421,NCI DAC,General Research Use
+phs002427,NCI DAC,General Research Use
+phs002428,NIGMS,General Research Use
+phs002430,NCI DAC,General Research Use
+phs002436,NCI DAC,General Research Use
+phs002437,NCI DAC,General Research Use
+phs002443,NCI DAC,General Research Use
+phs002445,NIAID,General Research Use
+phs002449,NEI,General Research Use
+phs002458,NCI DAC,General Research Use
+phs002465,NIDDK,General Research Use
+phs002467,NIAID,General Research Use
+phs002471,NCATS,General Research Use
+phs002474,NICHD,General Research Use
+phs002475,NICHD,General Research Use
+phs002477,NHGRI,General Research Use
+phs002479,NCI DAC,General Research Use
+phs002481,NHGRI,General Research Use
+phs002483,NICHD,General Research Use
+phs002487,JAAMH,General Research Use
+phs002489,NINDS,General Research Use
+phs002493,JAAMH,General Research Use
+phs002499,NIAMS,General Research Use
+phs002501,NEI,General Research Use
+phs002504,NCI DAC,General Research Use
+phs002514,NICHD,General Research Use
+phs002515,NCI DAC,General Research Use
+phs002516,RADx,General Research Use
+phs002517,NCI DAC,General Research Use
+phs002518,NCI DAC,General Research Use
+phs002519,RADx,General Research Use
+phs002520,RADx,General Research Use
+phs002521,RADx,General Research Use
+phs002522,RADx,General Research Use
+phs002523,RADx,General Research Use
+phs002524,RADx,General Research Use
+phs002525,RADx,General Research Use
+phs002526,RADx,General Research Use
+phs002527,RADx,General Research Use
+phs002530,NCI DAC,General Research Use
+phs002533,RADx,General Research Use
+phs002534,RADx,General Research Use
+phs002535,RADx,General Research Use
+phs002537,RADx,General Research Use
+phs002538,RADx,General Research Use
+phs002539,RADx,General Research Use
+phs002540,RADx,General Research Use
+phs002541,NCI DAC,General Research Use
+phs002542,RADx,General Research Use
+phs002543,RADx,General Research Use
+phs002544,RADx,General Research Use
+phs002546,RADx,General Research Use
+phs002548,NIDCR,General Research Use
+phs002549,RADx,General Research Use
+phs002550,RADx,General Research Use
+phs002551,RADx,General Research Use
+phs002552,NCI DAC,General Research Use
+phs002553,RADx,General Research Use
+phs002554,NIAMS,General Research Use
+phs002555,NCI DAC,General Research Use
+phs002561,RADx,General Research Use
+phs002563,RADx,General Research Use
+phs002564,NCI DAC,General Research Use
+phs002565,RADx,General Research Use
+phs002567,RADx,General Research Use
+phs002568,RADx,General Research Use
+phs002569,RADx,General Research Use
+phs002570,RADx,General Research Use
+phs002572,RADx,General Research Use
+phs002573,RADx,General Research Use
+phs002575,RADx,General Research Use
+phs002577,NICHD,General Research Use
+phs002578,RADx,General Research Use
+phs002580,NCI DAC,General Research Use
+phs002581,RADx,General Research Use
+phs002582,RADx,General Research Use
+phs002583,RADx,General Research Use
+phs002584,RADx,General Research Use
+phs002585,RADx,General Research Use
+phs002586,NHGRI,General Research Use
+phs002588,RADx,General Research Use
+phs002589,Kids First DAC,General Research Use
+phs002590,Kids First DAC,General Research Use
+phs002591,Kids First DAC,General Research Use
+phs002592,Kids First DAC,General Research Use
+phs002594,Kids First DAC,General Research Use
+phs002599,NCI DAC,General Research Use
+phs002600,RADx,General Research Use
+phs002601,RADx,General Research Use
+phs002602,RADx,General Research Use
+phs002603,RADx,General Research Use
+phs002604,RADx,General Research Use
+phs002605,NHGRI,General Research Use
+phs002606,NINDS,General Research Use
+phs002608,RADx,General Research Use
+phs002609,RADx,General Research Use
+phs002610,JAAMH,General Research Use
+phs002612,NCI DAC,General Research Use
+phs002613,NHGRI,General Research Use
+phs002616,RADx,General Research Use
+phs002618,RADx,General Research Use
+phs002619,RADx,General Research Use
+phs002620,NCI DAC,General Research Use
+phs002621,NINDS,General Research Use
+phs002623,NIDCR,General Research Use
+phs002624,JAAMH,General Research Use
+phs002625,NIGMS,General Research Use
+phs002626,Kids First DAC,General Research Use
+phs002627,Kids First DAC,General Research Use
+phs002628,RADx,General Research Use
+phs002629,Kids First DAC,General Research Use
+phs002630,Kids First DAC,General Research Use
+phs002631,RADx,General Research Use
+phs002633,RADx,General Research Use
+phs002634,RADx,General Research Use
+phs002636,JAAMH,General Research Use
+phs002639,NCI DAC,General Research Use
+phs002642,RADx,General Research Use
+phs002643,RADx,General Research Use
+phs002644,RADx,General Research Use
+phs002645,RADx,General Research Use
+phs002647,RADx,General Research Use
+phs002648,RADx,General Research Use
+phs002649,RADx,General Research Use
+phs002650,RADx,General Research Use
+phs002651,RADx,General Research Use
+phs002652,NCI DAC,General Research Use
+phs002653,NCI DAC,General Research Use
+phs002656,RADx,General Research Use
+phs002657,RADx,General Research Use
+phs002658,RADx,General Research Use
+phs002660,RADx,General Research Use
+phs002661,RADx,General Research Use
+phs002662,RADx,General Research Use
+phs002675,NHGRI,General Research Use
+phs002676,NHGRI,General Research Use
+phs002679,RADx,General Research Use
+phs002682,RADx,General Research Use
+phs002685,RADx,General Research Use
+phs002689,RADx,General Research Use
+phs002694,NHLBI,General Research Use
+phs002696,NIAID,General Research Use
+phs000101,NINDS,General research use
+phs000128,NHLBI,General Research Use
+phs000269,NIGMS,General Research Use
+phs000273,NIGMS,General Research Use
+phs001859,NCI DAC,General Research Use (COL)
+phs001883,NCI DAC,General Research Use (COL)
+phs001888,NCI DAC,General Research Use (COL)
+phs001904,NCI DAC,General Research Use (COL)
+phs001926,NCI DAC,General Research Use (COL)
+phs001948,NCI DAC,General Research Use (COL)
+phs001973,NCI DAC,General Research Use (COL)
+phs002028,NCI DAC,General Research Use (COL)
+phs002029,NCI DAC,General Research Use (COL)
+phs002058,NCI DAC,General Research Use (COL)
+phs002151,NCI DAC,General Research Use (COL)
+phs002152,NCI DAC,General Research Use (COL)
+phs002153,NCI DAC,General Research Use (COL)
+phs002177,NCI DAC,General Research Use (COL)
+phs002178,NCI DAC,General Research Use (COL)
+phs002179,NCI DAC,General Research Use (COL)
+phs002180,NCI DAC,General Research Use (COL)
+phs002181,NCI DAC,General Research Use (COL)
+phs002293,NCI DAC,General Research Use (COL)
+phs002432,NCI DAC,General Research Use (COL)
+phs002495,NINDS,General Research Use (COL)
+phs002219,NIGMS,"General Research Use (COL, NPU)"
+phs002654,NIGMS,"General Research Use (COL, NPU)"
+phs001526,NCI DAC,"General Research Use (COL, NPU); General Research Use; General Research Use (COL)"
+phs000337,NICHD,"General Research Use (GSO); Disease-Specific (Developmental Disabilities, GSO, RD)"
+phs000100,NIDDK,General Research Use (IRB)
+phs000248,JAAMH,General Research Use (IRB)
+phs000347,NHLBI,General Research Use (IRB)
+phs000378,JAAMH,General Research Use (IRB)
+phs000431,NIDDK,General Research Use (IRB)
+phs000460,NIDDK,General Research Use (IRB)
+phs000496,JAAMH,General Research Use (IRB)
+phs000558,NEI,General Research Use (IRB)
+phs000635,NIAID,General Research Use (IRB)
+phs000641,NIAID,General Research Use (IRB)
+phs000702,NIDDK,General Research Use (IRB)
+phs000726,JAAMH,General Research Use (IRB)
+phs000777,NIDDK,General Research Use (IRB)
+phs000778,NIDDK,General Research Use (IRB)
+phs000809,NIAID,General Research Use (IRB)
+phs000837,NHGRI,General Research Use (IRB)
+phs000846,NHGRI,General Research Use (IRB)
+phs000848,NIAID,General Research Use (IRB)
+phs000856,NIAID,General Research Use (IRB)
+phs000867,NIDDK,General Research Use (IRB)
+phs000987,NHLBI,General Research Use (IRB)
+phs001030,NIAID,General Research Use (IRB)
+phs001031,NIAID,General Research Use (IRB)
+phs001035,NICHD,General Research Use (IRB)
+phs001042,NCI DAC,General Research Use (IRB)
+phs001057,NIAID,General Research Use (IRB)
+phs001079,NIAID,General Research Use (IRB)
+phs001082,NIAID,General Research Use (IRB)
+phs001139,NHLBI,General Research Use (IRB)
+phs001187,NIAID,General Research Use (IRB)
+phs001245,NIAID,General Research Use (IRB)
+phs001338,NHLBI,General Research Use (IRB)
+phs001339,NICHD,General Research Use (IRB)
+phs001352,NIDDK,General Research Use (IRB)
+phs001361,NEI,General Research Use (IRB)
+phs001369,NIAID,General Research Use (IRB)
+phs001376,NIAID,General Research Use (IRB)
+phs001386,None,General Research Use (IRB)
+phs001454,NCI DAC,General Research Use (IRB)
+phs001471,NHLBI,General Research Use (IRB)
+phs001479,NIAID,General Research Use (IRB)
+phs001512,NIAID,General Research Use (IRB)
+phs001521,NIAID,General Research Use (IRB)
+phs001522,NICHD,General Research Use (IRB)
+phs001552,NIDDK,General Research Use (IRB)
+phs001559,JAAMH,General Research Use (IRB)
+phs001617,NICHD,General Research Use (IRB)
+phs001630,NIAID,General Research Use (IRB)
+phs001705,NCI DAC,General Research Use (IRB)
+phs001788,JAAMH,General Research Use (IRB)
+phs001815,NHGRI,General Research Use (IRB)
+phs001817,NHGRI,General Research Use (IRB)
+phs001845,NIDDK,General Research Use (IRB)
+phs001877,NCI DAC,General Research Use (IRB)
+phs001913,NHGRI,General Research Use (IRB)
+phs001916,JAAMH,General Research Use (IRB)
+phs001967,NCI DAC,General Research Use (IRB)
+phs001978,NHGRI,General Research Use (IRB)
+phs002027,NIAID,General Research Use (IRB)
+phs002031,NHLBI,General Research Use (IRB)
+phs002040,NIAID,General Research Use (IRB)
+phs002108,NHGRI,General Research Use (IRB)
+phs002109,NHGRI,General Research Use (IRB)
+phs002210,NCI DAC,General Research Use (IRB)
+phs002223,NCI DAC,General Research Use (IRB)
+phs002228,NIDDK,General Research Use (IRB)
+phs002234,NIGMS,General Research Use (IRB)
+phs002275,NIAID,General Research Use (IRB)
+phs002285,NINDS,General Research Use (IRB)
+phs002310,JAAMH,General Research Use (IRB)
+phs002424,JAAMH,General Research Use (IRB)
+phs002456,NIAID,General Research Use (IRB)
+phs002464,NHLBI,General Research Use (IRB)
+phs002478,NIAID,General Research Use (IRB)
+phs002480,NIDDK,General Research Use (IRB)
+phs002485,NHLBI,General Research Use (IRB)
+phs002508,NIAID,General Research Use (IRB)
+phs002598,NIAID,General Research Use (IRB)
+phs002655,NIAID,General Research Use (IRB)
+phs002690,NLM_DAC,General Research Use (IRB)
+phs001660,NCI DAC,"General Research Use (IRB); Disease-Specific (Cancer, IRB); Health/Medical/Biomedical (IRB)"
+phs002035,NHLBI,"General Research Use (IRB); Disease-Specific (Lung Diseases, IRB)"
+phs000908,NINDS,"General Research Use (IRB); Disease-Specific (Parkinson's Disease, IRB)"
+phs001097,NIDDK,"General Research Use (IRB); Disease-Specific (Type 2 Diabetes, IRB, RD)"
+phs001143,NHLBI,General Research Use (IRB); Exchange Area (IRB)
+phs002038,NHLBI,General Research Use (IRB); Exchange Area (IRB)
+phs002339,NHLBI,General Research Use (IRB); Exchange Area (IRB)
+phs002360,NHLBI,General Research Use (IRB); Exchange Area (IRB)
+phs002617,NHLBI,"General Research Use (IRB); Exchange Area (IRB, NPU); General Research Use (NPU)"
+phs001879,NIAID,General Research Use (IRB); Health/Medical/Biomedical (IRB)
+phs001626,NIDDK,"General Research Use (IRB); Health/Medical/Biomedical (IRB, MDS); Disease-Specific (Inflammatory Bowel Disease, IRB, MDS, RD)"
+phs001812,NHLBI,"General Research Use (IRB, COL)"
+phs002208,NHLBI,"General Research Use (IRB, COL)"
+phs002283,NCI DAC,"General Research Use (IRB, COL, NPU)"
+phs001498,NIDDK,"General Research Use (IRB, GSO)"
+phs001011,NHGRI,"General Research Use (IRB, NPU)"
+phs001146,NICHD,"General Research Use (IRB, NPU)"
+phs001256,NHLBI,"General Research Use (IRB, NPU)"
+phs001308,NICHD,"General Research Use (IRB, NPU)"
+phs001496,NHLBI,"General Research Use (IRB, NPU)"
+phs001509,NIDDK,"General Research Use (IRB, NPU)"
+phs001532,JAAMH,"General Research Use (IRB, NPU)"
+phs001579,NHGRI,"General Research Use (IRB, NPU)"
+phs001659,NICHD,"General Research Use (IRB, NPU)"
+phs001691,NHLBI,"General Research Use (IRB, NPU)"
+phs001828,NIDDK,"General Research Use (IRB, NPU)"
+phs001989,NIAID,"General Research Use (IRB, NPU)"
+phs002118,JAAMH,"General Research Use (IRB, NPU)"
+phs002425,NHLBI,"General Research Use (IRB, NPU)"
+phs002473,NHLBI,"General Research Use (IRB, NPU); General Research Use (IRB)"
+phs000397,JAAMH,"General Research Use (IRB, NPU); General Research Use (IRB); Disease-Specific (Longevity, age-related health conditions, IRB, NPU)"
+phs002451,NHLBI,"General Research Use (IRB, NPU); General Research Use (IRB); Exchange Area (IRB, NPU)"
+phs000521,NCATS,"General Research Use (IRB, PUB)"
+phs000574,NCATS,"General Research Use (IRB, PUB)"
+phs000575,NCATS,"General Research Use (IRB, PUB)"
+phs000576,NCATS,"General Research Use (IRB, PUB)"
+phs000577,NCATS,"General Research Use (IRB, PUB)"
+phs000578,NCATS,"General Research Use (IRB, PUB)"
+phs000588,NCATS,"General Research Use (IRB, PUB)"
+phs000589,NCATS,"General Research Use (IRB, PUB)"
+phs000590,NCATS,"General Research Use (IRB, PUB)"
+phs000591,NCATS,"General Research Use (IRB, PUB)"
+phs000592,NCATS,"General Research Use (IRB, PUB)"
+phs000593,NCATS,"General Research Use (IRB, PUB)"
+phs000594,NCATS,"General Research Use (IRB, PUB)"
+phs000595,NCATS,"General Research Use (IRB, PUB)"
+phs000596,NCATS,"General Research Use (IRB, PUB)"
+phs000603,NCATS,"General Research Use (IRB, PUB)"
+phs000605,NCATS,"General Research Use (IRB, PUB)"
+phs000606,NCATS,"General Research Use (IRB, PUB)"
+phs000695,NCATS,"General Research Use (IRB, PUB)"
+phs000697,NCATS,"General Research Use (IRB, PUB)"
+phs000698,NCATS,"General Research Use (IRB, PUB)"
+phs000701,NCATS,"General Research Use (IRB, PUB)"
+phs000862,NCATS,"General Research Use (IRB, PUB)"
+phs000961,NHGRI,"General Research Use (IRB, PUB)"
+phs001063,NCI DAC,"General Research Use (IRB, PUB)"
+phs001108,NCATS,"General Research Use (IRB, PUB)"
+phs001214,NHGRI,"General Research Use (IRB, PUB)"
+phs001278,NCATS,"General Research Use (IRB, PUB)"
+phs001279,NCATS,"General Research Use (IRB, PUB)"
+phs001281,NCATS,"General Research Use (IRB, PUB)"
+phs001288,NCATS,"General Research Use (IRB, PUB)"
+phs001289,NCATS,"General Research Use (IRB, PUB)"
+phs001292,NCATS,"General Research Use (IRB, PUB)"
+phs001295,NCATS,"General Research Use (IRB, PUB)"
+phs001296,NCATS,"General Research Use (IRB, PUB)"
+phs001305,NCATS,"General Research Use (IRB, PUB)"
+phs001309,NCATS,"General Research Use (IRB, PUB)"
+phs001310,NCATS,"General Research Use (IRB, PUB)"
+phs001311,NCATS,"General Research Use (IRB, PUB)"
+phs001313,NCATS,"General Research Use (IRB, PUB)"
+phs001314,NCATS,"General Research Use (IRB, PUB)"
+phs001316,NCATS,"General Research Use (IRB, PUB)"
+phs001317,NCATS,"General Research Use (IRB, PUB)"
+phs001318,NCATS,"General Research Use (IRB, PUB)"
+phs001326,NCATS,"General Research Use (IRB, PUB)"
+phs001328,NCATS,"General Research Use (IRB, PUB)"
+phs001329,NCATS,"General Research Use (IRB, PUB)"
+phs001330,NCATS,"General Research Use (IRB, PUB)"
+phs001331,NCATS,"General Research Use (IRB, PUB)"
+phs001332,NCATS,"General Research Use (IRB, PUB)"
+phs001333,NCATS,"General Research Use (IRB, PUB)"
+phs001364,JAAMH,"General Research Use (IRB, PUB)"
+phs001382,NCATS,"General Research Use (IRB, PUB)"
+phs001392,NCATS,"General Research Use (IRB, PUB)"
+phs001406,JAAMH,"General Research Use (IRB, PUB)"
+phs001419,NCATS,"General Research Use (IRB, PUB)"
+phs001430,NCATS,"General Research Use (IRB, PUB)"
+phs001537,NCATS,"General Research Use (IRB, PUB)"
+phs001538,NCATS,"General Research Use (IRB, PUB)"
+phs001540,NCATS,"General Research Use (IRB, PUB)"
+phs001553,NCATS,"General Research Use (IRB, PUB)"
+phs001555,NCATS,"General Research Use (IRB, PUB)"
+phs001571,NIDDK,"General Research Use (IRB, PUB)"
+phs001575,NCATS,"General Research Use (IRB, PUB)"
+phs001576,NCATS,"General Research Use (IRB, PUB)"
+phs001595,NCATS,"General Research Use (IRB, PUB)"
+phs001629,NCI DAC,"General Research Use (IRB, PUB)"
+phs001663,NINDS,"General Research Use (IRB, PUB)"
+phs001715,NCATS,"General Research Use (IRB, PUB)"
+phs001716,NCATS,"General Research Use (IRB, PUB)"
+phs001760,NCATS,"General Research Use (IRB, PUB)"
+phs001762,NCATS,"General Research Use (IRB, PUB)"
+phs001763,NCATS,"General Research Use (IRB, PUB)"
+phs001764,NCATS,"General Research Use (IRB, PUB)"
+phs001769,NCATS,"General Research Use (IRB, PUB)"
+phs001770,NCATS,"General Research Use (IRB, PUB)"
+phs001898,NHLBI,"General Research Use (IRB, PUB)"
+phs001909,NIAID,"General Research Use (IRB, PUB)"
+phs001938,NCI DAC,"General Research Use (IRB, PUB)"
+phs002054,NHGRI,"General Research Use (IRB, PUB)"
+phs002068,NINDS,"General Research Use (IRB, PUB)"
+phs002075,NICHD,"General Research Use (IRB, PUB)"
+phs002211,NIAID,"General Research Use (IRB, PUB)"
+phs002367,NIAID,"General Research Use (IRB, PUB)"
+phs002417,NICHD,"General Research Use (IRB, PUB)"
+phs002511,NHGRI,"General Research Use (IRB, PUB)"
+phs001320,NICHD,"General Research Use (IRB, PUB, COL)"
+phs001564,NIAID,"General Research Use (IRB, PUB, COL)"
+phs001782,NICHD,"General Research Use (IRB, PUB, COL)"
+phs002258,NIAID,"General Research Use (IRB, PUB, COL)"
+phs002484,NHLBI,"General Research Use (IRB, PUB, COL)"
+phs001363,NIGMS,"General Research Use (IRB, PUB, COL, NPU)"
+phs001972,NHLBI,"General Research Use (IRB, PUB, COL, NPU)"
+phs002073,NIAID,"General Research Use (IRB, PUB, COL, NPU)"
+phs002074,NIAID,"General Research Use (IRB, PUB, COL, NPU)"
+phs002090,NIAID,"General Research Use (IRB, PUB, COL, NPU)"
+phs002091,NIAID,"General Research Use (IRB, PUB, COL, NPU)"
+phs002218,NIAID,"General Research Use (IRB, PUB, COL, NPU)"
+phs002638,NIAID,"General Research Use (IRB, PUB, COL, NPU)"
+phs002194,NHLBI,"General Research Use (IRB, PUB, COL, NPU); Exchange Area (IRB, PUB, COL, NPU)"
+phs001468,NHLBI,"General Research Use (IRB, PUB, COL, NPU); Exchange Area (IRB, PUB, COL, NPU, MDS)"
+phs002148,NCI DAC,"General Research Use (IRB, PUB, COL, NPU); Health/Medical/Biomedical (IRB, PUB, COL, NPU)"
+phs000914,NHLBI,"General Research Use (IRB, PUB, COL, NPU, GSO)"
+phs000972,NHLBI,"General Research Use (IRB, PUB, COL, NPU, GSO); Exchange Area"
+phs001105,NHGRI,"General Research Use (IRB, PUB, GSO)"
+phs001367,NICHD,"General Research Use (IRB, PUB, GSO)"
+phs001737,NIAMS,"General Research Use (IRB, PUB, NPU)"
+phs001753,NIGMS,"General Research Use (IRB, PUB, NPU)"
+phs001821,NCI DAC,"General Research Use (IRB, PUB, NPU)"
+phs001833,NIAID,"General Research Use (IRB, PUB, NPU)"
+phs001955,NHLBI,"General Research Use (IRB, PUB, NPU)"
+phs002024,NIDDK,"General Research Use (IRB, PUB, NPU)"
+phs002088,NINDS,"General Research Use (IRB, PUB, NPU)"
+phs001776,NCI DAC,"General Research Use (IRB, PUB, NPU); Disease-Specific (Pancreatic Cancer, IRB, MDS)"
+phs000329,NCI DAC,General Research Use (MDS)
+phs000350,NCI DAC,General Research Use (MDS)
+phs000543,NCI DAC,General Research Use (MDS)
+phs000553,NHLBI,General Research Use (MDS)
+phs000604,NCI DAC,General Research Use (MDS)
+phs000627,NCI DAC,General Research Use (MDS)
+phs000628,NCI DAC,General Research Use (MDS)
+phs000646,NCI DAC,General Research Use (MDS)
+phs000657,NCI DAC,General Research Use (MDS)
+phs000706,NCI DAC,General Research Use (MDS)
+phs000739,NCI DAC,General Research Use (MDS)
+phs000740,NCI DAC,General Research Use (MDS)
+phs000753,NCI DAC,General Research Use (MDS)
+phs000759,NCI DAC,General Research Use (MDS)
+phs000772,NCI DAC,General Research Use (MDS)
+phs000773,NCI DAC,General Research Use (MDS)
+phs000790,NCI DAC,General Research Use (MDS)
+phs000794,NCI DAC,General Research Use (MDS)
+phs000869,NCI DAC,General Research Use (MDS)
+phs000897,NCI DAC,General Research Use (MDS)
+phs001241,NCI DAC,General Research Use (MDS)
+phs000123,NHLBI,General Research Use (NPU)
+phs000184,NHLBI,General Research Use (NPU)
+phs000185,NHLBI,General Research Use (NPU)
+phs000560,JAAMH,General Research Use (NPU)
+phs000599,NHLBI,General Research Use (NPU)
+phs000607,JAAMH,General Research Use (NPU)
+phs000687,JAAMH,General Research Use (NPU)
+phs000798,NEI,General Research Use (NPU)
+phs000962,NHGRI,General Research Use (NPU)
+phs001016,NINDS,General Research Use (NPU)
+phs001034,NCI DAC,General Research Use (NPU)
+phs001085,NIGMS,General Research Use (NPU)
+phs001151,NEI,General Research Use (NPU)
+phs001156,NHLBI,General Research Use (NPU)
+phs001205,NINDS,General Research Use (NPU)
+phs001276,NINDS,General Research Use (NPU)
+phs001396,NCI DAC,General Research Use (NPU)
+phs001516,CDAC,General Research Use (NPU)
+phs001805,NCI DAC,General Research Use (NPU)
+phs001820,NCI DAC,General Research Use (NPU)
+phs001880,NHGRI,General Research Use (NPU)
+phs001886,NICHD,General Research Use (NPU)
+phs001949,NIGMS,General Research Use (NPU)
+phs001954,NCI DAC,General Research Use (NPU)
+phs001994,NCI DAC,General Research Use (NPU)
+phs002002,NCI DAC,General Research Use (NPU)
+phs002010,NHLBI,General Research Use (NPU)
+phs002106,NINR DAC,General Research Use (NPU)
+phs002120,NHGRI,General Research Use (NPU)
+phs002137,JAAMH,General Research Use (NPU)
+phs002230,NHLBI,General Research Use (NPU)
+phs002235,NHGRI,General Research Use (NPU)
+phs002237,NIGMS,General Research Use (NPU)
+phs002331,JAAMH,General Research Use (NPU)
+phs002390,NICHD,General Research Use (NPU)
+phs002403,NINDS,General Research Use (NPU)
+phs002441,NCI DAC,General Research Use (NPU)
+phs002450,NIGMS,General Research Use (NPU)
+phs002509,NHGRI,General Research Use (NPU)
+phs001321,NCI DAC,"General Research Use (NPU); Disease-Specific (Breast and Ovarian cancer, MDS, GSO); Cancer, Benign Neoplasms, or Hematopoietic Diseases (MDS); General Research Use; Disease-Specific (Breast Cancer, MDS); Disease-Specific (Breast and Ovarian cancer, NPU); Disease-Specific (Cancer, MDS, GSO); Disease-Specific (Cancer, MDS); General Research Use (IRB)"
+phs000723,NCI DAC,"General Research Use (NPU, MDS)"
+phs000410,eNCI DAC,"General Research Use (NPU, MDS); General Research Use (MDS)"
+phs000839,NIDCD DAC,General Research Use (PUB)
+phs000874,NINDS,General Research Use (PUB)
+phs000938,NHGRI,General Research Use (PUB)
+phs000969,NIDCD DAC,General Research Use (PUB)
+phs001026,NCI DAC,General Research Use (PUB)
+phs001027,NCI DAC,General Research Use (PUB)
+phs001243,NCI DAC,General Research Use (PUB)
+phs001304,NCI DAC,General Research Use (PUB)
+phs001337,NCI DAC,General Research Use (PUB)
+phs001551,NINDS,General Research Use (PUB)
+phs001557,NICHD,General Research Use (PUB)
+phs001625,JAAMH,General Research Use (PUB)
+phs001634,NCI DAC,General Research Use (PUB)
+phs001635,NCI DAC,General Research Use (PUB)
+phs001636,NCI DAC,General Research Use (PUB)
+phs001637,NCI DAC,General Research Use (PUB)
+phs001638,NCI DAC,General Research Use (PUB)
+phs001639,NCI DAC,General Research Use (PUB)
+phs001640,NCI DAC,General Research Use (PUB)
+phs001683,NCI DAC,General Research Use (PUB)
+phs001731,NCI DAC,General Research Use (PUB)
+phs001878,NCI DAC,General Research Use (PUB)
+phs002057,NHLBI,General Research Use (PUB)
+phs002167,NHGRI,General Research Use (PUB)
+phs002317,NCI DAC,General Research Use (PUB)
+phs002350,NCI DAC,General Research Use (PUB)
+phs002351,NCI DAC,General Research Use (PUB)
+phs002352,NCI DAC,General Research Use (PUB)
+phs002353,NCI DAC,General Research Use (PUB)
+phs002389,NHLBI,General Research Use (PUB)
+phs002406,NINDS,General Research Use (PUB)
+phs002455,NIAMS,General Research Use (PUB)
+phs002500,NHLBI,General Research Use (PUB)
+phs002371,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002664,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002665,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002666,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002667,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002668,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002669,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002670,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002671,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002672,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002673,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs002674,NCI DAC,General Research Use (PUB); Disease-Specific (Breast Cancer); Disease-Specific (Cancer); Health/Medical/Biomedical; General Research Use; Health/Medical/Biomedical (MDS)
+phs001298,NIAMS,"General Research Use (PUB); Disease-Specific (Psoriasis and Psoriatic Arthritis, PUB)"
+phs001306,NIAMS,"General Research Use (PUB); Disease-Specific (Psoriasis, PUB)"
+phs002322,Kids First DAC,General Research Use (PUB); General Research Use
+phs001290,NCI DAC,"General Research Use (PUB); General Research Use (COL, NPU); General Research Use (COL)"
+phs002216,NIAMS,"General Research Use (PUB, COL)"
+phs002408,NCI DAC,"General Research Use (PUB, COL, NPU)"
+phs002614,NCI DAC,"General Research Use (PUB, COL, NPU)"
+phs000782,NCI DAC,"General Research Use (PUB, MDS)"
+phs000792,NCI DAC,"General Research Use (PUB, MDS)"
+phs000829,NCI DAC,"General Research Use (PUB, MDS)"
+phs000942,NCI DAC,"General Research Use (PUB, MDS)"
+phs001083,NCI DAC,"General Research Use (PUB, MDS)"
+phs000978,NCI DAC,"General Research Use (PUB, NPU)"
+phs001036,NCI DAC,"General Research Use (PUB, NPU)"
+phs001425,NCI DAC,"General Research Use (PUB, NPU)"
+phs001780,NIGMS,"General Research Use (PUB, NPU)"
+phs001803,NINDS,"General Research Use (PUB, NPU)"
+phs001995,NIGMS,"General Research Use (PUB, NPU)"
+phs000102,NINDS,General research use ; Stroke and Related Disorders
+phs000433,NIDDK,General Research Use except HIV/AIDS; Stroke and Risk factors for stroke; General Research Use
+phs002138,NHLBI,General Research Use; Disease-Specific (Asthma and/or other Respiratory Diseases)
+phs000764,JAAMH,General Research Use; Disease-Specific (Autism Spectrum Disorder)
+phs002042,NHGRI,General Research Use; Disease-Specific (Autism Spectrum Disorder)
+phs001193,NCI DAC,General Research Use; Disease-Specific (Cancer); Health/Medical/Biomedical (MDS)
+phs001679,NHLBI,General Research Use; Disease-Specific (cardiac inflammation)
+phs002343,NCI DAC,General Research Use; Disease-Specific (Colorectal Cancer)
+phs002171,NCI DAC,"General Research Use; Disease-Specific (Colorectal Cancer, MDS)"
+phs001554,NCI DAC,"General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; Health/Medical/Biomedical (IRB, NPU)"
+phs000906,NHGRI,General Research Use; Disease-Specific (Dementia); Health/Medical/Biomedical
+phs002203,NIDCR,General Research Use; Disease-Specific (Dental/Oral and Bone Conditions)
+phs001183,NINDS,"General Research Use; Disease-Specific (Epilepsy and seizure disorders, GSO)"
+phs001558,NINDS,"General Research Use; Disease-Specific (Epilepsy and seizure disorders, GSO)"
+phs000001,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs000238,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs000429,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs000457,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs000458,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs000684,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs000685,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs001053,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs002494,NEI,General Research Use; Disease-Specific (Eye Disease)
+phs000769,NHLBI,General Research Use; Disease-Specific (Human Immunodeficiency Virus)
+phs001992,JAAMH,"General Research Use; Disease-Specific (Mental Health, MDS)"
+phs001054,NCI DAC,General Research Use; Disease-Specific (Nervous Tissue Tumors)
+phs001997,Kids First DAC,"General Research Use; Disease-Specific (Oral Clefts, PUB, MDS)"
+phs002547,NCI DAC,General Research Use; Disease-Specific (Prostate Cancer)
+phs001932,JAAMH,General Research Use; Disease-Specific (Schizophrenia and related disorders)
+phs002278,JAAMH,General Research Use; Disease-Specific (Schizophrenia and related disorders)
+phs000823,NHGRI,"General Research Use; Disease-Specific (Uveal Melanoma, NPU); Disease-Specific (Cancer)"
+phs001204,NCI DAC,General Research Use; General Research Use (COL)
+phs001890,NCI DAC,"General Research Use; General Research Use (IRB); Disease-Specific (Cancer); Disease-Specific (Lung Cancer, IRB)"
+phs000833,JAAMH,General Research Use; General Research Use (NPU)
+phs000834,JAAMH,General Research Use; General Research Use (NPU)
+phs000835,JAAMH,General Research Use; General Research Use (NPU)
+phs000836,JAAMH,General Research Use; General Research Use (NPU)
+phs002205,NHGRI,General Research Use; General Research Use (NPU)
+phs002330,Kids First DAC,General Research Use; General Research Use (NPU)
+phs001312,NEI,General Research Use; Health/Medical/Biomedical
+phs001343,NIGMS,General Research Use; Health/Medical/Biomedical
+phs002505,NCI DAC,General Research Use; Health/Medical/Biomedical
+phs002597,NIGMS,General Research Use; Health/Medical/Biomedical
+phs002050,NCI DAC,"General Research Use; Health/Medical/Biomedical (IRB, COL); Disease-Specific (Colorectal Cancer, NPU, GSO); Health/Medical/Biomedical (IRB); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Colorectal Cancer, MDS)"
+phs002528,JAAMH,"General Research Use; Health/Medical/Biomedical (MDS); Disease-Specific (Mental Health, MDS)"
+phs002213,NINDS,"General Research Use; Health/Medical/Biomedical (PUB, COL, MDS)"
+phs000130,NIDDK,General Research Use; Inflammatory Bowel Disease Only
+phs000345,NIDDK,General Research Use; Inflammatory Bowel Disease Only
+phs000308,NHGRI,General research use; Massachusetts Eye and Ear Infirmary
+phs000368,NICHD,Genetic Analysis of Polycystic Ovary Syndrome; NUgene Biorepository
+phs000219,JAAMH,Genetic Basis of Alzheimerâ€™s
+phs000477,NHGRI,Genetic Defects in familial renal disorders
+phs000292,NHGRI,Genetic Studies of Stroke; Studies of Genes for Medical Conditions
+phs000240,NEI,Glaucoma and related conditions
+phs000096,NHGRI,GWA mapping: Maternal Metabolism-Birth Weight Interactions
+phs000289,NHGRI,GWAS of Venous Thrombosis
+phs000210,NIGMS,Health Research
+phs000495,NHGRI,Health Research - Children's Hospital Boston
+phs000494,NHGRI,Health Research - Cincinnati Children's Hospital Medical Center
+phs000387,NHGRI,Health Research - Geisinger Clinic - AAA
+phs000381,NHGRI,Health Research - Geisinger Clinic - MyCode
+phs000380,NHGRI,Health Research - Geisinger Clinic -NASH
+phs000408,NHGRI,Health Research - Geisinger Clinic -NASH
+phs000234,NHGRI,Health Research - Marshfield Clinic; Health Research - Vanderbilt U; Health Research - Group Health Seattle; Dementia or Aging - Group Health Seattle; Health Research - Mayo Clinic
+phs000297,NHGRI,Health Research - Marshfield Clinic; Health Research - Vanderbilt U; Health Research - Northwestern U; Health Research - Group Health Seattle; Dementia or Aging - Group Health Seattle; Health Research - Mayo Clinic
+phs000203,NHGRI,Health Research - Mayo Clinic
+phs000388,NHGRI,Health Research - MSSM
+phs000237,NHGRI,Health Research - Northwestern U; Health Research - Vanderbilt U
+phs000188,NHGRI,Health Research - Vanderbilt U; Health Research - Northwestern U
+phs000048,NHGRI,Health research (HR)
+phs000125,JAAMH,Health Research ; Alcoholism and Related Conditions
+phs000383,eNCI DAC,Health Research and General Methods
+phs000306,eNCI DAC,"Health Research and Methods; General Research Use; Prostate Cancer Research Only ; Cancer, Heart Disease, Stroke, Alzheimer Disease, and Diabetes Research and Methods; Cancer Research and Methods"
+phs001254,JAAMH,"Health Research; Disease-Specific (Alcoholism, GSO, RD); Disease-Specific (Bipolar Disorder, GSO); General Research Use; Disease-Specific (Schizophrenia and related disorders, GSO); Disease-Specific (Attention deficit hyperactive disorder, GSO); Disease-Specific (Attention deficit hyperactive disorder, RD); Disease-Specific (Bipolar Disorder, GSO, RD)"
+phs000362,NHLBI,Health/Medical/Biomedical
+phs000438,NHLBI,Health/Medical/Biomedical
+phs000439,NHLBI,Health/Medical/Biomedical
+phs000507,NHLBI,Health/Medical/Biomedical
+phs000580,NHLBI,Health/Medical/Biomedical
+phs000617,NHLBI,Health/Medical/Biomedical
+phs000637,NIGMS,Health/Medical/Biomedical
+phs000638,NIGMS,Health/Medical/Biomedical
+phs000640,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs000642,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs000643,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs000665,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs000670,NIGMS,Health/Medical/Biomedical
+phs000758,NHLBI,Health/Medical/Biomedical
+phs000781,NHLBI,Health/Medical/Biomedical
+phs000789,NHGRI,Health/Medical/Biomedical
+phs000791,JAAMH,Health/Medical/Biomedical
+phs000821,NHLBI,Health/Medical/Biomedical
+phs000894,NIGMS,Health/Medical/Biomedical
+phs000913,NCI DAC,Health/Medical/Biomedical
+phs000928,NIAMS,Health/Medical/Biomedical
+phs000948,NHGRI,Health/Medical/Biomedical
+phs000963,NHLBI,Health/Medical/Biomedical
+phs000970,ES DAC,Health/Medical/Biomedical
+phs000991,NIGMS,Health/Medical/Biomedical
+phs000992,NIGMS,Health/Medical/Biomedical
+phs001002,NIGMS,Health/Medical/Biomedical
+phs001010,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001021,NIGMS,Health/Medical/Biomedical
+phs001029,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001066,NCI DAC,Health/Medical/Biomedical
+phs001203,NHLBI,Health/Medical/Biomedical
+phs001258,NHLBI,Health/Medical/Biomedical
+phs001262,NIAMS,Health/Medical/Biomedical
+phs001268,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001269,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001348,NHGRI,Health/Medical/Biomedical
+phs001360,NIAMS,Health/Medical/Biomedical
+phs001373,NINDS,Health/Medical/Biomedical
+phs001384,NCI DAC,Health/Medical/Biomedical
+phs001389,NCI DAC,Health/Medical/Biomedical
+phs001433,NCI DAC,Health/Medical/Biomedical
+phs001450,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001457,NIAMS,Health/Medical/Biomedical
+phs001459,NIAMS,Health/Medical/Biomedical
+phs001520,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001525,NINDS,Health/Medical/Biomedical
+phs001528,NCI DAC,Health/Medical/Biomedical
+phs001563,NINDS,Health/Medical/Biomedical
+phs001578,NINR DAC,Health/Medical/Biomedical
+phs001615,NIAMS,Health/Medical/Biomedical
+phs001669,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001671,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001702,NIAMS,Health/Medical/Biomedical
+phs001734,JAAMH,Health/Medical/Biomedical
+phs001759,NHLBI,Health/Medical/Biomedical
+phs001793,NCI DAC,Health/Medical/Biomedical
+phs001818,NCI DAC,Health/Medical/Biomedical
+phs001842,NIDCR,Health/Medical/Biomedical
+phs001850,NIAMS,Health/Medical/Biomedical
+phs001908,NINDS,Health/Medical/Biomedical
+phs001915,NCI DAC,Health/Medical/Biomedical
+phs001944,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs001975,NIAMS,Health/Medical/Biomedical
+phs001976,NIAMS,Health/Medical/Biomedical
+phs002003,NICHD,Health/Medical/Biomedical
+phs002006,NHGRI,Health/Medical/Biomedical
+phs002008,NIDCR,Health/Medical/Biomedical
+phs002014,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs002019,NCI DAC,Health/Medical/Biomedical
+phs002049,NCI DAC,Health/Medical/Biomedical
+phs002055,NINDS,Health/Medical/Biomedical
+phs002059,NICHD,Health/Medical/Biomedical
+phs002060,NCI DAC,Health/Medical/Biomedical
+phs002065,NCI DAC,Health/Medical/Biomedical
+phs002071,NCI DAC,Health/Medical/Biomedical
+phs002099,HeLa Genome Data Access Working Group,Health/Medical/Biomedical
+phs002117,NCI DAC,Health/Medical/Biomedical
+phs002127,NINR DAC,Health/Medical/Biomedical
+phs002133,NIAID,Health/Medical/Biomedical
+phs002149,NCI DAC,Health/Medical/Biomedical
+phs002159,NICHD,Health/Medical/Biomedical
+phs002174,Kids First DAC,Health/Medical/Biomedical
+phs002193,NINDS,Health/Medical/Biomedical
+phs002201,JAAMH,Health/Medical/Biomedical
+phs002212,NHLBI,Health/Medical/Biomedical
+phs002214,NHLBI,Health/Medical/Biomedical
+phs002215,JAAMH,Health/Medical/Biomedical
+phs002231,NCI DAC,Health/Medical/Biomedical
+phs002246,NCI DAC,Health/Medical/Biomedical
+phs002266,NINR DAC,Health/Medical/Biomedical
+phs002274,NINR DAC,Health/Medical/Biomedical
+phs002289,NCI DAC,Health/Medical/Biomedical
+phs002299,NHLBI,Health/Medical/Biomedical
+phs002303,NCI DAC,Health/Medical/Biomedical
+phs002308,NIGMS,Health/Medical/Biomedical
+phs002321,NCI DAC,Health/Medical/Biomedical
+phs002337,NHGRI,Health/Medical/Biomedical
+phs002341,ES DAC,Health/Medical/Biomedical
+phs002363,NHLBI,Health/Medical/Biomedical
+phs002380,NCI DAC,Health/Medical/Biomedical
+phs002387,NCI DAC,Health/Medical/Biomedical
+phs002419,NCI DAC,Health/Medical/Biomedical
+phs002431,NCI DAC,Health/Medical/Biomedical
+phs002440,NINDS,Health/Medical/Biomedical
+phs002444,NCI DAC,Health/Medical/Biomedical
+phs002446,NIDCR,Health/Medical/Biomedical
+phs002448,NIAID,Health/Medical/Biomedical
+phs002457,NCI DAC,Health/Medical/Biomedical
+phs002460,NCI DAC,Health/Medical/Biomedical
+phs002466,NIAID,Health/Medical/Biomedical
+phs002476,NCI DAC,Health/Medical/Biomedical
+phs002482,NCI DAC,Health/Medical/Biomedical
+phs002492,NIDDK,Health/Medical/Biomedical
+phs002506,NIGMS,Health/Medical/Biomedical
+phs002507,NIDDK,Health/Medical/Biomedical
+phs002510,NIAID,Health/Medical/Biomedical
+phs002545,NCI DAC,Health/Medical/Biomedical
+phs002576,NIAID,Health/Medical/Biomedical
+phs002587,NCI DAC,Health/Medical/Biomedical
+phs002596,Kids First DAC,Health/Medical/Biomedical
+phs002677,NCI DAC,Health/Medical/Biomedical
+phs002680,NCI DAC,Health/Medical/Biomedical
+phs002695,NIAID,Health/Medical/Biomedical
+phs000360,NHGRI,Health/Medical/Biomedical - Genetic Studies Only-No Insurance Companies; Health/Medical/Biomedical (GSO); Disease-Specific (Dementia); Health/Medical/Biomedical
+phs001556,NINDS,Health/Medical/Biomedical (COL)
+phs001570,NCI DAC,Health/Medical/Biomedical (COL)
+phs001862,ES DAC,Health/Medical/Biomedical (COL)
+phs001946,NIAID,Health/Medical/Biomedical (COL)
+phs002377,NCI DAC,Health/Medical/Biomedical (COL)
+phs002255,NIDCD DAC,"Health/Medical/Biomedical (COL, MDS)"
+phs002454,NCI DAC,"Health/Medical/Biomedical (COL, NPU, GSO); Disease-Specific (Pancreatic Cancer, PUB, NPU)"
+phs002688,NCI DAC,"Health/Medical/Biomedical (COL, NPU, GSO); Health/Medical/Biomedical (IRB, PUB, NPU, MDS, GSO); Health/Medical/Biomedical (IRB, PUB, NPU, GSO)"
+phs000170,NHGRI,Health/Medical/Biomedical (GSO)
+phs000197,NICHD,Health/Medical/Biomedical (GSO)
+phs000331,NHLBI,Health/Medical/Biomedical (GSO)
+phs001620,NHGRI,Health/Medical/Biomedical (GSO)
+phs000744,NHGRI,"Health/Medical/Biomedical (GSO); Disease-Specific (Gaucher Disease); Health/Medical/Biomedical; Disease-Specific (Rare Disease); General Research Use; Disease-Specific (Genetic Skin Disease, GSO); Disease-Specific (Moyamoya, Chiari Disease, Mesial Sclerosis, GSO); Disease-Specific (Mendelian Conditions)"
+phs001806,Kids First DAC,Health/Medical/Biomedical (GSO); General Research Use
+phs001616,NHGRI,"Health/Medical/Biomedical (GSO); Health/Medical/Biomedical (NPU); Health/Medical/Biomedical; General Research Use (NPU); Health/Medical/Biomedical (IRB, PUB); General Research Use; General Research Use (IRB, NPU); General Research Use (IRB, PUB, NPU); General Research Use (IRB)"
+phs000888,NHGRI,Health/Medical/Biomedical (GSO); Health/Medical/Biomedical; Health/Medical/Biomedical - Genetic Studies Only-No Insurance Companies; General Research Use; Disease-Specific (Dementia); Disease-Specific (Childhood Diseases)
+phs001584,NHGRI,"Health/Medical/Biomedical (GSO); Health/Medical/Biomedical; Health/Medical/Biomedical (PUB, GSO); General Research Use; General Research Use (IRB, PUB, GSO); General Research Use (IRB, PUB); General Research Use (IRB, NPU); Disease-Specific (Dementia); Health/Medical/Biomedical (MDS); Disease-Specific (Childhood Diseases)"
+phs000633,NHLBI,Health/Medical/Biomedical (IRB)
+phs000760,NIAID,Health/Medical/Biomedical (IRB)
+phs000787,NIAID,Health/Medical/Biomedical (IRB)
+phs000858,NHGRI,Health/Medical/Biomedical (IRB)
+phs000904,NIDDK,Health/Medical/Biomedical (IRB)
+phs000968,ES DAC,Health/Medical/Biomedical (IRB)
+phs000989,JAAMH,Health/Medical/Biomedical (IRB)
+phs001028,NHGRI,Health/Medical/Biomedical (IRB)
+phs001073,NICHD,Health/Medical/Biomedical (IRB)
+phs001260,NIAID,Health/Medical/Biomedical (IRB)
+phs001422,NIDDK,Health/Medical/Biomedical (IRB)
+phs001503,JAAMH,Health/Medical/Biomedical (IRB)
+phs001651,NCATS,Health/Medical/Biomedical (IRB)
+phs001668,NIDCR,Health/Medical/Biomedical (IRB)
+phs001747,NHLBI,Health/Medical/Biomedical (IRB)
+phs001752,NCI DAC,Health/Medical/Biomedical (IRB)
+phs001848,NIAID,Health/Medical/Biomedical (IRB)
+phs001855,NHLBI,Health/Medical/Biomedical (IRB)
+phs001940,NCI DAC,Health/Medical/Biomedical (IRB)
+phs001984,NIDDK,Health/Medical/Biomedical (IRB)
+phs002033,NINDS,Health/Medical/Biomedical (IRB)
+phs002036,NIAID,Health/Medical/Biomedical (IRB)
+phs002105,NICHD,Health/Medical/Biomedical (IRB)
+phs002142,NCI DAC,Health/Medical/Biomedical (IRB)
+phs002189,NCI DAC,Health/Medical/Biomedical (IRB)
+phs002251,NIAID,Health/Medical/Biomedical (IRB)
+phs002298,NHGRI,Health/Medical/Biomedical (IRB)
+phs002300,NIAID,Health/Medical/Biomedical (IRB)
+phs002433,NIAID,Health/Medical/Biomedical (IRB)
+phs002442,NIAID,Health/Medical/Biomedical (IRB)
+phs002472,NHLBI,Health/Medical/Biomedical (IRB)
+phs002013,NICHD,"Health/Medical/Biomedical (IRB, COL)"
+phs002314,ES DAC,"Health/Medical/Biomedical (IRB, COL)"
+phs002557,NIAID,"Health/Medical/Biomedical (IRB, COL)"
+phs002579,NHLBI,"Health/Medical/Biomedical (IRB, COL)"
+phs001390,NIDDK,"Health/Medical/Biomedical (IRB, MDS)"
+phs002217,NIGMS,"Health/Medical/Biomedical (IRB, MDS)"
+phs002513,ES DAC,"Health/Medical/Biomedical (IRB, MDS)"
+phs000674,JAAMH,"Health/Medical/Biomedical (IRB, NPU)"
+phs000786,JAAMH,"Health/Medical/Biomedical (IRB, NPU)"
+phs000788,JAAMH,"Health/Medical/Biomedical (IRB, NPU)"
+phs001201,NIAID,"Health/Medical/Biomedical (IRB, NPU)"
+phs001248,NIAID,"Health/Medical/Biomedical (IRB, NPU)"
+phs001297,NHLBI,"Health/Medical/Biomedical (IRB, NPU)"
+phs001340,NIAMS,"Health/Medical/Biomedical (IRB, NPU)"
+phs001347,NIAID,"Health/Medical/Biomedical (IRB, NPU)"
+phs001371,NIAMS,"Health/Medical/Biomedical (IRB, NPU)"
+phs001470,JAAMH,"Health/Medical/Biomedical (IRB, NPU)"
+phs001678,NCI DAC,"Health/Medical/Biomedical (IRB, NPU)"
+phs001826,JAAMH,"Health/Medical/Biomedical (IRB, NPU)"
+phs001827,NCI DAC,"Health/Medical/Biomedical (IRB, NPU)"
+phs001834,NEI,"Health/Medical/Biomedical (IRB, NPU)"
+phs001918,NHLBI,"Health/Medical/Biomedical (IRB, NPU)"
+phs001987,Kids First DAC,"Health/Medical/Biomedical (IRB, NPU)"
+phs002126,NINDS,"Health/Medical/Biomedical (IRB, NPU)"
+phs002131,NCI DAC,"Health/Medical/Biomedical (IRB, NPU)"
+phs002169,NIAID,"Health/Medical/Biomedical (IRB, NPU)"
+phs002312,NIAID,"Health/Medical/Biomedical (IRB, NPU)"
+phs002663,NIAMS,"Health/Medical/Biomedical (IRB, NPU)"
+phs000236,NHLBI,"Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000285,NHLBI,"Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000309,NHLBI,"Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000399,NHLBI,"Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs000613,NHLBI,"Health/Medical/Biomedical (IRB, NPU); Health/Medical/Biomedical (IRB)"
+phs001393,NIDDK,"Health/Medical/Biomedical (IRB, NPU, MDS)"
+phs001721,NIDDK,"Health/Medical/Biomedical (IRB, NPU, MDS)"
+phs001723,NIDDK,"Health/Medical/Biomedical (IRB, NPU, MDS)"
+phs002422,NIAID,"Health/Medical/Biomedical (IRB, NPU, MDS)"
+phs002423,NIAID,"Health/Medical/Biomedical (IRB, NPU, MDS)"
+phs002336,NIDDK,"Health/Medical/Biomedical (IRB, NPU, MDS); Disease-Specific (Inflammatory Bowel Disease, IRB, NPU)"
+phs000007,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000282,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000307,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000342,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000363,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000401,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000651,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs000724,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs001610,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs002558,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs002559,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs002560,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs002611,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS); Health/Medical/Biomedical (IRB, MDS)"
+phs001159,NCI DAC,"Health/Medical/Biomedical (IRB, PUB)"
+phs001429,NIDDK,"Health/Medical/Biomedical (IRB, PUB)"
+phs001502,NHLBI,"Health/Medical/Biomedical (IRB, PUB)"
+phs002562,NIAMS,"Health/Medical/Biomedical (IRB, PUB)"
+phs002687,NHLBI,"Health/Medical/Biomedical (IRB, PUB)"
+phs001601,NHLBI,"Health/Medical/Biomedical (IRB, PUB); Exchange Area (IRB, PUB)"
+phs002092,NICHD,"Health/Medical/Biomedical (IRB, PUB); General Research Use; Health/Medical/Biomedical; Health/Medical/Biomedical (IRB)"
+phs002093,NICHD,"Health/Medical/Biomedical (IRB, PUB); General Research Use; Health/Medical/Biomedical; Health/Medical/Biomedical (IRB)"
+phs002094,NICHD,"Health/Medical/Biomedical (IRB, PUB); General Research Use; Health/Medical/Biomedical; Health/Medical/Biomedical (IRB)"
+phs002095,NICHD,"Health/Medical/Biomedical (IRB, PUB); General Research Use; Health/Medical/Biomedical; Health/Medical/Biomedical (IRB)"
+phs002096,NICHD,"Health/Medical/Biomedical (IRB, PUB); General Research Use; Health/Medical/Biomedical; Health/Medical/Biomedical (IRB)"
+phs001527,NCI DAC,"Health/Medical/Biomedical (IRB, PUB, COL)"
+phs001336,NICHD,"Health/Medical/Biomedical (IRB, PUB, COL, MDS, GSO)"
+phs001588,NIGMS,"Health/Medical/Biomedical (IRB, PUB, COL, NPU)"
+phs001543,NHLBI,"Health/Medical/Biomedical (IRB, PUB, COL, NPU, MDS); Exchange Area (IRB, PUB, COL, NPU, MDS)"
+phs001541,JAAMH,"Health/Medical/Biomedical (IRB, PUB, MDS)"
+phs002692,NHLBI,"Health/Medical/Biomedical (IRB, PUB, MDS)"
+phs001767,NHLBI,"Health/Medical/Biomedical (IRB, PUB, NPU)"
+phs002140,JAAMH,"Health/Medical/Biomedical (IRB, PUB, NPU); Health/Medical/Biomedical (IRB, NPU)"
+phs001154,NICHD,"Health/Medical/Biomedical (IRB, PUB, NPU, GSO)"
+phs002195,NICHD,"Health/Medical/Biomedical (IRB, PUB, NPU, MDS)"
+phs002226,JAAMH,"Health/Medical/Biomedical (IRB, PUB, NPU, MDS, GSO)"
+phs000299,NCI DAC,Health/Medical/Biomedical (MDS)
+phs000671,NCI DAC,Health/Medical/Biomedical (MDS)
+phs000884,NCI DAC,Health/Medical/Biomedical (MDS)
+phs000885,NCI DAC,Health/Medical/Biomedical (MDS)
+phs000944,NHGRI,Health/Medical/Biomedical (MDS)
+phs001087,NCI DAC,Health/Medical/Biomedical (MDS)
+phs001101,NHLBI,Health/Medical/Biomedical (MDS)
+phs001177,NCI DAC,Health/Medical/Biomedical (MDS)
+phs001327,NCI DAC,Health/Medical/Biomedical (MDS)
+phs001460,NHGRI,Health/Medical/Biomedical (MDS)
+phs001490,NIDDK,Health/Medical/Biomedical (MDS)
+phs001529,NIAMS,Health/Medical/Biomedical (MDS)
+phs001539,NHLBI,Health/Medical/Biomedical (MDS)
+phs001580,NCI DAC,Health/Medical/Biomedical (MDS)
+phs001672,NHLBI,Health/Medical/Biomedical (MDS)
+phs001781,NCI DAC,Health/Medical/Biomedical (MDS)
+phs001960,NIAMS,Health/Medical/Biomedical (MDS)
+phs002018,NHGRI,Health/Medical/Biomedical (MDS)
+phs002200,NINR DAC,Health/Medical/Biomedical (MDS)
+phs002232,NIDCR,Health/Medical/Biomedical (MDS)
+phs002238,NCI DAC,Health/Medical/Biomedical (MDS)
+phs002243,NHGRI,Health/Medical/Biomedical (MDS)
+phs002318,NCI DAC,Health/Medical/Biomedical (MDS)
+phs002414,JAAMH,Health/Medical/Biomedical (MDS)
+phs002048,NIAMS,Health/Medical/Biomedical (MDS); Disease-Specific (Autoimmune Diseases); Health/Medical/Biomedical
+phs000950,NCI DAC,Health/Medical/Biomedical (MDS); General Research Use
+phs000298,JAAMH,"Health/Medical/Biomedical (MDS); General Research Use; Disease-Specific (Autism or Other Neurodevelopment Conditions, MDS); Disease-Specific (Autism Spectrum Disorder)"
+phs001977,NCI DAC,Health/Medical/Biomedical (MDS); Health/Medical/Biomedical
+phs002595,Kids First DAC,Health/Medical/Biomedical (MDS); Health/Medical/Biomedical
+phs002034,NCI DAC,"Health/Medical/Biomedical (MDS, GSO)"
+phs002102,NIAMS,"Health/Medical/Biomedical (MDS, GSO); Health/Medical/Biomedical; Disease-Specific (Osteoporosis, IRB, COL, GSO, RD)"
+phs000330,NHGRI,Health/Medical/Biomedical (NPU)
+phs000454,JAAMH,Health/Medical/Biomedical (NPU)
+phs000632,NHLBI,Health/Medical/Biomedical (NPU)
+phs001226,NIGMS,Health/Medical/Biomedical (NPU)
+phs001645,NCI DAC,Health/Medical/Biomedical (NPU)
+phs001757,NIDCD DAC,Health/Medical/Biomedical (NPU)
+phs001907,NCI DAC,Health/Medical/Biomedical (NPU)
+phs001911,ES DAC,Health/Medical/Biomedical (NPU)
+phs002155,JAAMH,Health/Medical/Biomedical (NPU)
+phs002173,Kids First DAC,Health/Medical/Biomedical (NPU)
+phs002196,NIAID,Health/Medical/Biomedical (NPU)
+phs002306,NIGMS,Health/Medical/Biomedical (NPU)
+phs002502,NHGRI,"Health/Medical/Biomedical (NPU); Disease-Specific (Mental Health and Neurology Research, NPU, MDS); Disease-Specific (Autism Spectrum Disorder, MDS); Disease-Specific (Autism Spectrum Disorder); General Research Use (NPU); Disease-Specific (Rare Disease); General Research Use; Disease-Specific (Autism Spectrum Disorder, RD); Health/Medical/Biomedical (MDS); Disease-Specific (Neurodevelopmental and related disorders); Disease-Specific (Autism Spectrum Disorder, NPU); Disease-Specific (Autism Spectrum Disorder, NPU, MDS)"
+phs001547,NHLBI,Health/Medical/Biomedical (NPU); Exchange Area (NPU)
+phs001644,NHLBI,Health/Medical/Biomedical (NPU); Exchange Area (NPU)
+phs002593,Kids First DAC,Health/Medical/Biomedical (NPU); General Research Use; Health/Medical/Biomedical
+phs000209,NHLBI,Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000283,NHLBI,Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000403,NHLBI,Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000420,NHLBI,Health/Medical/Biomedical (NPU); Health/Medical/Biomedical
+phs000711,NHGRI,"Health/Medical/Biomedical (NPU); Health/Medical/Biomedical (IRB, NPU)"
+phs001380,NINDS,"Health/Medical/Biomedical (NPU); Health/Medical/Biomedical; Disease-Specific (Tourette Syndrome, NPU); Disease-Specific (Tourette Syndrome and Related Disorders); Disease-Specific (Tourette Syndrome and Related Disorders, NPU)"
+phs002261,NIGMS,"Health/Medical/Biomedical (NPU, GSO)"
+phs002418,NCI DAC,"Health/Medical/Biomedical (NPU, GSO)"
+phs001511,NIDDK,"Health/Medical/Biomedical (NPU, MDS)"
+phs002166,NINR DAC,"Health/Medical/Biomedical (NPU, MDS)"
+phs002335,NCI DAC,"Health/Medical/Biomedical (NPU, MDS)"
+phs002426,NCI DAC,"Health/Medical/Biomedical (NPU, MDS); Disease-Specific (Acute Myelogenous Leukemia, NPU, MDS)"
+phs002220,NIDCR,"Health/Medical/Biomedical (NPU, MDS); Health/Medical/Biomedical; Disease-Specific (Craniofacial and Eye Disorders); General Research Use; Disease-Specific (Craniofacial Research, IRB, COL); Health/Medical/Biomedical (MDS); Disease-Specific (Oral Clefts, PUB); Disease-Specific (Orofacial birth defects and related phenotypes, MDS)"
+phs001179,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001249,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001421,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001432,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001643,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001666,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001689,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001835,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001861,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001962,NCI DAC,Health/Medical/Biomedical (PUB)
+phs002491,NCI DAC,Health/Medical/Biomedical (PUB)
+phs002691,NCI DAC,Health/Medical/Biomedical (PUB)
+phs001265,eNCI DAC,"Health/Medical/Biomedical (PUB); Disease-Specific (Cancer); Disease-Specific (Cancer, NPU, GSO); Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS); General Research Use; Cancer in all age groups, other diseases in adults only, and methods; Disease-Specific (Breast and Ovarian cancer); Disease-Specific (Breast Cancer, PUB); Health/Medical/Biomedical (PUB, NPU); Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS)"
+phs001315,NCI DAC,"Health/Medical/Biomedical (PUB); Disease-Specific (Colorectal Cancer, PUB, NPU); General Research Use; Disease-Specific (Colorectal Cancer, NPU, GSO)"
+phs001515,NHLBI,Health/Medical/Biomedical (PUB); Exchange Area (PUB)
+phs001905,NCI DAC,"Health/Medical/Biomedical (PUB); Health/Medical/Biomedical (IRB, NPU, GSO); Health/Medical/Biomedical; General Research Use; Cancer in all age groups, other diseases in adults only, and methods; Disease-Specific (Cancer, MDS); Disease-Specific (Colon Cancer, MDS)"
+phs001415,NCI DAC,"Health/Medical/Biomedical (PUB); Health/Medical/Biomedical; Disease-Specific (Bowel Cancer); Health/Medical/Biomedical (PUB, NPU, GSO); Health/Medical/Biomedical (COL, GSO); General Research Use; Health/Medical/Biomedical (IRB); Cancer in all age groups, other diseases in adults only, and methods; General Research Use (GSO); Disease-Specific (Colorectal and Endometrial Cancer, IRB); Disease-Specific (Cancer, IRB); Rare and common variants associated with colorectal cancer risk, and methods; Health/Medical/Biomedical (IRB, NPU)"
+phs001772,NCI DAC,"Health/Medical/Biomedical (PUB, COL)"
+phs002284,NHLBI,"Health/Medical/Biomedical (PUB, GSO)"
+phs000621,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs000795,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs000898,NHGRI,"Health/Medical/Biomedical (PUB, MDS)"
+phs001405,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs001786,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs001797,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs001825,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs001917,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs002273,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)"
+phs002632,NIAMS,"Health/Medical/Biomedical (PUB, MDS)"
+phs001202,NIDCR,"Health/Medical/Biomedical (PUB, MDS); Disease-Specific (Cancer, PUB, MDS)"
+phs000857,NHGRI,"Health/Medical/Biomedical (PUB, NPU)"
+phs000980,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)"
+phs001088,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)"
+phs001593,NHGRI,"Health/Medical/Biomedical (PUB, NPU)"
+phs001914,NHGRI,"Health/Medical/Biomedical (PUB, NPU)"
+phs001956,JAAMH,"Health/Medical/Biomedical (PUB, NPU)"
+phs002461,NIGMS,"Health/Medical/Biomedical (PUB, NPU)"
+phs002486,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)"
+phs002141,JAAMH,"Health/Medical/Biomedical (PUB, NPU); Health/Medical/Biomedical (IRB, PUB, NPU)"
+phs001038,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001041,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001362,NHGRI,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001400,NHGRI,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001469,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001590,JAAMH,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001919,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001937,NICHD,"Health/Medical/Biomedical (PUB, NPU, MDS)"
+phs001903,NCI DAC,"Health/Medical/Biomedical; Disease-Specific (Cancer, NPU, GSO); Health/Medical/Biomedical (IRB, COL); Disease-Specific (Colorectal Cancer, PUB); Disease-Specific (Cancer, MDS); Disease-Specific (Cancer, PUB); Epidemiological and Medical Research on Cancer and Methods; Cancer in all age groups, other diseases in adults only, and methods; Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS); Disease-Specific (Colon Cancer, MDS); Disease-Specific (Colorectal Cancer, MDS); Disease-Specific (Cancer, GSO); Disease-Specific (Colorectal Cancer, COL, NPU); Colorectal Cancer and Statistical Methods; Disease-Specific (Colon Cancer, PUB, NPU); Health/Medical/Biomedical (PUB, NPU); General Research Use (PUB); Disease-Specific (Colon Cancer, IRB, COL); Disease-Specific (Cancer, IRB, PUB, NPU, MDS); Chronic Diseases (including Cancer) and Methods; General Research Use; Disease-Specific (Colorectal Cancer)"
+phs001856,NCI DAC,"Health/Medical/Biomedical; Disease-Specific (Colon Cancer, IRB, COL); Disease-Specific (Cancer, IRB, PUB, NPU, MDS); General Research Use; Health/Medical/Biomedical (IRB, COL); Disease-Specific (Colorectal Cancer); Disease-Specific (Cancer, MDS); Disease-Specific (Colorectal Cancer, MDS)"
+phs001123,NHLBI,"Health/Medical/Biomedical; Disease-Specific (Focused Disease Only, IRB); Health/Medical/Biomedical (IRB); Disease-Specific (Lung Disease); General Research Use (IRB); Health/Medical/Biomedical (IRB, NPU); Disease-Specific (Focused Disease Only, IRB, NPU)"
+phs001410,Kids First DAC,"Health/Medical/Biomedical; Disease-Specific (Musculoskeletal Diseases, IRB)"
+phs000693,NHGRI,"Health/Medical/Biomedical; Disease-Specific (Rare Disorders Involving Malformations of Head and Neck); Disease-Specific (Trichelemmel Cysts); Disease-Specific (Skeletal Dysplasias, RD); Disease-Specific (Neurological and Related Disorders); General Research Use (IRB); Disease-Specific (Epilepsy); Disease-Specific (Congenital Heart Disease, IRB); Disease-Specific (Hallervorden-Spatz Syndrome); Disease-Specific (Idiopathic Fibrosis); Disease-Specific (Neurodegeneration with Brain Iron Accumulation); Disease-Specific (Supravalvular Aortic Stenosis or Cutix Laxa); Disease-Specific (Idiopathic Pulmonary Fibrosis); Disease-Specific (Progeria); Disease-Specific (Lipodystrophy, Premature Aging, or Related Syndromes, IRB); Disease-Specific (Head and Face); Disease-Specific (Skeletal Dysplasias); Disease-Specific (Causes or Etiology of Rare Diseases); Disease-Specific (Congenital Heart Defects); Disease-Specific (Thyroid Cancer, IRB); Disease-Specific (Genetic and Inherited Disorders); Disease-Specific (Epilepsy and Disorders of Human Cognition); Disease-Specific (Bicuspid Aortic Valve, IRB, PUB, RD); Health/Medical/Biomedical (GSO); Health/Medical/Biomedical (NPU); Disease-Specific (Liver Disease); Disease-Specific (Split Hand Foot Malformations and Related Disorders); Disease-Specific (Pediatric Liver or Gut Disease, NPU); Disease-Specific (Brain Abnormalities); Disease-Specific (Hereditary Condition Causes); Disease-Specific (Skin Laxity or Arterial Narrowing, NPU); General Research Use; Health/Medical/Biomedical (IRB); Disease-Specific (Lung Diseases); Disease-Specific (Lymphatic Disease); Disease-Specific (Brain Disorders)"
+phs002017,NICHD,Health/Medical/Biomedical; Health/Medical/Biomedical (IRB)
+phs001491,NIDCR,"Health/Medical/Biomedical; Turkey Health/Medical/Biomedical (IRB, PUB, COL, NPU, MDS, GSO); NTUH Taiwan Health/Medical/Biomedical (IRB, PUB, COL, NPU, MDS, GSO)"
+phs000538,NHGRI,Heart Disease
+phs000445,NCI DAC,Hemophilia and Viral Infections
+phs000492,NHGRI,Human Epilepsy and Cognition
+phs001798,NHGRI,Human Genetic Variation Research
+phs000228,NHGRI,Human microbiome research
+phs000251,NIAMS,Human Microbiome Research
+phs000252,NIDDK,Human Microbiome Research
+phs000255,NIDDK,Human Microbiome Research
+phs000256,NIAID,Human Microbiome Research
+phs000258,NIDDK,Human Microbiome Research
+phs000259,NIDDK,Human Microbiome Research
+phs000260,eNCI DAC,Human Microbiome Research
+phs000261,NIAID,Human Microbiome Research
+phs000262,NIDDK,Human Microbiome Research
+phs000264,NIAID,Human Microbiome Research
+phs000266,NIAMS,Human Microbiome Research
+phs000263,NIAMS,Human Microbiome Research
+phs000247,NIAID,Human Microbiome Research
+phs000371,NINDS,Huntington's Disease Research; General Research Use
+phs000511,NHGRI,"Hypertriglyceridemia type I, III, and V"
+phs000656,NIAID,Immunology Research Use
+phs000416,NINDS,Intracerebral Hemorrhage or Related Neurological Disorders
+phs000295,NHGRI,Kabuki Syndrome
+phs000484,NHGRI,Kidney diseases
+phs001720,NHGRI,Kidney Function
+phs000217,NIAID,Leprosy Studies Only
+phs001852,NICHD,Limited Health/Medical/Biomedical; Health/Medical/Biomedical (IRB)
+phs000202,NIAMS,Lupus Related Research
+phs000561,NHGRI,Metabolism and Genetics of Hypobetalipoproteinemia: Population Screen
+phs001112,NCI DAC,Methods Only
+phs000257,NIDDK,Microbiome
+phs000265,NIDDK,Microbiome
+phs000244,NHLBI,Miller Syndrome Exome - General Research Use
+phs000275,NINDS,MS and Related Disorders
+phs000171,NINDS,Multiple Sclerosis Genetics research
+phs000541,NHGRI,Muscle Development Disorders
+phs002198,JAAMH,National law prohibits individual level data from being deposited. Only Summary-level statistics can be provided.; Health/Medical/Biomedical
+phs001790,JAAMH,"Neuroscience, health and disease"
+phs001791,JAAMH,"Neuroscience, health and disease"
+phs002697,JAAMH,"Neuroscience, health and disease"
+phs000404,JAAMH,Nicotine Addiction Research; General Research Use
+phs000931,JAAMH,Nicotine metabolism and smoking behaviors
+phs000658,JAAMH,No data use restrictions
+phs000375,NHLBI,Non Profit Research Use
+phs000423,NHLBI,Non Profit Research Use
+phs000284,NHLBI,Non Profit Use
+phs000145,None,None
+phs000179,None; NHLBI,None; Exchange Area
+phs000227,None; NHLBI,None; Exchange Area
+phs000493,NHGRI,Non-profit Research
+phs000428,JAAMH,Non-profit research use only
+phs000449,ES DAC,Non-Profit Use
+phs000091,NHGRI,Non-Profit Use Only
+phs000139,NINDS,Non-Profit Use Only; Multiple Sclerosis and Related disorders; Multiple Sclerosis
+phs000160,JAAMH,Non-Profit Use; Alzheimer Disease Only; General Research Use; Alzheimer Disease and Non-Profit Use Only
+phs000127,NINDS,Non-profit_use
+phs000459,NIDCR,"Oral Clefts, IRB, COL, GSO, Bailey-WilsonJ; Oral Clefts, IRB, COL, GSO, MangoldE-NothenM; Disease-Specific (Craniofacial Disorders, GSO); Oral Clefts, IRB, COL, GSO, BeatyT; Disease-Specific (Orofacial Cleft)"
+phs000440,NIDCR,Oral Health
+phs000390,NIAMS,Osteoporosis
+phs001922,NICHD,Other
+phs000218,NCI DAC,Pediatric Cancer Research
+phs000463,NCI DAC,Pediatric Cancer Research
+phs000464,NCI DAC,Pediatric Cancer Research
+phs000465,NCI DAC,Pediatric Cancer Research
+phs000466,NCI DAC,Pediatric Cancer Research
+phs000467,NCI DAC,Pediatric Cancer Research
+phs000468,NCI DAC,Pediatric Cancer Research
+phs000469,NCI DAC,Pediatric Cancer Research
+phs000470,NCI DAC,Pediatric Cancer Research
+phs000471,NCI DAC,Pediatric Cancer Research
+phs000515,eNCI DAC,Pediatric Cancer Research
+phs000522,NCI DAC,Pediatric Cancer Research and General Methods
+phs000353,NHGRI,Preterm Birth and its Complications
+phs000444,NIDDK,Primary Biliary Cirrhosis and Related Conditions
+phs000487,eNCI DAC,Prostate Cancer Research and Cancer Methods
+phs000476,NHGRI,Pseudohypoparathyroidism or Related Disorders
+phs000020,JAAMH,Psychiatric and Related Somatic Conditions
+phs000520,JAAMH,Research in Developmental Psychopathology
+phs000181,JAAMH,Research on Alcohol and Tobacco Related Phenotypes
+phs000524,NIDDK,"Research on Disease of Kidney, Heart and Blood Vessels; All Health Conditions"
+phs000206,NCI DAC,Research related to adult diseases and methods
+phs000207,NCI DAC,Research related to adult diseases and methods
+phs000201,eNCI DAC,Research related to hematologic diseases and methods
+phs001286,NCI DAC,Research relating to adults diseases and methods
+phs002011,NCI DAC,Research relating to adults diseases and methods
+phs000021,JAAMH,Schizophrenia and Related Conditions; General Research Use
+phs000167,JAAMH,Schizophrenia and Related Conditions; General Research Use
+phs000357,NIAMS,Scleroderma and other autoimmune diseases
+phs000478,NHGRI,"Strabismus, cranial nerve abnormalities and associated disorders"
+phs000343,NHGRI,Stroke Research
+phs000088,NIDDK,T1 Diabetes and complications (T1DC)
+phs000140,NIDDK,T2D and complications
+phs002264,NLM_DAC,TestingG1
+phs002693,NIDDK,"The Regents of the University of California, San Francisco"
+phs000583,NIDDK,Type 2 diabetes and metabolic syndrome
+phs000905,NHGRI,Unrestricted
+phs000851,eNCI DAC,"Up for a Challenge (Not for Profit Use Only, Publication required); Exchange Area; Up for a Challenge (Publication required)"
+phs002678,NIDCR,Use of the data is limited to microbial sequences for health/medical/biomedical purposes; Health/Medical/Biomedical
