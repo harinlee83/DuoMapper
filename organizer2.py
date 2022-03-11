@@ -8,6 +8,13 @@
 # Should "Research of Any type" include any consent title that contains the word "research" in it?
 # Should "Disease Specific" include any consent title that contains the word "disease" in it?
 
+# What should I do for these cases?
+# Genetic Analysis of Polycystic Ovary Syndrome
+# Genetic Basis of Alzheimerâ€™s
+# Genetic Defects in familial renal disorders
+# Genetic Studies of Stroke
+# Studies of Genes for Medical Conditions
+
 import csv
 import re
 
