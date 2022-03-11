@@ -6,8 +6,8 @@ phs000004,test,test,test,test,test,test,test,General research use,http://purl.ob
 phs000005,test,test,test,test,test,test,test,Stroke and Related Disorders,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000005,test,test,test,test,test,test,test,General research use,http://purl.obolibrary.org/obo/DUO_0000042,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000007,test,test,test,test,test,test,test,"Health/Medical/Biomedical (IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
-http://purl.obolibrary.org/obo/DUO_0000021
-http://purl.obolibrary.org/obo/DUO_0000045",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
+http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000021",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000007,test,test,test,test,test,test,test,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000016,test,test,test,test,test,test,test,ADHD,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
