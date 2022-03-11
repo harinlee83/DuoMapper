@@ -4,7 +4,6 @@
 
 # This code builds off of code from organizer.py
 
-
 # Questions for Jon
 # Should "Research of Any type" include any consent title that contains the word "research" in it?
 # Should "Disease Specific" include any consent title that contains the word "disease" in it?
@@ -13,15 +12,12 @@ import csv
 import re
 
 # Insert "consent title" column letter (captialized) here
-# consent_title_column_letter = input("Insert consent title column letter (capitalized): ")
-consent_title_column_letter = 'C'
+consent_title_column_letter = input("Insert consent title column letter (capitalized): ")
 CONSENT_TITLE_COLUMN_NUMBER = ord(consent_title_column_letter) - ord("A")
 
 # Insert "PURL" column letter (captialized) here
-# PURL_title_column_letter = input("Insert column letter (capitalized) for PURLs: ")
-PURL_title_column_letter = 'D'
-# name_of_PURL_column = input("Insert name of PURLs column: ")
-name_of_PURL_column = "PURLs"
+PURL_title_column_letter = input("Insert column letter (capitalized) for PURLs: ")
+name_of_PURL_column = input("Insert name of PURLs column: ")
 PURL_COLUMN_NUMBER = ord(PURL_title_column_letter) - ord("A")
 
 # Insert csv file names here
@@ -60,6 +56,7 @@ with open(original_CSV_file, "r") as originalFile:
             copyLine.insert(PURL_COLUMN_NUMBER,'')
             # Look for key match where capitalization variations are accounted for
             for key in upperMappedData:
+                # Add regex word boundaries
                 pattern = re.compile(r'\b' + key + r'\b')
                 matches = re.search(pattern,copyLine[CONSENT_TITLE_COLUMN_NUMBER].upper())
                 # If query term is found
