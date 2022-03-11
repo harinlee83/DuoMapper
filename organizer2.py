@@ -4,19 +4,6 @@
 
 # This code builds off of code from organizer.py
 
-# Here are some failed test cases
-# Diseases of Muscle and the Nervous System --> disease specific?
-# Diseases of the Immune System --> disease specific?
-# Neuroscience, health and disease --> disease specific? health research?
-# Brain health and disease --> health research?
-# Disease Specific for Cardiovascular Disease with IRB approval
-# Genetic Studies of Stroke
-# For general medical research, for non-profit only --> general research, medical research?
-
-# Recommendation to add to TermMapping
-# Non Profit Research
-# Non-profit_use
-# IRB approval
 
 # Questions for Jon
 # Should "Research of Any type" include any consent title that contains the word "research" in it?
