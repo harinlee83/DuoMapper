@@ -4,18 +4,6 @@
 
 # This code builds off of code from organizer.py
 
-# Questions for Jon
-# Should "Research of Any type" include any consent title that contains the word "research" in it?
-# Should "Disease Specific" include any consent title that contains the word "disease" in it?
-
-# What should I do for these cases?
-# Genetic Analysis of Polycystic Ovary Syndrome
-# Genetic Basis of Alzheimerâ€™s
-# Genetic Defects in familial renal disorders
-# Genetic Studies of Stroke
-# Studies of Genes for Medical Conditions
-# not-for_profit
-
 import csv
 import re
 
@@ -29,9 +17,9 @@ name_of_PURL_column = input("Insert name of PURLs column: ")
 PURL_COLUMN_NUMBER = ord(PURL_title_column_letter) - ord("A")
 
 # Insert csv file names here
-original_CSV_file = "ORGANIZED_v1: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
-new_CSV_file = "ORGANIZED_v2: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
-list_of_terms_CSV_file = "TermMapping.csv"
+original_CSV_file = "csv files/ORGANIZED_v1: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+new_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+list_of_terms_CSV_file = "csv files/TermMapping.csv"
 
 # Converts the TermMapping CSV file into a dict called mappedData to query through.
 # Key = Subset Consent Title, Value = PURLs

@@ -9,8 +9,8 @@ consent_title_column_letter = input("Insert consent title column letter (capital
 CONSENT_TITLE_COLUMN_NUMBER = ord(consent_title_column_letter) - ord("A")
 
 # Insert csv file names here
-original_CSV_file = "DUO Validation Project - Development Dataset - Test Data 2.0.csv"
-new_CSV_file = "ORGANIZED_v1: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+original_CSV_file = "csv files/DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+new_CSV_file = "csv files/ORGANIZED_v1: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
 
 with open(original_CSV_file, "r") as originalFile:
     with open(new_CSV_file, "w") as newFile:

@@ -1,4 +1,4 @@
-phs,dac_list,consent_title,PURLs
+phs,dac_list,consent_title,PURLS
 phs000394,NINDS,Academic Research Use,
 phs000434,NHGRI,Accelerated Aging Syndromes,
 phs000016,JAAMH,ADHD,
@@ -11,13 +11,14 @@ phs000277,JAAMH,Substance Use Dependence Only,
 phs000092,NHGRI,Alcoholism and Related Conditions,
 phs000092,NHGRI,Health Research,http://purl.obolibrary.org/obo/DUO_0000006
 phs000649,NIGMS,All PEAR patients,
-phs000168,JAAMH,Alzheimer Disease and Non-Profit Use Only,http://purl.obolibrary.org/obo/DUO_0000045
+phs000168,JAAMH,Alzheimer Disease and Non-Profit Use Only,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000168,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000168,JAAMH,Non Profit Use,http://purl.obolibrary.org/obo/DUO_0000045
-phs000168,JAAMH,Alzheimer Disease Only,
+phs000168,JAAMH,Alzheimer Disease Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000610,JAAMH,Alzheimer's and age related conditions,
 phs000700,JAAMH,Alzheimer's and age related conditions,
-phs000372,JAAMH,Alzheimer's Disease Genetics Consortium,
+phs000372,JAAMH,Alzheimer's Disease Genetics Consortium,http://purl.obolibrary.org/obo/DUO_0000007
 phs000483,JAAMH,Alzheimer's disorder and related disorders,
 phs000548,NIGMS,Aspirin-Related Research,
 phs000166,NHLBI,Asthma-Related Research,
@@ -30,7 +31,7 @@ phs000017,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs002324,NHGRI,Birth defects and genetic conditions,
 phs002324,NHGRI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs000474,NHGRI,Bone Marrow Failure Conditions,
-phs002292,JAAMH,Brain health and disease,
+phs002292,JAAMH,Brain health and disease,http://purl.obolibrary.org/obo/DUO_0000007
 phs002292,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000547,NHGRI,"Breast cancer, study drug efficacy and toxicity, and covariates",
 phs000488,NHGRI,Cancer and Methods Research Only,
@@ -38,7 +39,7 @@ phs000488,NHGRI,Cancer Research Only,
 phs000488,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000488,NHGRI,Lung Cancer Only,
 phs000093,NCI DAC,Cancer and other diseases in adults only (PLCO),
-phs000093,NCI DAC,Research related to smoking or lung disease (EAGLE),
+phs000093,NCI DAC,Research related to smoking or lung disease (EAGLE),http://purl.obolibrary.org/obo/DUO_0000007
 phs000346,NCI DAC,"Cancer in all age groups, adult diseases, and methods",
 phs000351,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
 phs000882,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
@@ -48,7 +49,7 @@ http://purl.obolibrary.org/obo/DUO_0000007"
 phs000396,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
 phs000396,NCI DAC,Esophageal and stomach cancer,
 phs000336,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
-phs000336,NCI DAC,Research related to lung disease or smoking,
+phs000336,NCI DAC,Research related to lung disease or smoking,http://purl.obolibrary.org/obo/DUO_0000007
 phs000245,NHGRI,Cancer Research,
 phs000443,NCI DAC,Cancer Research and General Methods,
 phs000513,NCI DAC,Cancer Research and General Methods,
@@ -67,12 +68,12 @@ phs000447,NHGRI,Cancer Research Only,
 phs000447,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000611,NHGRI,Cancer Treatment Research Only,
 phs000611,NHGRI,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
-phs000512,NHGRI,Cardiovascular Disease,
+phs000512,NHGRI,Cardiovascular Disease,http://purl.obolibrary.org/obo/DUO_0000007
 phs000485,NHGRI,Congenital Diaphragmatic Hernia and Related Disorders,
 phs000094,NIDCR,Craniofacial Anomalies,
 phs000302,NIDDK,diabetes and complications,
 phs000462,NIDDK,Diabetes and Related Conditions,
-phs000333,NIDDK,"diabetes, kidney disease, retinopathy and/or related diseases",
+phs000333,NIDDK,"diabetes, kidney disease, retinopathy and/or related diseases",http://purl.obolibrary.org/obo/DUO_0000007
 phs000581,NHLBI,Disease Specific (Familial Dilated Cardiomyopathy),http://purl.obolibrary.org/obo/DUO_0000007
 phs000716,NCI DAC,"Disease Specific (LC, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000582,NHLBI,Disease Specific (Lung Diseases),http://purl.obolibrary.org/obo/DUO_0000007
@@ -409,7 +410,7 @@ phs001273,NCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0
 phs001273,NCI DAC,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs001273,NCI DAC,"Disease-Specific (Cancer, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001273,NCI DAC,Lung Disease and Smoking,
+phs001273,NCI DAC,Lung Disease and Smoking,http://purl.obolibrary.org/obo/DUO_0000007
 phs001273,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001273,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
 phs001273,NCI DAC,"Disease-Specific (Cancer, COL, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -461,7 +462,7 @@ phs000893,NCI DAC,General Research Use (MDS),http://purl.obolibrary.org/obo/DUO_
 phs000893,NCI DAC,"Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000893,NCI DAC,Disease-Specific (Chronic Diseases),http://purl.obolibrary.org/obo/DUO_0000007
 phs000893,NCI DAC,"Disease-Specific (Endometrial Diseases, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000893,NCI DAC,"Cancer in all age groups, other disease in adults only and methods",
+phs000893,NCI DAC,"Cancer in all age groups, other disease in adults only and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs000893,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -715,7 +716,7 @@ phs002345,NCI DAC,Health/Medical/Biomedical (PUB),"http://purl.obolibrary.org/ob
 http://purl.obolibrary.org/obo/DUO_0000019"
 phs002345,NCI DAC,"Disease-Specific (Breast Diseases, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs002345,NCI DAC,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs002345,NCI DAC,Familial and environmental influences on breast disease,
+phs002345,NCI DAC,Familial and environmental influences on breast disease,http://purl.obolibrary.org/obo/DUO_0000007
 phs002345,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
@@ -2735,7 +2736,7 @@ phs000880,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs000880,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs000812,NCI DAC,Exchange Area,
-phs000812,NCI DAC,"Cancer in all age groups, other disease in adults only and methods",
+phs000812,NCI DAC,"Cancer in all age groups, other disease in adults only and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs000812,NCI DAC,General Research Use (MDS),http://purl.obolibrary.org/obo/DUO_0000042
 phs000812,NCI DAC,"Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000812,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
@@ -2744,7 +2745,7 @@ phs000220,NHGRI,Exchange Area,
 phs000220,NHGRI,Cancer Research and Methods,
 phs000220,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000279,NHLBI,Exchange Area,
-phs000279,NHLBI,Cardiovascular Disease,
+phs000279,NHLBI,Cardiovascular Disease,http://purl.obolibrary.org/obo/DUO_0000007
 phs001477,CDAC,Exchange Area,
 phs001477,CDAC,Consent Group 1,
 phs001477,CDAC,Consent Group 2,
@@ -2917,12 +2918,12 @@ phs000765,NHLBI,"Disease-Specific (COPD and Smoking, RD)",http://purl.obolibrary
 phs000951,NHLBI,Exchange Area,
 phs000951,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs000951,NHLBI,"Disease-Specific (COPD and Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000182,NEI,Eye Disease Research Only,
+phs000182,NEI,Eye Disease Research Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000182,NEI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000246,NEI,Eye Disease Research Only,
+phs000246,NEI,Eye Disease Research Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000246,NEI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000421,NEI,FECD Studies Only,
-phs000421,NEI,Eye Disease Research Only,
+phs000421,NEI,Eye Disease Research Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000421,NEI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000310,NHGRI,"For general medical research, for non-profit only","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
@@ -4811,9 +4812,9 @@ phs002213,NINDS,"Health/Medical/Biomedical (PUB, COL, MDS)","http://purl.obolibr
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020"
 phs000130,NIDDK,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000130,NIDDK,Inflammatory Bowel Disease Only,
+phs000130,NIDDK,Inflammatory Bowel Disease Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000345,NIDDK,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000345,NIDDK,Inflammatory Bowel Disease Only,
+phs000345,NIDDK,Inflammatory Bowel Disease Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000308,NHGRI,General research use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000308,NHGRI,Massachusetts Eye and Ear Infirmary,
 phs000368,NICHD,Genetic Analysis of Polycystic Ovary Syndrome,
@@ -4856,7 +4857,7 @@ phs000383,eNCI DAC,Health Research and General Methods,http://purl.obolibrary.or
 phs000306,eNCI DAC,Health Research and Methods,http://purl.obolibrary.org/obo/DUO_0000006
 phs000306,eNCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000306,eNCI DAC,Prostate Cancer Research Only,
-phs000306,eNCI DAC,"Cancer, Heart Disease, Stroke, Alzheimer Disease, and Diabetes Research and Methods",
+phs000306,eNCI DAC,"Cancer, Heart Disease, Stroke, Alzheimer Disease, and Diabetes Research and Methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs000306,eNCI DAC,Cancer Research and Methods,
 phs001254,JAAMH,Health Research,http://purl.obolibrary.org/obo/DUO_0000006
 phs001254,JAAMH,"Disease-Specific (Alcoholism, GSO, RD)","http://purl.obolibrary.org/obo/DUO_0000016
@@ -5928,7 +5929,7 @@ http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000538,NHGRI,Heart Disease,
+phs000538,NHGRI,Heart Disease,http://purl.obolibrary.org/obo/DUO_0000007
 phs000445,NCI DAC,Hemophilia and Viral Infections,
 phs000492,NHGRI,Human Epilepsy and Cognition,
 phs001798,NHGRI,Human Genetic Variation Research,
@@ -5946,7 +5947,7 @@ phs000264,NIAID,Human Microbiome Research,
 phs000266,NIAMS,Human Microbiome Research,
 phs000263,NIAMS,Human Microbiome Research,
 phs000247,NIAID,Human Microbiome Research,
-phs000371,NINDS,Huntington's Disease Research,
+phs000371,NINDS,Huntington's Disease Research,http://purl.obolibrary.org/obo/DUO_0000007
 phs000371,NINDS,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000511,NHGRI,"Hypertriglyceridemia type I, III, and V",
 phs000656,NIAID,Immunology Research Use,
@@ -5969,9 +5970,9 @@ phs000171,NINDS,Multiple Sclerosis Genetics research,
 phs000541,NHGRI,Muscle Development Disorders,
 phs002198,JAAMH,National law prohibits individual level data from being deposited. Only Summary-level statistics can be provided.,
 phs002198,JAAMH,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs001790,JAAMH,"Neuroscience, health and disease",
-phs001791,JAAMH,"Neuroscience, health and disease",
-phs002697,JAAMH,"Neuroscience, health and disease",
+phs001790,JAAMH,"Neuroscience, health and disease",http://purl.obolibrary.org/obo/DUO_0000007
+phs001791,JAAMH,"Neuroscience, health and disease",http://purl.obolibrary.org/obo/DUO_0000007
+phs002697,JAAMH,"Neuroscience, health and disease",http://purl.obolibrary.org/obo/DUO_0000007
 phs000404,JAAMH,Nicotine Addiction Research,
 phs000404,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000931,JAAMH,Nicotine metabolism and smoking behaviors,
@@ -5992,9 +5993,10 @@ phs000139,NINDS,Non-Profit Use Only,http://purl.obolibrary.org/obo/DUO_0000045
 phs000139,NINDS,Multiple Sclerosis and Related disorders,
 phs000139,NINDS,Multiple Sclerosis,
 phs000160,JAAMH,Non-Profit Use,http://purl.obolibrary.org/obo/DUO_0000045
-phs000160,JAAMH,Alzheimer Disease Only,
+phs000160,JAAMH,Alzheimer Disease Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000160,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000160,JAAMH,Alzheimer Disease and Non-Profit Use Only,http://purl.obolibrary.org/obo/DUO_0000045
+phs000160,JAAMH,Alzheimer Disease and Non-Profit Use Only,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000127,NINDS,Non-profit_use,
 phs000459,NIDCR,"Oral Clefts, IRB, COL, GSO, Bailey-WilsonJ","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000020
@@ -6030,7 +6032,7 @@ phs000476,NHGRI,Pseudohypoparathyroidism or Related Disorders,
 phs000020,JAAMH,Psychiatric and Related Somatic Conditions,
 phs000520,JAAMH,Research in Developmental Psychopathology,
 phs000181,JAAMH,Research on Alcohol and Tobacco Related Phenotypes,
-phs000524,NIDDK,"Research on Disease of Kidney, Heart and Blood Vessels",
+phs000524,NIDDK,"Research on Disease of Kidney, Heart and Blood Vessels",http://purl.obolibrary.org/obo/DUO_0000007
 phs000524,NIDDK,All Health Conditions,
 phs000206,NCI DAC,Research related to adult diseases and methods,
 phs000207,NCI DAC,Research related to adult diseases and methods,
