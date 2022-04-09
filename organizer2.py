@@ -1,4 +1,4 @@
-# Component 2: Build a script which can parse Column I and search for a list of terms (in TermMapping.csv)),
+# Component 2a: Build a script which can parse Column I and search for a list of terms (in TermMapping.csv)),
 # and when a term or terms are identified, add a corresponding permanent Data Use Ontology URL (PURL) for each
 # in a new column, Column J. This may involve adding multiple PURLs to a column.
 
@@ -13,7 +13,7 @@ CONSENT_TITLE_COLUMN_NUMBER = ord(consent_title_column_letter) - ord("A")
 
 # Insert "PURL" column letter (captialized) here
 PURL_title_column_letter = input("Insert column letter (capitalized) for PURLs: ")
-name_of_PURL_column = PURLs
+name_of_PURL_column = "PURLs"
 PURL_COLUMN_NUMBER = ord(PURL_title_column_letter) - ord("A")
 
 # Insert csv file names here

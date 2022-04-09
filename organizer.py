@@ -1,4 +1,4 @@
-# Component 1: Therefore to appropriately organize the data, for each dataset with semicolon denoted subsets in Column I we
+# Component 1a: Therefore to appropriately organize the data, for each dataset with semicolon denoted subsets in Column I we
 # should create an additional row with the same metadata for all fields except Column I, and having one of the 
 # unique terms broken up by semicolons in Column I in each row.
 
