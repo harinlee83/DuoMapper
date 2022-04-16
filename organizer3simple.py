@@ -1,9 +1,11 @@
-# Component 2b: Build a script which can parse Column I and search for a list of diseases (from the DOID and MONDO), and when a term or terms are
+# Component 2b: Build a script which can parse Column I and search for any term (from the DOID and MONDO), and when a term or terms are
 # identified, add a corresponding permanent URL (PURL) for each in a new column, Column K (DOID) and Column L (MONDO). This may involve adding
 # multiple PURLs to a column.
 
 # This code builds off of code from organizer2.py
 # This code works with Requests package and API calls to extract data from https://www.ebi.ac.uk/ols/index
+
+# WARNING: THIS SCRIPT IS SLOW SINCE IT SEARCHES EVERY POSSIBLE RESULT FOR A GIVENS QUERY TERM
 
 import csv
 import requests
