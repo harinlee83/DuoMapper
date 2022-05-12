@@ -1,0 +1,103 @@
+phs,dac_list,consent_title,PURLS,DOID PURLs,MONDO PURLs
+phs000394,NINDS,Academic Research Use,,,
+phs000434,NHGRI,Accelerated Aging Syndromes,,,
+phs000016,JAAMH,ADHD,,,
+phs000358,JAAMH,ADHD and Related Disorders,,,
+phs000425,JAAMH,Alcohol Related Conditions,,,
+phs000277,JAAMH,Alcohol Related Conditions,,,
+phs000277,JAAMH,"Substance Dependence, Childhood Trauma and Related Disorders",,,
+phs000277,JAAMH,Research on Alcohol and Tobacco Related Phenotypes,,,
+phs000277,JAAMH,Substance Use Dependence Only,,,
+phs000092,NHGRI,Alcoholism and Related Conditions,,,
+phs000092,NHGRI,Health Research,http://purl.obolibrary.org/obo/DUO_0000006,,
+phs000649,NIGMS,All PEAR patients,,,
+phs000168,JAAMH,Alzheimer Disease and Non-Profit Use Only,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007",,
+phs000168,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,
+phs000168,JAAMH,Non Profit Use,http://purl.obolibrary.org/obo/DUO_0000045,,
+phs000168,JAAMH,Alzheimer Disease Only,http://purl.obolibrary.org/obo/DUO_0000007,,
+phs000610,JAAMH,Alzheimer's and age related conditions,,,
+phs000700,JAAMH,Alzheimer's and age related conditions,,,
+phs000372,JAAMH,Alzheimer's Disease Genetics Consortium,http://purl.obolibrary.org/obo/DUO_0000007,,
+phs000483,JAAMH,Alzheimer's disorder and related disorders,,,
+phs000548,NIGMS,Aspirin-Related Research,,,
+phs000166,NHLBI,Asthma-Related Research,,,
+phs000407,JAAMH,Attention Deficit Hyperactivity Disorder,,,
+phs000426,NIGMS,Biomedical Research Use,http://purl.obolibrary.org/obo/DUO_0000006,,
+phs001350,NIGMS,Biomedical Research Use,http://purl.obolibrary.org/obo/DUO_0000006,,
+phs000017,JAAMH,Bipolar disorder only,,,
+phs000017,JAAMH,Bipolar and related disorders,,,
+phs000017,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,
+phs002324,NHGRI,Birth defects and genetic conditions,,,
+phs002324,NHGRI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006,,
+phs000474,NHGRI,Bone Marrow Failure Conditions,,,
+phs002292,JAAMH,Brain health and disease,http://purl.obolibrary.org/obo/DUO_0000007,,
+phs002292,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,
+phs000547,NHGRI,"Breast cancer, study drug efficacy and toxicity, and covariates",,,
+phs000488,NHGRI,Cancer and Methods Research Only,,,
+phs000488,NHGRI,Cancer Research Only,,,
+phs000488,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,
+phs000488,NHGRI,Lung Cancer Only,,,
+phs000093,NCI DAC,Cancer and other diseases in adults only (PLCO),,,
+phs000093,NCI DAC,Research related to smoking or lung disease (EAGLE),http://purl.obolibrary.org/obo/DUO_0000007,,
+phs000346,NCI DAC,"Cancer in all age groups, adult diseases, and methods",,,
+phs000351,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",,,
+phs000882,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",,,
+phs000652,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",,,
+phs000652,NCI DAC,"Disease-Specific (Glioma in Adults Only, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
+http://purl.obolibrary.org/obo/DUO_0000007",http://purl.obolibrary.org/obo/DOID_0080846,http://purl.obolibrary.org/obo/MONDO_0003153
+phs000396,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",,,
+phs000396,NCI DAC,Esophageal and stomach cancer,,,
+phs000336,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",,,
+phs000336,NCI DAC,Research related to lung disease or smoking,http://purl.obolibrary.org/obo/DUO_0000007,,
+phs000245,NHGRI,Cancer Research,,,
+phs000443,NCI DAC,Cancer Research and General Methods,,,
+phs000513,NCI DAC,Cancer Research and General Methods,,,
+phs000525,NCI DAC,Cancer Research and General Methods,,,
+phs000418,eNCI DAC,Cancer Research and General Methods,,,
+phs000502,NCI DAC,Cancer Research and General Methods with Publication Statement,,,
+phs000369,NCI DAC,Cancer Research and General Methods,,,
+phs000369,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,
+phs000534,eNCI DAC,Cancer Research and General Methods,,,
+phs000534,eNCI DAC,Pediatric Cancer Research,,,
+phs000567,eNCI DAC,Cancer Research and Methods,,,
+phs000419,NCI DAC,Cancer Research Only,,,
+phs000472,NHGRI,Cancer Research Only,,,
+phs000504,NHGRI,Cancer Research Only,,,
+phs000447,NHGRI,Cancer Research Only,,,
+phs000447,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,
+phs000611,NHGRI,Cancer Treatment Research Only,,,
+phs000611,NHGRI,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007,http://purl.obolibrary.org/obo/DOID_162,http://purl.obolibrary.org/obo/MONDO_0004992
+phs000512,NHGRI,Cardiovascular Disease,http://purl.obolibrary.org/obo/DUO_0000007,,
+phs000485,NHGRI,Congenital Diaphragmatic Hernia and Related Disorders,,,
+phs000094,NIDCR,Craniofacial Anomalies,,,
+phs000302,NIDDK,diabetes and complications,,,
+phs000462,NIDDK,Diabetes and Related Conditions,,,
+phs000333,NIDDK,"diabetes, kidney disease, retinopathy and/or related diseases",http://purl.obolibrary.org/obo/DUO_0000007,,
+phs000581,NHLBI,Disease Specific (Familial Dilated Cardiomyopathy),http://purl.obolibrary.org/obo/DUO_0000007,http://purl.obolibrary.org/obo/DOID_12930,http://purl.obolibrary.org/obo/MONDO_0016333
+phs000716,NCI DAC,"Disease Specific (LC, MDS)",http://purl.obolibrary.org/obo/DUO_0000007,http://purl.obolibrary.org/obo/DOID_0080935,http://purl.obolibrary.org/obo/MONDO_0007481
+phs000582,NHLBI,Disease Specific (Lung Diseases),http://purl.obolibrary.org/obo/DUO_0000007,http://purl.obolibrary.org/obo/UBERON_0002048,http://purl.obolibrary.org/obo/MONDO_0005275
+phs000327,NHLBI,Disease Specific (Stroke and Related Disorders),http://purl.obolibrary.org/obo/DUO_0000007,http://purl.obolibrary.org/obo/DOID_0090125,http://purl.obolibrary.org/obo/MONDO_0100150
+phs000585,NHLBI,Disease Specific for Cardiovascular Disease with IRB approval,"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007",,
+phs000359,NINDS,Diseases of Muscle and the Nervous System,,,
+phs000365,NIAID,Diseases of the Immune System,,,
+phs000776,NICHD,"Disease-Specific (3-Methylcrotonyl-CoA Carboxylase Deficiency, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007",http://purl.obolibrary.org/obo/DOID_0050710,http://purl.obolibrary.org/obo/MONDO_0018950
+phs002157,NINDS,Disease-Specific (Acute Ischemic Stroke),http://purl.obolibrary.org/obo/DUO_0000007,http://purl.obolibrary.org/obo/SYMP_0000734,http://purl.obolibrary.org/obo/HP_0002140
+phs002157,NINDS,Disease-Specific (Stroke),http://purl.obolibrary.org/obo/DUO_0000007,http://purl.obolibrary.org/obo/SYMP_0000734,http://purl.obolibrary.org/obo/HP_0001297
+phs002157,NINDS,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,
+phs002157,NINDS,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006,,
+phs001408,NCI DAC,"Disease-Specific (Acute Myelogenous Leukemia, IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007",http://purl.obolibrary.org/obo/DOID_9119,http://purl.obolibrary.org/obo/MONDO_0018874
+phs001458,JAAMH,"Disease-Specific (Addiction and Mental Health, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007",,
+phs000852,JAAMH,"Disease-Specific (Addiction and Mental Health, IRB, GSO, RD)","http://purl.obolibrary.org/obo/DUO_0000016
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007",,
+phs001208,JAAMH,"Disease-Specific (Addictive Disorders, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007",http://purl.obolibrary.org/obo/DOID_0112122,http://purl.obolibrary.org/obo/MONDO_0043862
+phs002076,NLM_DAC,"Disease-Specific (Addictive Disorders, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007",http://purl.obolibrary.org/obo/DOID_0112122,http://purl.obolibrary.org/obo/MONDO_0043862

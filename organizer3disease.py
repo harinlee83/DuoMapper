@@ -9,6 +9,7 @@ import csv
 import requests
 from urllib.parse import quote
 import json
+import re
 
 RESULTS_PER_PAGE = 10
 
@@ -49,20 +50,19 @@ def get_Purl(queryTerm, yesDOID):
     
     # Initialize list and start page
     my_purls = []
+
     start = 0
+    pageIndexURL = f"&start={start}"
 
-    # Loops through all 10 result pages until end and retrieves PURL
-    while start < maxResultNum:
+    # Only get the top 5 PURLS
+    numberPURLs = 1
+    url = construct_URL(queryTerm,start,yesDOID)
+    json_Text = get_JSON(url)
+    my_json = json.loads(json_Text)
 
-        pageIndexURL = f"&start={start}"
-        url = construct_URL(queryTerm,start,yesDOID)
-        json_Text = get_JSON(url)
-        my_json = json.loads(json_Text)
-
-        for label in my_json["response"]["docs"]:
-            my_purls.append(label["iri"])
-
-        start += RESULTS_PER_PAGE
+    for label in my_json["response"]["docs"]:
+        if len(my_purls) < numberPURLs and label["type"] == "class":
+            my_purls.append(label["short_form"])
 
     return my_purls
 
@@ -82,8 +82,8 @@ def main():
     MONDO_PURL_COLUMN_NUMBER = ord(mondo_purl_column_letter) - ord("A")
     name_of_MONDO_PURL_column = "MONDO PURLs"
 
-    original_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Sheet1.csv"
-    new_CSV_file = "csv files/ORGANIZED_v3: DUO Validation Project - Development Dataset - Sheet1.csv"
+    original_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+    new_CSV_file = "csv files/ORGANIZED_v3: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
 
     with open(original_CSV_file, "r") as originalFile:
         with open(new_CSV_file, "w") as newFile:
@@ -97,7 +97,12 @@ def main():
             columnHeaders.insert(MONDO_PURL_COLUMN_NUMBER,name_of_MONDO_PURL_column)
             writer.writerow(columnHeaders)
 
+            iterator = 0
+            totalLines = 3756
+
             for line in reader:
+                iterator += 1
+                print(f"Line {iterator} of {totalLines}")
                 # Make a changeable copy of current line
                 copyLine = line.copy()
 
@@ -107,22 +112,35 @@ def main():
 
                 queryTerm = copyLine[CONSENT_TITLE_COLUMN_NUMBER]
 
-                if len(queryTerm) != 0:
-                    # This ensures that the query term is URL encoded
-                    queryTerm = quote(queryTerm)
-                    doidPurls = get_Purl(queryTerm, True)
-                    mondoPurls = get_Purl(queryTerm, False)
+                list = ["DISEASE", "SPECIFIC"]
+                # Looks for "DISEASE SPECIFIC" or "DISEASE-SPECIFIC"
+                pattern = re.compile(r'^' + list[0] + r'[ -]' + list[1] + r'[ \(|\()]')
+                matches = re.search(pattern,queryTerm.upper())
 
-                    # Insert DOID PURLs into file
-                    for purl in doidPurls:
-                        copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER] + purl + '\n'
-                    copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER].strip()
-                    
-                    # Insert MONDO PURLs into file
-                    for purl in mondoPurls:
-                        copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER] + purl + '\n'
-                    copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER].strip()
-                    
+                if len(queryTerm) != 0 and matches:
+                    # This finds the first term in parenthesis in a non-greedy fashion
+                    parenthesisPattern = re.compile(r'\((.*?)[\,\)]')
+                    result = re.search(parenthesisPattern,queryTerm)
+                    try:
+                        queryTerm = result.group(1)
+                        # This ensures that the query term is URL encoded
+                        queryTerm = quote(queryTerm)
+                        doidPurls = get_Purl(queryTerm, True)
+                        mondoPurls = get_Purl(queryTerm, False)
+
+                        baseURL = "http://purl.obolibrary.org/obo/"
+                        # Insert DOID PURLs into file
+                        for purl in doidPurls:
+                            copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER] + baseURL + purl + '\n'
+                        copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER].strip()
+                        
+                        # Insert MONDO PURLs into file
+                        for purl in mondoPurls:
+                            copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER] + baseURL + purl + '\n'
+                        copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER].strip()
+                    except:
+                        copyLine[DOID_PURL_COLUMN_NUMBER] = None
+                        copyLine[MONDO_PURL_COLUMN_NUMBER] = None
                 writer.writerow(copyLine)
 
 if __name__ == "__main__":
