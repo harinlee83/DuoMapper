@@ -17,8 +17,8 @@ name_of_PURL_column = "DUO PURLs"
 PURL_COLUMN_NUMBER = ord(PURL_title_column_letter) - ord("A")
 
 # Insert csv file names here
-original_CSV_file = "csv files/ORGANIZED_v1: DUO Validation Project - Development Dataset - Sheet1.csv"
-new_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Sheet1.csv"
+original_CSV_file = "csv files/ORGANIZED_v1: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+new_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
 list_of_terms_CSV_file = "csv files/TermMapping.csv"
 
 # Converts the TermMapping CSV file into a dict called mappedData to query through.

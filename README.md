@@ -9,7 +9,7 @@ This repo is for the python projects that I complete for Jonathan Lawson under t
 ### organizer2.py
 - For Component 2A: This script reads in a "termMapping" csv file (consent titles and their corresponding PURLS) and the organized csv file outputted from organizer.py in component 1A. It will then write a new csv file with a new column adjacent to consent titles called "PURLS" that contains all the matched PURLS for a given consent title.
 
-### organizer3simple.py
+### organizer3general.py
 - This script searches for any general consent title in the [DOID and MONDO search system](https://www.ebi.ac.uk/ols/search?q=cancer&groupField=iri&start=0&ontology=mondo&ontology=doid) and returns the corresponding PURLs. WARNING: This script is potentially extremely slow since there can be a high volume of search results returning from DOID and MONDO. 
 
 ### organizer3disease.py

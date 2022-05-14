@@ -1,12 +1,12 @@
 phs,handle,StudyNameEntrez,Funding,status_title,AnVIL_TrustedPartner,dac_list,consent_list,consent_title,DUO PURLs,DOID PURLs,MONDO PURLs,TrustedPartners,gsr_mode,GPA,PHENO_CURATOR,GENO_CURATOR,PO,PI_ASSIST,PI,ANALYS_CURATOR,ANALYS_CURATOR_email,PI_AA_DELEG,TRP_SUB,accession,parentAccession,GPA_email,PHENO_CURATOR_email,GENO_CURATOR_email,PO_email,PI_ASSIST_email,PI_email,PI_AA_DELEG_email,TRP_SUB_email,gsr_mode_label,IC,status_name,createDate,modDate
 phs000001,test,test,test,test,test,test,test,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000001,test,test,test,test,test,test,test,Disease-Specific (Eye Disease),http://purl.obolibrary.org/obo/DUO_0000007,"http://purl.obolibrary.org/obo/DOID_5614
+http://purl.obolibrary.org/obo/DOID_0050630
 http://purl.obolibrary.org/obo/DOID_9799
 http://purl.obolibrary.org/obo/DOID_10034
-http://purl.obolibrary.org/obo/DOID_0050630
 http://purl.obolibrary.org/obo/DOID_295","http://purl.obolibrary.org/obo/MONDO_0018939
-http://purl.obolibrary.org/obo/MONDO_0010371
 http://purl.obolibrary.org/obo/MONDO_0000926
+http://purl.obolibrary.org/obo/MONDO_0010371
 http://purl.obolibrary.org/obo/MONDO_0007620
 http://purl.obolibrary.org/obo/MONDO_0005328",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000003,test,test,test,test,test,test,test,,,,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
