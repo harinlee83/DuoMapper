@@ -54,7 +54,7 @@ def main():
         else:
             # If no match, set as empty string
             item = ""
-        # This ensures that the query term is URL encoded
+        # "Quote" ensures that the query term is URL encoded
         doidPurls.append(construct_URL(quote(item),0,True))
         mondoPurls.append(construct_URL(quote(item),0,False))
 

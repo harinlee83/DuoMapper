@@ -14,6 +14,9 @@ def construct_URL(queryTerm,startNum,yesDOID):
     baseURL = "https://www.ebi.ac.uk/ols/api/search?q="
     iriURL = "&groupField=iri"
 
+    if len(queryTerm) == 0:
+        return ""
+
     # This refers to page numbers
     pageIndexURL = f"&start={startNum}"
 
@@ -29,6 +32,8 @@ def construct_URL(queryTerm,startNum,yesDOID):
 
 def get_Purl(url):
 
+    if len(url) == 0:
+        return ""
     # # This finds the total number of results
     # maxResultNum = my_json["response"]["numFound"]
     
@@ -64,3 +69,28 @@ def get_Purl(url):
     #     start += RESULTS_PER_PAGE
 
     # return my_purls
+
+def get_Title(url):
+
+    if len(url) == 0:
+        return ""
+    # # This finds the total number of results
+    # maxResultNum = my_json["response"]["numFound"]
+    
+    # Initialize list and start page
+    titles = []
+
+    # Only get the top 5 PURLS
+    numberPURLs = 5
+    # Retireve JSON data using constructed URL
+    try:
+        json_Text = get_JSON(url)
+        my_json = json.loads(json_Text)
+
+        for label in my_json["response"]["docs"]:
+            if len(titles) < numberPURLs and label["type"] == "class":
+                titles.append(label["label"])
+    except:
+        print("An exception has occured")
+
+    return titles
