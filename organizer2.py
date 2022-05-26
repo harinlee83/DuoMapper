@@ -6,19 +6,18 @@
 
 import csv
 import re
+from organizer3.keywords import keyList1, keyList2
 
 # Insert "consent title" column letter (captialized) here
 consent_title_column_letter = input("Insert consent title column letter (capitalized): ")
 CONSENT_TITLE_COLUMN_NUMBER = ord(consent_title_column_letter) - ord("A")
 
-# Insert "DUO PURLs" column letter (captialized) here
-PURL_title_column_letter = input("Insert column letter (capitalized) for DUO PURLs: ")
 name_of_PURL_column = "DUO PURLs"
-PURL_COLUMN_NUMBER = ord(PURL_title_column_letter) - ord("A")
+PURL_COLUMN_NUMBER = CONSENT_TITLE_COLUMN_NUMBER +1
 
 # Insert csv file names here
-original_CSV_file = "csv files/ORGANIZED_v1: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
-new_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+original_CSV_file = "csv files/ORGANIZED_v1: DUO Validation Project - Development Dataset - Sheet1.csv"
+new_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Sheet1.csv"
 list_of_terms_CSV_file = "csv files/TermMapping.csv"
 
 # Converts the TermMapping CSV file into a dict called mappedData to query through.
@@ -50,16 +49,44 @@ with open(original_CSV_file, "r") as originalFile:
             copyLine = line.copy()
             # Insert empty cell
             copyLine.insert(PURL_COLUMN_NUMBER,'')
+
+            # Default
+            match1 = False
+            match2 = False
+
             # Look for key match where capitalization variations are accounted for
             for key in upperMappedData:
                 # Add regex word boundaries
-                pattern = re.compile(r'\b' + key + r'\b')
-                matches = re.search(pattern,copyLine[CONSENT_TITLE_COLUMN_NUMBER].upper())
+                pattern = re.compile(r'\b' + key + r'\b',re.IGNORECASE)
+                matches = re.search(pattern,copyLine[CONSENT_TITLE_COLUMN_NUMBER])
                 # If query term is found
                 if matches:
                     # Strip '[]' in the URL so it becomes a clickable link
                     purl = str(upperMappedData[key]).strip("['']") + '\n'
                     if purl not in copyLine[PURL_COLUMN_NUMBER]:
                         copyLine[PURL_COLUMN_NUMBER] = copyLine[PURL_COLUMN_NUMBER] + purl
+
+            # Looks for "DISEASE" or "DISORDER"
+            for key1 in keyList1:
+                pattern1 = re.compile(r'\b' + key1 + r'\b',re.IGNORECASE)
+                matches1 = re.search(pattern1,copyLine[CONSENT_TITLE_COLUMN_NUMBER])
+                if matches1:
+                    match1 = True
+                    break
+            
+             # Looks for GRU or HMB
+            for key2 in keyList2:
+                pattern2 = re.compile(r'\b' + key2 + r'\b',re.IGNORECASE)
+                matches2 = re.search(pattern2,copyLine[CONSENT_TITLE_COLUMN_NUMBER])
+                if matches2:
+                    match2 = True
+                    break
+
+            if match1 or not match2 and copyLine[CONSENT_TITLE_COLUMN_NUMBER] != "":
+                # If (Disease or Disorder) OR NOT (GSU or HMB), then add disease purl if not already added
+                purl = "http://purl.obolibrary.org/obo/DUO_0000007"
+                if purl not in copyLine[PURL_COLUMN_NUMBER]:
+                    copyLine[PURL_COLUMN_NUMBER] = copyLine[PURL_COLUMN_NUMBER] + purl
+
             copyLine[PURL_COLUMN_NUMBER] = copyLine[PURL_COLUMN_NUMBER].strip()
             writer.writerow(copyLine)

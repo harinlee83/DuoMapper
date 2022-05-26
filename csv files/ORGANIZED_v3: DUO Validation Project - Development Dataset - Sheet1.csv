@@ -19,7 +19,7 @@ fish eye disease
 eye disorder",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000003,test,test,test,test,test,test,test,,,,,,,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000004,test,test,test,test,test,test,test,General research use,http://purl.obolibrary.org/obo/DUO_0000042,,,,,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000005,test,test,test,test,test,test,test,Stroke and Related Disorders,,Stroke Disorders,"http://purl.obolibrary.org/obo/SYMP_0000734
+phs000005,test,test,test,test,test,test,test,Stroke and Related Disorders,http://purl.obolibrary.org/obo/DUO_0000007,Stroke Disorders,"http://purl.obolibrary.org/obo/SYMP_0000734
 http://purl.obolibrary.org/obo/DOID_0112122
 http://purl.obolibrary.org/obo/DOID_3687
 http://purl.obolibrary.org/obo/DOID_0060038
@@ -42,7 +42,7 @@ http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021",,,,,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000007,test,test,test,test,test,test,test,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021",,,,,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000016,test,test,test,test,test,test,test,ADHD,,ADHD,"http://purl.obolibrary.org/obo/DOID_0111841
+phs000016,test,test,test,test,test,test,test,ADHD,http://purl.obolibrary.org/obo/DUO_0000007,ADHD,"http://purl.obolibrary.org/obo/DOID_0111841
 http://purl.obolibrary.org/obo/DOID_1094","Shukla-Vernon syndrome
 attention deficit hyperactivity disorder","http://purl.obolibrary.org/obo/MONDO_0014957
 http://purl.obolibrary.org/obo/MONDO_0005302
@@ -51,7 +51,7 @@ http://purl.obolibrary.org/obo/MONDO_0012342","language delay and attention defi
 attention deficit hyperactivity disorder, inattentive type
 attention deficit-hyperactivity disorder
 7q11.23 microduplication syndrome",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000017,test,test,test,test,test,test,test,Bipolar disorder only,,Bipolar disorder,"http://purl.obolibrary.org/obo/DOID_3312
+phs000017,test,test,test,test,test,test,test,Bipolar disorder only,http://purl.obolibrary.org/obo/DUO_0000007,Bipolar disorder,"http://purl.obolibrary.org/obo/DOID_3312
 http://purl.obolibrary.org/obo/DOID_14042
 http://purl.obolibrary.org/obo/DOID_0060166
 http://purl.obolibrary.org/obo/DOID_845
@@ -68,7 +68,7 @@ bipolar depression
 bipolar II disorder
 manic bipolar affective disorder
 bipolar I disorder",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000017,test,test,test,test,test,test,test,Bipolar and related disorders,,Bipolar disorders,"http://purl.obolibrary.org/obo/DOID_3312
+phs000017,test,test,test,test,test,test,test,Bipolar and related disorders,http://purl.obolibrary.org/obo/DUO_0000007,Bipolar disorders,"http://purl.obolibrary.org/obo/DOID_3312
 http://purl.obolibrary.org/obo/DOID_14042
 http://purl.obolibrary.org/obo/DOID_0060166
 http://purl.obolibrary.org/obo/DOID_0112122

@@ -64,67 +64,67 @@ def main():
             item = ""
         # "Quote" ensures that the query term is URL encoded
         searchTerms.append(item)
-        if item != "":
-            print(item)
-        # doidPurls.append(construct_URL(quote(item),0,True))
-        # mondoPurls.append(construct_URL(quote(item),0,False))
+        # if item != "":
+        #     print(item)
+        doidPurls.append(construct_URL(quote(item),0,True))
+        mondoPurls.append(construct_URL(quote(item),0,False))
 
         # Reset boolean conditions
         match1 = False
         match2 = False
 
-    # # Using concurrent futures module to speed up "get requests" with threading
-    # with concurrent.futures.ThreadPoolExecutor() as executer:
-    #     doidResults = list(executer.map(get_Purl, doidPurls))
-    #     doidTitles = list(executer.map(get_Title,doidPurls))
-    #     mondoResults = list(executer.map(get_Purl, mondoPurls))
-    #     mondoTitles = list(executer.map(get_Title,mondoPurls))
+    # Using concurrent futures module to speed up "get requests" with threading
+    with concurrent.futures.ThreadPoolExecutor() as executer:
+        doidResults = list(executer.map(get_Purl, doidPurls))
+        doidTitles = list(executer.map(get_Title,doidPurls))
+        mondoResults = list(executer.map(get_Purl, mondoPurls))
+        mondoTitles = list(executer.map(get_Title,mondoPurls))
 
-    # with open(original_CSV_file, "r") as originalFile:    
-    #     with open(new_CSV_file, "w") as newFile:
+    with open(original_CSV_file, "r") as originalFile:    
+        with open(new_CSV_file, "w") as newFile:
 
-    #         reader = csv.reader(originalFile)
-    #         writer = csv.writer(newFile)
+            reader = csv.reader(originalFile)
+            writer = csv.writer(newFile)
 
-    #         # Store the column headers, add a new PURL column, print them in newFile
-    #         columnHeaders = next(reader)
-    #         columnHeaders.insert(SEARCH_TERM_COLUMN_NUMBER,name_of_SEARCH_TERM_column)
-    #         columnHeaders.insert(DOID_PURL_COLUMN_NUMBER,name_of_DOID_PURL_column)
-    #         columnHeaders.insert(DOID_TITLES_COLUMN_NUMBER,name_of_DOID_TITLE_column)
-    #         columnHeaders.insert(MONDO_PURL_COLUMN_NUMBER,name_of_MONDO_PURL_column)
-    #         columnHeaders.insert(MONDO_TITLES_COLUMN_NUMBER,name_of_MONDO_TITLE_column)
-    #         writer.writerow(columnHeaders)
+            # Store the column headers, add a new PURL column, print them in newFile
+            columnHeaders = next(reader)
+            columnHeaders.insert(SEARCH_TERM_COLUMN_NUMBER,name_of_SEARCH_TERM_column)
+            columnHeaders.insert(DOID_PURL_COLUMN_NUMBER,name_of_DOID_PURL_column)
+            columnHeaders.insert(DOID_TITLES_COLUMN_NUMBER,name_of_DOID_TITLE_column)
+            columnHeaders.insert(MONDO_PURL_COLUMN_NUMBER,name_of_MONDO_PURL_column)
+            columnHeaders.insert(MONDO_TITLES_COLUMN_NUMBER,name_of_MONDO_TITLE_column)
+            writer.writerow(columnHeaders)
 
-    #         for iterator, line in enumerate(reader):
-    #             # Make a changeable copy of current line
-    #             copyLine = line.copy()
+            for iterator, line in enumerate(reader):
+                # Make a changeable copy of current line
+                copyLine = line.copy()
 
-    #             # Insert empty cell
-    #             copyLine.insert(SEARCH_TERM_COLUMN_NUMBER,'')
-    #             copyLine.insert(DOID_PURL_COLUMN_NUMBER,'')
-    #             copyLine.insert(DOID_TITLES_COLUMN_NUMBER,'')
-    #             copyLine.insert(MONDO_PURL_COLUMN_NUMBER,'')
-    #             copyLine.insert(MONDO_TITLES_COLUMN_NUMBER,'')
+                # Insert empty cell
+                copyLine.insert(SEARCH_TERM_COLUMN_NUMBER,'')
+                copyLine.insert(DOID_PURL_COLUMN_NUMBER,'')
+                copyLine.insert(DOID_TITLES_COLUMN_NUMBER,'')
+                copyLine.insert(MONDO_PURL_COLUMN_NUMBER,'')
+                copyLine.insert(MONDO_TITLES_COLUMN_NUMBER,'')
 
-    #             # Insert search term in file
-    #             copyLine[SEARCH_TERM_COLUMN_NUMBER] = copyLine[SEARCH_TERM_COLUMN_NUMBER] + searchTerms[iterator] + '\n'
-    #             copyLine[SEARCH_TERM_COLUMN_NUMBER] = copyLine[SEARCH_TERM_COLUMN_NUMBER].strip()
+                # Insert search term in file
+                copyLine[SEARCH_TERM_COLUMN_NUMBER] = copyLine[SEARCH_TERM_COLUMN_NUMBER] + searchTerms[iterator] + '\n'
+                copyLine[SEARCH_TERM_COLUMN_NUMBER] = copyLine[SEARCH_TERM_COLUMN_NUMBER].strip()
 
-    #             # Insert DOID PURLs, DOID Titles into file
-    #             for doidPurl,doidTitle in zip(doidResults[iterator],doidTitles[iterator]):
-    #                 copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER] + doidPurl + '\n'
-    #                 copyLine[DOID_TITLES_COLUMN_NUMBER] = copyLine[DOID_TITLES_COLUMN_NUMBER] + doidTitle + '\n'
-    #             copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER].strip()
-    #             copyLine[DOID_TITLES_COLUMN_NUMBER] = copyLine[DOID_TITLES_COLUMN_NUMBER].strip()
+                # Insert DOID PURLs, DOID Titles into file
+                for doidPurl,doidTitle in zip(doidResults[iterator],doidTitles[iterator]):
+                    copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER] + doidPurl + '\n'
+                    copyLine[DOID_TITLES_COLUMN_NUMBER] = copyLine[DOID_TITLES_COLUMN_NUMBER] + doidTitle + '\n'
+                copyLine[DOID_PURL_COLUMN_NUMBER] = copyLine[DOID_PURL_COLUMN_NUMBER].strip()
+                copyLine[DOID_TITLES_COLUMN_NUMBER] = copyLine[DOID_TITLES_COLUMN_NUMBER].strip()
 
-    #             # Insert MONDO PURLs, MONDO Titles into file
-    #             for mondoPurl,mondoTitle in zip(mondoResults[iterator],mondoTitles[iterator]):
-    #                 copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER] + mondoPurl + '\n'
-    #                 copyLine[MONDO_TITLES_COLUMN_NUMBER] = copyLine[MONDO_TITLES_COLUMN_NUMBER] + mondoTitle + '\n'
-    #             copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER].strip()
-    #             copyLine[MONDO_TITLES_COLUMN_NUMBER] = copyLine[MONDO_TITLES_COLUMN_NUMBER].strip()
+                # Insert MONDO PURLs, MONDO Titles into file
+                for mondoPurl,mondoTitle in zip(mondoResults[iterator],mondoTitles[iterator]):
+                    copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER] + mondoPurl + '\n'
+                    copyLine[MONDO_TITLES_COLUMN_NUMBER] = copyLine[MONDO_TITLES_COLUMN_NUMBER] + mondoTitle + '\n'
+                copyLine[MONDO_PURL_COLUMN_NUMBER] = copyLine[MONDO_PURL_COLUMN_NUMBER].strip()
+                copyLine[MONDO_TITLES_COLUMN_NUMBER] = copyLine[MONDO_TITLES_COLUMN_NUMBER].strip()
                     
-    #             writer.writerow(copyLine)
+                writer.writerow(copyLine)
 
 if __name__ == "__main__":
     # Insert "consent title" column letter (captialized) here
@@ -146,7 +146,7 @@ if __name__ == "__main__":
     MONDO_TITLES_COLUMN_NUMBER = MONDO_PURL_COLUMN_NUMBER + 1
     name_of_MONDO_TITLE_column = "MONDO Titles"
 
-    original_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
-    new_CSV_file = "csv files/ORGANIZED_v3: DUO Validation Project - Development Dataset - Test Data 2.0.csv"
+    original_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Sheet1.csv"
+    new_CSV_file = "csv files/ORGANIZED_v3: DUO Validation Project - Development Dataset - Sheet1.csv"
     
     main()

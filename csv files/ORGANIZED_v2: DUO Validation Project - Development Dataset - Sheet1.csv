@@ -3,14 +3,14 @@ phs000001,test,test,test,test,test,test,test,General Research Use,http://purl.ob
 phs000001,test,test,test,test,test,test,test,Disease-Specific (Eye Disease),http://purl.obolibrary.org/obo/DUO_0000007,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000003,test,test,test,test,test,test,test,,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000004,test,test,test,test,test,test,test,General research use,http://purl.obolibrary.org/obo/DUO_0000042,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000005,test,test,test,test,test,test,test,Stroke and Related Disorders,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
+phs000005,test,test,test,test,test,test,test,Stroke and Related Disorders,http://purl.obolibrary.org/obo/DUO_0000007,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000005,test,test,test,test,test,test,test,General research use,http://purl.obolibrary.org/obo/DUO_0000042,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000007,test,test,test,test,test,test,test,"Health/Medical/Biomedical (IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000007,test,test,test,test,test,test,test,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021",test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000016,test,test,test,test,test,test,test,ADHD,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000017,test,test,test,test,test,test,test,Bipolar disorder only,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
-phs000017,test,test,test,test,test,test,test,Bipolar and related disorders,,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
+phs000016,test,test,test,test,test,test,test,ADHD,http://purl.obolibrary.org/obo/DUO_0000007,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
+phs000017,test,test,test,test,test,test,test,Bipolar disorder only,http://purl.obolibrary.org/obo/DUO_0000007,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
+phs000017,test,test,test,test,test,test,test,Bipolar and related disorders,http://purl.obolibrary.org/obo/DUO_0000007,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
 phs000017,test,test,test,test,test,test,test,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test,test
