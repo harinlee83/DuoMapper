@@ -13,11 +13,11 @@ consent_title_column_letter = input("Insert consent title column letter (capital
 CONSENT_TITLE_COLUMN_NUMBER = ord(consent_title_column_letter) - ord("A")
 
 name_of_PURL_column = "DUO PURLs"
-PURL_COLUMN_NUMBER = CONSENT_TITLE_COLUMN_NUMBER +1
+PURL_COLUMN_NUMBER = CONSENT_TITLE_COLUMN_NUMBER + 1
 
 # Insert csv file names here
-original_CSV_file = "csv files/ORGANIZED_v1: DUO Validation Project - Development Dataset - Sheet1.csv"
-new_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Sheet1.csv"
+original_CSV_file = "csv files/duo_validation_recompiliation_for_Harin_May 31 2022.csv"
+new_CSV_file = "csv files/ORGANIZED_v2: duo_validation_recompiliation_for_Harin_May 31 2022.csv"
 list_of_terms_CSV_file = "csv files/TermMapping.csv"
 
 # Converts the TermMapping CSV file into a dict called mappedData to query through.

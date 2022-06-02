@@ -1,54 +1,55 @@
 phs,dac_list,consent_title,DUO PURLs
 phs000394,NINDS,Academic Research Use,
-phs000434,NHGRI,Accelerated Aging Syndromes,
-phs000016,JAAMH,ADHD,
-phs000358,JAAMH,ADHD and Related Disorders,
-phs000425,JAAMH,Alcohol Related Conditions,
-phs000277,JAAMH,Alcohol Related Conditions,
-phs000277,JAAMH,"Substance Dependence, Childhood Trauma and Related Disorders",
+phs000434,NHGRI,Accelerated Aging Syndromes,http://purl.obolibrary.org/obo/DUO_0000007
+phs000016,JAAMH,ADHD,http://purl.obolibrary.org/obo/DUO_0000007
+phs000358,JAAMH,ADHD and Related Disorders,http://purl.obolibrary.org/obo/DUO_0000007
+phs000425,JAAMH,Alcohol Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
+phs000277,JAAMH,Alcohol Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
+phs000277,JAAMH,"Substance Dependence, Childhood Trauma and Related Disorders",http://purl.obolibrary.org/obo/DUO_0000007
 phs000277,JAAMH,Research on Alcohol and Tobacco Related Phenotypes,
-phs000277,JAAMH,Substance Use Dependence Only,
-phs000092,NHGRI,Alcoholism and Related Conditions,
+phs000277,JAAMH,Substance Use Dependence Only,http://purl.obolibrary.org/obo/DUO_0000007
+phs000092,NHGRI,Alcoholism and Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000092,NHGRI,Health Research,http://purl.obolibrary.org/obo/DUO_0000006
-phs000649,NIGMS,All PEAR patients,
+phs000649,NIGMS,All PEAR patients,http://purl.obolibrary.org/obo/DUO_0000007
 phs000168,JAAMH,Alzheimer Disease and Non-Profit Use Only,"http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000168,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000168,JAAMH,Non Profit Use,http://purl.obolibrary.org/obo/DUO_0000045
+phs000168,JAAMH,Non Profit Use,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000168,JAAMH,Alzheimer Disease Only,http://purl.obolibrary.org/obo/DUO_0000007
-phs000610,JAAMH,Alzheimer's and age related conditions,
-phs000700,JAAMH,Alzheimer's and age related conditions,
+phs000610,JAAMH,Alzheimer's and age related conditions,http://purl.obolibrary.org/obo/DUO_0000007
+phs000700,JAAMH,Alzheimer's and age related conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000372,JAAMH,Alzheimer's Disease Genetics Consortium,http://purl.obolibrary.org/obo/DUO_0000007
-phs000483,JAAMH,Alzheimer's disorder and related disorders,
+phs000483,JAAMH,Alzheimer's disorder and related disorders,http://purl.obolibrary.org/obo/DUO_0000007
 phs000548,NIGMS,Aspirin-Related Research,
 phs000166,NHLBI,Asthma-Related Research,
-phs000407,JAAMH,Attention Deficit Hyperactivity Disorder,
+phs000407,JAAMH,Attention Deficit Hyperactivity Disorder,http://purl.obolibrary.org/obo/DUO_0000007
 phs000426,NIGMS,Biomedical Research Use,http://purl.obolibrary.org/obo/DUO_0000006
 phs001350,NIGMS,Biomedical Research Use,http://purl.obolibrary.org/obo/DUO_0000006
-phs000017,JAAMH,Bipolar disorder only,
-phs000017,JAAMH,Bipolar and related disorders,
+phs000017,JAAMH,Bipolar disorder only,http://purl.obolibrary.org/obo/DUO_0000007
+phs000017,JAAMH,Bipolar and related disorders,http://purl.obolibrary.org/obo/DUO_0000007
 phs000017,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs002324,NHGRI,Birth defects and genetic conditions,
+phs002324,NHGRI,Birth defects and genetic conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs002324,NHGRI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000474,NHGRI,Bone Marrow Failure Conditions,
+phs000474,NHGRI,Bone Marrow Failure Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs002292,JAAMH,Brain health and disease,http://purl.obolibrary.org/obo/DUO_0000007
 phs002292,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000547,NHGRI,"Breast cancer, study drug efficacy and toxicity, and covariates",
+phs000547,NHGRI,"Breast cancer, study drug efficacy and toxicity, and covariates",http://purl.obolibrary.org/obo/DUO_0000007
 phs000488,NHGRI,Cancer and Methods Research Only,
 phs000488,NHGRI,Cancer Research Only,
 phs000488,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000488,NHGRI,Lung Cancer Only,
-phs000093,NCI DAC,Cancer and other diseases in adults only (PLCO),
+phs000488,NHGRI,Lung Cancer Only,http://purl.obolibrary.org/obo/DUO_0000007
+phs000093,NCI DAC,Cancer and other diseases in adults only (PLCO),http://purl.obolibrary.org/obo/DUO_0000007
 phs000093,NCI DAC,Research related to smoking or lung disease (EAGLE),http://purl.obolibrary.org/obo/DUO_0000007
-phs000346,NCI DAC,"Cancer in all age groups, adult diseases, and methods",
-phs000351,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
-phs000882,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
-phs000652,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs000346,NCI DAC,"Cancer in all age groups, adult diseases, and methods",http://purl.obolibrary.org/obo/DUO_0000007
+phs000351,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
+phs000882,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
+phs000652,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs000652,NCI DAC,"Disease-Specific (Glioma in Adults Only, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000396,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
-phs000396,NCI DAC,Esophageal and stomach cancer,
-phs000336,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs000396,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
+phs000396,NCI DAC,Esophageal and stomach cancer,http://purl.obolibrary.org/obo/DUO_0000007
+phs000336,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs000336,NCI DAC,Research related to lung disease or smoking,http://purl.obolibrary.org/obo/DUO_0000007
 phs000245,NHGRI,Cancer Research,
 phs000443,NCI DAC,Cancer Research and General Methods,
@@ -69,10 +70,10 @@ phs000447,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000611,NHGRI,Cancer Treatment Research Only,
 phs000611,NHGRI,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs000512,NHGRI,Cardiovascular Disease,http://purl.obolibrary.org/obo/DUO_0000007
-phs000485,NHGRI,Congenital Diaphragmatic Hernia and Related Disorders,
-phs000094,NIDCR,Craniofacial Anomalies,
-phs000302,NIDDK,diabetes and complications,
-phs000462,NIDDK,Diabetes and Related Conditions,
+phs000485,NHGRI,Congenital Diaphragmatic Hernia and Related Disorders,http://purl.obolibrary.org/obo/DUO_0000007
+phs000094,NIDCR,Craniofacial Anomalies,http://purl.obolibrary.org/obo/DUO_0000007
+phs000302,NIDDK,diabetes and complications,http://purl.obolibrary.org/obo/DUO_0000007
+phs000462,NIDDK,Diabetes and Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000333,NIDDK,"diabetes, kidney disease, retinopathy and/or related diseases",http://purl.obolibrary.org/obo/DUO_0000007
 phs000581,NHLBI,Disease Specific (Familial Dilated Cardiomyopathy),http://purl.obolibrary.org/obo/DUO_0000007
 phs000716,NCI DAC,"Disease Specific (LC, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
@@ -80,8 +81,8 @@ phs000582,NHLBI,Disease Specific (Lung Diseases),http://purl.obolibrary.org/obo/
 phs000327,NHLBI,Disease Specific (Stroke and Related Disorders),http://purl.obolibrary.org/obo/DUO_0000007
 phs000585,NHLBI,Disease Specific for Cardiovascular Disease with IRB approval,"http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000359,NINDS,Diseases of Muscle and the Nervous System,
-phs000365,NIAID,Diseases of the Immune System,
+phs000359,NINDS,Diseases of Muscle and the Nervous System,http://purl.obolibrary.org/obo/DUO_0000007
+phs000365,NIAID,Diseases of the Immune System,http://purl.obolibrary.org/obo/DUO_0000007
 phs000776,NICHD,"Disease-Specific (3-Methylcrotonyl-CoA Carboxylase Deficiency, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -153,7 +154,7 @@ phs000586,NIAMS,"Disease-Specific (Alopecia areata, MDS, RD)",http://purl.obolib
 phs000572,ADSP DAC,"Disease-Specific (Alzheimer Disease, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000572,ADSP DAC,Exchange Area,
+phs000572,ADSP DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000572,ADSP DAC,"Disease-Specific (Neurodegenerative Disease, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -173,38 +174,44 @@ phs001401,NHLBI,"Disease-Specific (Arteriosclerosis and its Risk Factors, NPU)",
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001345,NHLBI,"Disease-Specific (Arteriosclerosis and its Risk Factors, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001345,NHLBI,Exchange Area (NPU),http://purl.obolibrary.org/obo/DUO_0000045
+phs001345,NHLBI,Exchange Area (NPU),"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002069,NINDS,"Disease-Specific (Arteriovenous Malformation, Stroke and related Vascular Diseases)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000233,NHLBI,Disease-Specific (Asthma and atopy),http://purl.obolibrary.org/obo/DUO_0000007
 phs001605,NHLBI,"Disease-Specific (Asthma, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001605,NHLBI,Exchange Area,
+phs001605,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001727,NHLBI,"Disease-Specific (Asthma, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001727,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001728,NHLBI,"Disease-Specific (Asthma, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001728,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001729,NHLBI,"Disease-Specific (Asthma, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001729,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001730,NHLBI,"Disease-Specific (Asthma, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001730,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001732,NHLBI,"Disease-Specific (Asthma, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001732,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001225,NHLBI,"Disease-Specific (Asthma, IRB, PUB, MDS, RD)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -307,7 +314,7 @@ http://purl.obolibrary.org/obo/DUO_0000007"
 phs001413,JAAMH,"Disease-Specific (Mental Health Disorders Research, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001413,JAAMH,"Disease-Specific (Obsessive Compulsive Disorder and other psychiatric conditions, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001413,JAAMH,Mental Heath and Cognition in Adults over 18 years of age,
+phs001413,JAAMH,Mental Heath and Cognition in Adults over 18 years of age,http://purl.obolibrary.org/obo/DUO_0000007
 phs001413,JAAMH,"Disease-Specific (Attention deficit hyperactive disorder, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001413,JAAMH,"Disease-Specific (Mental Health - Disorders Related to OCD Only, MDS, RD)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001413,JAAMH,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
@@ -389,7 +396,7 @@ http://purl.obolibrary.org/obo/DUO_0000007"
 phs001885,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001885,NCI DAC,General Research Use (NPU),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001885,NCI DAC,Endometrial Tumors (MDS),
+phs001885,NCI DAC,Endometrial Tumors (MDS),http://purl.obolibrary.org/obo/DUO_0000007
 phs001282,NCI DAC,"Disease-Specific (Burkitt Lymphoma, PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -412,7 +419,7 @@ phs001273,NCI DAC,"Disease-Specific (Cancer, GSO)","http://purl.obolibrary.org/o
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001273,NCI DAC,Lung Disease and Smoking,http://purl.obolibrary.org/obo/DUO_0000007
 phs001273,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001273,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001273,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001273,NCI DAC,"Disease-Specific (Cancer, COL, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -422,7 +429,7 @@ phs001273,NCI DAC,"Disease-Specific (Cancer, MDS)",http://purl.obolibrary.org/ob
 phs001273,NCI DAC,"Disease-Specific (Cancer, PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001273,NCI DAC,"Lung Cancer, Environmental, Diet, Occupational Exposures",
+phs001273,NCI DAC,"Lung Cancer, Environmental, Diet, Occupational Exposures",http://purl.obolibrary.org/obo/DUO_0000007
 phs000780,NIDDK,Disease-Specific (Cancer Research and Methods),http://purl.obolibrary.org/obo/DUO_0000007
 phs000730,NHGRI,Disease-Specific (Cancer Research and Methods),http://purl.obolibrary.org/obo/DUO_0000007
 phs000730,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
@@ -472,12 +479,12 @@ phs002429,NCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0
 phs002429,NCI DAC,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs001391,NCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs001391,NCI DAC,Prostate Cancer or Radiation-induced Toxicity in Prostate Cancer Patients,
+phs001391,NCI DAC,Prostate Cancer or Radiation-induced Toxicity in Prostate Cancer Patients,http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,"Disease-Specific (Cancer, NPU, GSO)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001391,NCI DAC,"Disease-Specific (Prostate Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
-phs001391,NCI DAC,Men's Health and Nutrition in Serious Illnesses (MDS),
+phs001391,NCI DAC,Men's Health and Nutrition in Serious Illnesses (MDS),http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,"Disease-Specific (Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
@@ -485,7 +492,7 @@ phs001391,NCI DAC,"Disease-Specific (Cancer, PUB)","http://purl.obolibrary.org/o
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001391,NCI DAC,General Research Use (NPU),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001391,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001391,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,"Disease-Specific (Cancer, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001391,NCI DAC,"Disease-Specific (Prostate Cancer, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
@@ -501,17 +508,17 @@ http://purl.obolibrary.org/obo/DUO_0000019"
 phs001391,NCI DAC,Disease-Specific (Prostate Cancer Predisposition),http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001391,NCI DAC,"Prostate Cancer, Methods, Non-control",
+phs001391,NCI DAC,"Prostate Cancer, Methods, Non-control",http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,"Disease-Specific (Prostate Cancer, PUB, MDS)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001391,NCI DAC,"Epidemiological and Medical Research on Cancer, Methods",http://purl.obolibrary.org/obo/DUO_0000006
 phs001391,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001391,NCI DAC,"Disease-Specific (Cancer, Heart Disease, Stroke, Alzheimer Disease, and Diabetes, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
-phs001391,NCI DAC,"Chronic Diseases (including Cancer), Methods",
+phs001391,NCI DAC,"Chronic Diseases (including Cancer), Methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001391,NCI DAC,"Disease-Specific (Cancer, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000912,NCI DAC,"Disease-Specific (Cancer, benign neoplasms, or hematopoietic diseases related to cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000912,NCI DAC,Exchange Area,
+phs000912,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000912,NCI DAC,General Research Use (COL),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000020"
 phs002323,NCI DAC,"Disease-Specific (cancer, cell processing, transplantation outcomes and graft versus host disease, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -691,7 +698,7 @@ http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000929,NCI DAC,"Disease-Specific (Cancer, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000929,NCI DAC,"Cancer, Benign Neoplasms, or Hematopoietic Diseases (MDS)",
+phs000929,NCI DAC,"Cancer, Benign Neoplasms, or Hematopoietic Diseases (MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000929,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000929,NCI DAC,"Disease-Specific (Breast Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000929,NCI DAC,"Disease-Specific (Breast Cancer, PUB, MDS)","http://purl.obolibrary.org/obo/DUO_0000019
@@ -750,8 +757,8 @@ phs001524,NCI DAC,"Disease-Specific (Prostate Cancer, NPU, MDS)","http://purl.ob
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001524,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001524,NCI DAC,"Disease-Specific (Prostate Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
-phs001524,NCI DAC,Men's Health and Nutrition in Serious Illnesses (MDS),
-phs001524,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001524,NCI DAC,Men's Health and Nutrition in Serious Illnesses (MDS),http://purl.obolibrary.org/obo/DUO_0000007
+phs001524,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001081,NCI DAC,"Disease-Specific (Cancer, PUB)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001081,NCI DAC,Health/Medical/Biomedical (PUB),"http://purl.obolibrary.org/obo/DUO_0000006
@@ -780,7 +787,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000965,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000965,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs000965,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs000965,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -799,7 +806,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001056,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001056,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001056,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001056,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -818,7 +825,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001077,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001077,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001077,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001077,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -837,7 +844,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001078,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001078,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001078,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001078,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -856,7 +863,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001092,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001092,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001092,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001092,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -875,7 +882,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001094,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001094,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001094,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001094,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -894,7 +901,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001104,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001104,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001104,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001104,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -913,7 +920,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001113,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001113,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001113,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001113,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -932,7 +939,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001114,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001114,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001114,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001114,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -951,7 +958,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001128,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001128,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001128,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001128,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -970,7 +977,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001129,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001129,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001129,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001129,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -989,7 +996,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001170,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001170,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001170,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001170,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -1008,7 +1015,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001171,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001171,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001171,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001171,NCI DAC,"Health/Medical/Biomedical (PUB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -1111,7 +1118,8 @@ http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001387,NHLBI,"Exchange Area (IRB, COL, NPU, RD)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000226,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000226,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -1122,7 +1130,8 @@ http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000226,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000226,NHLBI,Exchange Area with IRB,http://purl.obolibrary.org/obo/DUO_0000021
+phs000226,NHLBI,Exchange Area with IRB,"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000301,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000301,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -1133,7 +1142,8 @@ http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000301,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000301,NHLBI,Exchange Area with IRB,http://purl.obolibrary.org/obo/DUO_0000021
+phs000301,NHLBI,Exchange Area with IRB,"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000377,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000377,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -1144,7 +1154,8 @@ http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000377,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000377,NHLBI,Exchange Area with IRB,http://purl.obolibrary.org/obo/DUO_0000021
+phs000377,NHLBI,Exchange Area with IRB,"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000400,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000400,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -1155,7 +1166,8 @@ http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000400,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000400,NHLBI,Exchange Area with IRB,http://purl.obolibrary.org/obo/DUO_0000021
+phs000400,NHLBI,Exchange Area with IRB,"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000667,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000667,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -1166,7 +1178,8 @@ http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000667,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000667,NHLBI,Exchange Area with IRB,http://purl.obolibrary.org/obo/DUO_0000021
+phs000667,NHLBI,Exchange Area with IRB,"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001013,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001013,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
@@ -1199,7 +1212,7 @@ http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001545,NHLBI,"Disease-Specific (Cardiovascular, metabolic disease and associated risk factors, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
-phs001545,NHLBI,Exchange Area (MDS),
+phs001545,NHLBI,Exchange Area (MDS),http://purl.obolibrary.org/obo/DUO_0000007
 phs001394,NHLBI,"Disease-Specific (Cardiovascular, Metabolic, and Endocrine Diseases, IRB, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000021
@@ -1311,7 +1324,8 @@ http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001412,NHLBI,"Exchange Area (IRB, COL, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001008,NHLBI,"Disease-Specific (Diabetes and Heart Disease, IRB, NPU, MDS, RD)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -1325,7 +1339,8 @@ phs001215,NHLBI,"Disease-Specific (Diabetes and Heart Disease, IRB, PUB, MDS, RD
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001215,NHLBI,"Exchange Area (IRB, PUB, MDS, RD)","http://purl.obolibrary.org/obo/DUO_0000019
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001012,NHLBI,"Disease-Specific (Diabetes and Related Complications, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs002116,NEI,"Disease-Specific (Diabetes and Related Complications, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
@@ -1635,7 +1650,8 @@ phs000954,NHLBI,"Disease-Specific (Heart, Lung, Blood, and Sleep Disorders, IRB,
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000954,NHLBI,"Exchange Area (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002121,NHGRI,Disease-Specific (Hematologic Disease),http://purl.obolibrary.org/obo/DUO_0000007
 phs000159,NHGRI,Disease-Specific (Hematologic Disease),http://purl.obolibrary.org/obo/DUO_0000007
 phs000159,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
@@ -1732,7 +1748,7 @@ phs001736,NCI DAC,Disease-Specific (Kidney Cancer),http://purl.obolibrary.org/ob
 phs001736,NCI DAC,"General Research Use (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001736,NCI DAC,"Cancer in all age groups, other diseases in adults, and methods",
+phs001736,NCI DAC,"Cancer in all age groups, other diseases in adults, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001736,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs002150,NCI DAC,Disease-Specific (Kidney Cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs002150,NCI DAC,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
@@ -1757,7 +1773,7 @@ phs001799,NCI DAC,Disease-Specific (Leukemia),http://purl.obolibrary.org/obo/DUO
 phs002359,NCI DAC,Disease-Specific (LGL leukemia),http://purl.obolibrary.org/obo/DUO_0000007
 phs001136,NHLBI,"Disease-Specific (Lipid Metabolism Control, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001136,NHLBI,Exchange Area use by Finnish Familial Dyslipedemia study investigators only,
+phs001136,NHLBI,Exchange Area use by Finnish Familial Dyslipedemia study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001784,NCI DAC,"Disease-Specific (Liver Cancer and Chronic Liver Disease, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001930,NIDDK,Disease-Specific (Liver Disease),http://purl.obolibrary.org/obo/DUO_0000007
@@ -1770,21 +1786,21 @@ phs001920,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_000004
 phs001618,NCI DAC,"Disease-Specific (Lung Cancer and Thoracic Malignancies, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001618,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000876,eNCI DAC,"Disease-Specific (Lung Cancer or Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000876,eNCI DAC,Exchange Area,
+phs000876,eNCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000876,eNCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
-phs000876,eNCI DAC,Lung Cancer Risk Factors,
+phs000876,eNCI DAC,Lung Cancer Risk Factors,http://purl.obolibrary.org/obo/DUO_0000007
 phs000876,eNCI DAC,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
 phs000876,eNCI DAC,"Disease-Specific (Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000877,eNCI DAC,"Disease-Specific (Lung Cancer or Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000877,eNCI DAC,Exchange Area,
+phs000877,eNCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000877,eNCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
-phs000877,eNCI DAC,Lung Cancer Risk Factors,
+phs000877,eNCI DAC,Lung Cancer Risk Factors,http://purl.obolibrary.org/obo/DUO_0000007
 phs000877,eNCI DAC,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
 phs000877,eNCI DAC,"Disease-Specific (Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000878,eNCI DAC,"Disease-Specific (Lung Cancer or Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000878,eNCI DAC,Exchange Area,
+phs000878,eNCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000878,eNCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
-phs000878,eNCI DAC,Lung Cancer Risk Factors,
+phs000878,eNCI DAC,Lung Cancer Risk Factors,http://purl.obolibrary.org/obo/DUO_0000007
 phs000878,eNCI DAC,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
 phs000878,eNCI DAC,"Disease-Specific (Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001049,NHGRI,Disease-Specific (Lung Cancer),http://purl.obolibrary.org/obo/DUO_0000007
@@ -1899,7 +1915,7 @@ phs002114,JAAMH,"Disease-Specific (Mental Health, IRB, NPU, MDS)","http://purl.o
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs002114,JAAMH,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs002114,JAAMH,Other (Patenting of any result is prohibited),
+phs002114,JAAMH,Other (Patenting of any result is prohibited),http://purl.obolibrary.org/obo/DUO_0000007
 phs002114,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs002114,JAAMH,"Disease-Specific (Relationship between environment, physiological activity & adolescent health, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs002114,JAAMH,Other-Limited to Research in Adult Population,
@@ -2091,7 +2107,7 @@ phs001131,NCI DAC,"Disease-Specific (Ovarian Cancer, MDS, GSO)","http://purl.obo
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001131,NCI DAC,General Research Use (COL),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000020"
-phs001131,NCI DAC,Ovarian Cancer Only,
+phs001131,NCI DAC,Ovarian Cancer Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001131,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
@@ -2110,7 +2126,7 @@ phs001132,NCI DAC,"Disease-Specific (Ovarian Cancer, MDS, GSO)","http://purl.obo
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001132,NCI DAC,General Research Use (COL),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000020"
-phs001132,NCI DAC,Ovarian Cancer Only,
+phs001132,NCI DAC,Ovarian Cancer Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001132,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
@@ -2129,7 +2145,7 @@ phs001133,NCI DAC,"Disease-Specific (Ovarian Cancer, MDS, GSO)","http://purl.obo
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001133,NCI DAC,General Research Use (COL),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000020"
-phs001133,NCI DAC,Ovarian Cancer Only,
+phs001133,NCI DAC,Ovarian Cancer Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001133,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
@@ -2148,7 +2164,7 @@ phs001142,NCI DAC,"Disease-Specific (Ovarian Cancer, MDS, GSO)","http://purl.obo
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001142,NCI DAC,General Research Use (COL),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000020"
-phs001142,NCI DAC,Ovarian Cancer Only,
+phs001142,NCI DAC,Ovarian Cancer Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001142,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
@@ -2167,7 +2183,7 @@ phs001150,NCI DAC,"Disease-Specific (Ovarian Cancer, MDS, GSO)","http://purl.obo
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001150,NCI DAC,General Research Use (COL),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000020"
-phs001150,NCI DAC,Ovarian Cancer Only,
+phs001150,NCI DAC,Ovarian Cancer Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001150,NCI DAC,"Health/Medical/Biomedical (PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
@@ -2186,7 +2202,7 @@ phs001882,NCI DAC,Disease-Specific (Ovarian Cancer),http://purl.obolibrary.org/o
 phs001882,NCI DAC,General Research Use (NPU),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs001882,NCI DAC,Disease-Specific (Ovarian Tumors),http://purl.obolibrary.org/obo/DUO_0000007
-phs001882,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001882,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001882,NCI DAC,"Disease-Specific (Breast Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001882,NCI DAC,Disease-Specific (Breast and Ovarian cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs001882,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
@@ -2209,7 +2225,7 @@ phs001882,NCI DAC,"Disease-Specific (Breast, Ovarian, or Endometrial Disease, MD
 phs001882,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001882,NCI DAC,"Disease-Specific (Ovarian Cancer, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001882,NCI DAC,Ovarian Cancer Only,
+phs001882,NCI DAC,Ovarian Cancer Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001480,NINR DAC,"Disease-Specific (Paclitaxel-associated pain, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001480,NINR DAC,"Disease-Specific (Cancer, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -2319,7 +2335,8 @@ http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs002358,NHLBI,"Exchange Area (IRB, COL, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001607,NHLBI,"Disease-Specific (Pulmonary, Interstitial Lung Disease, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -2330,7 +2347,8 @@ phs001607,NHLBI,"Disease-Specific (Interstitial Lung Disease, IRB, NPU)","http:/
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001607,NHLBI,"Exchange Area (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001607,NHLBI,"Disease-Specific (Lung Disease, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -2354,7 +2372,8 @@ phs002459,NEI,"Disease-Specific (Retinal Diseases, PUB)","http://purl.obolibrary
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001207,NHLBI,"Disease-Specific (Sarcoidosis, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001207,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs001207,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002305,NCI DAC,Disease-Specific (Sarcoma),http://purl.obolibrary.org/obo/DUO_0000007
 phs002305,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001196,JAAMH,"Disease-Specific (Schizophrenia and related disorders, GSO, RD)","http://purl.obolibrary.org/obo/DUO_0000016
@@ -2378,7 +2397,8 @@ http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001608,NHLBI,"Exchange Area (IRB, PUB, COL, MDS, RD)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002383,NHLBI,"Disease-Specific (Sickle Cell Disease, IRB, PUB, COL, NPU, MDS, RD)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
@@ -2392,7 +2412,8 @@ http://purl.obolibrary.org/obo/DUO_0000007"
 phs001514,NHLBI,"Exchange Area (IRB, PUB, COL, NPU, MDS, RD)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001514,NHLBI,"Health/Medical/Biomedical (IRB, PUB, COL, NPU, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -2552,228 +2573,250 @@ http://purl.obolibrary.org/obo/DUO_0000007"
 phs000224,NIAMS,Disease-Specific (Vitiligo),http://purl.obolibrary.org/obo/DUO_0000007
 phs000224,NIAMS,Disease-Specific (Vitiligo or Autoimmune Disorders),http://purl.obolibrary.org/obo/DUO_0000007
 phs000602,eNCI DAC,Disease-specific-Cancer,http://purl.obolibrary.org/obo/DUO_0000007
-phs000540,NHGRI,Disorders of Connective Tissues,
-phs000361,NCI DAC,Esophageal and gastric cancer in adults,
-phs000361,NCI DAC,Cancer and other important diseases in adults,
-phs001467,NHLBI,Exchange Area (COL),http://purl.obolibrary.org/obo/DUO_0000020
+phs000540,NHGRI,Disorders of Connective Tissues,http://purl.obolibrary.org/obo/DUO_0000007
+phs000361,NCI DAC,Esophageal and gastric cancer in adults,http://purl.obolibrary.org/obo/DUO_0000007
+phs000361,NCI DAC,Cancer and other important diseases in adults,http://purl.obolibrary.org/obo/DUO_0000007
+phs001467,NHLBI,Exchange Area (COL),"http://purl.obolibrary.org/obo/DUO_0000020
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001467,NHLBI,Health/Medical/Biomedical (COL),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000020"
-phs001661,NHLBI,Exchange Area (GSO),http://purl.obolibrary.org/obo/DUO_0000016
+phs001661,NHLBI,Exchange Area (GSO),"http://purl.obolibrary.org/obo/DUO_0000016
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001661,NHLBI,"Disease-Specific (Asthma, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001624,NHLBI,Exchange Area (GSO),http://purl.obolibrary.org/obo/DUO_0000016
+phs001624,NHLBI,Exchange Area (GSO),"http://purl.obolibrary.org/obo/DUO_0000016
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001624,NHLBI,Health/Medical/Biomedical (GSO),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000016"
-phs001359,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs001359,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001359,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001600,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs001600,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001600,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001211,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs001211,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001211,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001211,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001217,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs001217,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001217,NHLBI,"Disease-Specific (High blood pressure and related cardiovascular-renal disease, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001293,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs001293,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001293,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001293,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, RD)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000920,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000920,NHLBI,"Disease-Specific (Lung Diseases, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000921,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000921,NHLBI,"Disease-Specific (Lung Diseases, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001542,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001542,NHLBI,"Disease-Specific (Lung Diseases, IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001599,NHLBI,"Exchange Area (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001599,NHLBI,"Health/Medical/Biomedical (IRB, COL)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs002338,NHLBI,"Exchange Area (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002338,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001237,NHLBI,"Exchange Area (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001237,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001237,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001612,NHLBI,"Exchange Area (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001612,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001612,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001218,NHLBI,"Exchange Area (IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001218,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs002382,NHLBI,"Exchange Area (IRB, PUB)","http://purl.obolibrary.org/obo/DUO_0000019
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002382,NHLBI,"General Research Use (IRB, PUB)","http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001682,NHLBI,"Exchange Area (IRB, PUB, COL)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001682,NHLBI,"Disease-Specific (Sickle Cell Disease, IRB, PUB, COL)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001606,NHLBI,Exchange Area (MDS),
+phs001606,NHLBI,Exchange Area (MDS),http://purl.obolibrary.org/obo/DUO_0000007
 phs001606,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001933,NHLBI,Exchange Area (MDS),
+phs001933,NHLBI,Exchange Area (MDS),http://purl.obolibrary.org/obo/DUO_0000007
 phs001933,NHLBI,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
-phs001662,NHLBI,Exchange Area (MDS),
+phs001662,NHLBI,Exchange Area (MDS),http://purl.obolibrary.org/obo/DUO_0000007
 phs001662,NHLBI,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
-phs001472,NHLBI,"Exchange Area (MDS, RD)",
+phs001472,NHLBI,"Exchange Area (MDS, RD)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001472,NHLBI,"Disease-Specific (COPD and Smoking, MDS, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs001435,NHLBI,"Exchange Area (NPU, MDS)",http://purl.obolibrary.org/obo/DUO_0000045
+phs001435,NHLBI,"Exchange Area (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001435,NHLBI,"Health/Medical/Biomedical (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001544,NHLBI,"Exchange Area (NPU, MDS)",http://purl.obolibrary.org/obo/DUO_0000045
+phs001544,NHLBI,"Exchange Area (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001544,NHLBI,"Health/Medical/Biomedical (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001598,NHLBI,"Exchange Area (NPU, MDS)",http://purl.obolibrary.org/obo/DUO_0000045
+phs001598,NHLBI,"Exchange Area (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001598,NHLBI,"Health/Medical/Biomedical (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001368,NHLBI,"Exchange Area (NPU, MDS)",http://purl.obolibrary.org/obo/DUO_0000045
+phs001368,NHLBI,"Exchange Area (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001368,NHLBI,"Health/Medical/Biomedical (NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs001368,NHLBI,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
 phs001368,NHLBI,"Disease-Specific (Cardiovascular Disease, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001368,NHLBI,"Disease-Specific (Cardiovascular Disease, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000200,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000200,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000200,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000200,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000281,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000281,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000281,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000281,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000315,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000315,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000315,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000315,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000386,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000386,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000386,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000386,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000503,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000503,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000503,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000503,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000675,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000675,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000675,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000675,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000746,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000746,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000746,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000746,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001334,NHLBI,Exchange Area use by PAGE study investigators only,
+phs001334,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001334,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001334,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001335,NHLBI,Exchange Area use by PAGE study investigators only,
+phs001335,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001335,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001335,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001614,NHLBI,Exchange Area use by PAGE study investigators only,
+phs001614,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001614,NHLBI,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001614,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000555,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000555,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000555,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs000555,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000810,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000810,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000810,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs000810,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000880,NHLBI,Exchange Area use by PAGE study investigators only,
+phs000880,NHLBI,Exchange Area use by PAGE study investigators only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000880,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs000880,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000812,NCI DAC,Exchange Area,
+phs000812,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000812,NCI DAC,"Cancer in all age groups, other disease in adults only and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs000812,NCI DAC,General Research Use (MDS),http://purl.obolibrary.org/obo/DUO_0000042
 phs000812,NCI DAC,"Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000812,NCI DAC,"Health/Medical/Biomedical (PUB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000019"
-phs000220,NHGRI,Exchange Area,
+phs000220,NHGRI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000220,NHGRI,Cancer Research and Methods,
 phs000220,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000279,NHLBI,Exchange Area,
+phs000279,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000279,NHLBI,Cardiovascular Disease,http://purl.obolibrary.org/obo/DUO_0000007
-phs001477,CDAC,Exchange Area,
-phs001477,CDAC,Consent Group 1,
-phs001477,CDAC,Consent Group 2,
-phs001109,JAAMH,Exchange Area,
+phs001477,CDAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
+phs001477,CDAC,Consent Group 1,http://purl.obolibrary.org/obo/DUO_0000007
+phs001477,CDAC,Consent Group 2,http://purl.obolibrary.org/obo/DUO_0000007
+phs001109,JAAMH,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001109,JAAMH,"Disease-Specific (Addictive Disorders, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001726,NHLBI,Exchange Area,
+phs001726,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001726,NHLBI,Disease-Specific (Asthma and Chronic Obstructive Pulmonary Disease),http://purl.obolibrary.org/obo/DUO_0000007
-phs000988,NHLBI,Exchange Area,
+phs000988,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000988,NHLBI,"Disease-Specific (Asthma, IRB, MDS, RD)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001062,NHLBI,Exchange Area,
+phs001062,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001062,NHLBI,"Disease-Specific (Atrial Fibrillation, IRB, RD)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001062,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000634,NCI DAC,Exchange Area,
+phs000634,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000634,NCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs000634,NCI DAC,General Research Use (MDS),http://purl.obolibrary.org/obo/DUO_0000042
-phs000756,NHGRI,Exchange Area,
+phs000756,NHGRI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000756,NHGRI,Disease-Specific (Cardio-Brain-Cancer-Diabetes-Asthma-Allergy),http://purl.obolibrary.org/obo/DUO_0000007
-phs001735,NHLBI,Exchange Area,
+phs001735,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001735,NHLBI,Disease-Specific (Congenital Heart Disease),http://purl.obolibrary.org/obo/DUO_0000007
 phs001735,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000946,NHLBI,Exchange Area,
+phs000946,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000946,NHLBI,"Disease-Specific (COPD and Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000964,NHLBI,Exchange Area,
+phs000964,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000964,NHLBI,"Disease-Specific (Focused Disease Only, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000964,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
@@ -2784,145 +2827,145 @@ http://purl.obolibrary.org/obo/DUO_0000021"
 phs000964,NHLBI,"Disease-Specific (Focused Disease Only, IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs002302,NHLBI,Exchange Area,
+phs002302,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs002302,NHLBI,Disease-Specific (Hemophilia),http://purl.obolibrary.org/obo/DUO_0000007
-phs001239,NCI DAC,Exchange Area,
+phs001239,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001239,NCI DAC,"Disease-Specific (Lung disease or smoking, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000748,NCI DAC,Exchange Area,
+phs000748,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000748,NCI DAC,"Disease-Specific (Myeloma and other cancer-related disorders, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000748,NCI DAC,General Research Use (MDS),http://purl.obolibrary.org/obo/DUO_0000042
-phs000749,NCI DAC,Exchange Area,
+phs000749,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000749,NCI DAC,"Disease-Specific (Myeloma and other cancer-related disorders, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000749,NCI DAC,General Research Use (MDS),http://purl.obolibrary.org/obo/DUO_0000042
-phs001466,NHLBI,Exchange Area,
+phs001466,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001466,NHLBI,"Disease-Specific (Sickle Cell Disease, RD)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001466,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs001466,NHLBI,Disease-Specific (Sickle Cell Disease),http://purl.obolibrary.org/obo/DUO_0000007
-phs000743,NIDDK,Exchange Area,
+phs000743,NIDDK,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000743,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000752,NIDDK,Exchange Area,
+phs000752,NIDDK,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000752,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000919,NIDDK,Exchange Area,
+phs000919,NIDDK,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000919,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001100,NIDDK,Exchange Area,
+phs001100,NIDDK,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001100,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000222,NINDS,Exchange Area,
+phs000222,NINDS,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000222,NINDS,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000424,NHGRI,Exchange Area,
+phs000424,NHGRI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000424,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000925,NHGRI,Exchange Area,
+phs000925,NHGRI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000925,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001033,NHGRI,Exchange Area,
+phs001033,NHGRI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001033,NHGRI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001402,NHLBI,Exchange Area,
+phs001402,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001402,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001434,NHLBI,Exchange Area,
+phs001434,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001434,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001446,NHLBI,Exchange Area,
+phs001446,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001446,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001546,NHLBI,Exchange Area,
+phs001546,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001546,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001569,NHLBI,Exchange Area,
+phs001569,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001569,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001602,NHLBI,Exchange Area,
+phs001602,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001602,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001603,NHLBI,Exchange Area,
+phs001603,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001603,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001604,NHLBI,Exchange Area,
+phs001604,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001604,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001725,NHLBI,Exchange Area,
+phs001725,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001725,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001974,NHLBI,Exchange Area,
+phs001974,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001974,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs002453,NHLBI,Exchange Area,
+phs002453,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs002453,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000291,NHLBI,Exchange Area,
+phs000291,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000291,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001134,NCI DAC,Exchange Area,
+phs001134,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001134,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001163,NCI DAC,Exchange Area,
+phs001163,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001163,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001032,NHLBI,Exchange Area,
+phs001032,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001032,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001189,NHLBI,Exchange Area,
+phs001189,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001189,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001927,NHLBI,Exchange Area,
+phs001927,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001927,NHLBI,General Research Use (NPU),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs001927,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001927,NHLBI,"Disease-Specific (Chronic Obstructive Pulmonary Disease, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001927,NHLBI,Disease-Specific (Chronic Obstructive Pulmonary Disease),http://purl.obolibrary.org/obo/DUO_0000007
-phs000799,NCI DAC,Exchange Area,
+phs000799,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000799,NCI DAC,"General Research Use (PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
-phs000254,NHLBI,Exchange Area,
+phs000254,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000254,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000254,NHLBI,Disease-Specific (Cystic Fibrosis),http://purl.obolibrary.org/obo/DUO_0000007
-phs000334,NHLBI,Exchange Area,
+phs000334,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000334,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000631,NHLBI,Exchange Area,
+phs000631,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000631,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000686,NHLBI,Exchange Area,
+phs000686,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000686,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs001024,NHLBI,Exchange Area,
+phs001024,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001024,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs001040,NHLBI,Exchange Area,
+phs001040,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001040,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs001174,NHGRI,Exchange Area,
+phs001174,NHGRI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001174,NHGRI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000997,NHLBI,Exchange Area,
+phs000997,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000997,NHLBI,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000956,NHLBI,Exchange Area,
+phs000956,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000956,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000993,NHLBI,Exchange Area,
+phs000993,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000993,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000993,NHLBI,"Disease-Specific (Cardiovascular Disease, IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000974,NHLBI,Exchange Area,
+phs000974,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000974,NHLBI,"Health/Medical/Biomedical (IRB, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000974,NHLBI,"Health/Medical/Biomedical (IRB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000813,NCI DAC,Exchange Area,
+phs000813,NCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000813,NCI DAC,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
-phs000517,eNCI DAC,Exchange Area,
+phs000517,eNCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000517,eNCI DAC,Health/Medical/Biomedical (MDS),http://purl.obolibrary.org/obo/DUO_0000006
 phs000517,eNCI DAC,Disease-Specific (Cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs000517,eNCI DAC,General Research Use (MDS),http://purl.obolibrary.org/obo/DUO_0000042
-phs001395,NHLBI,Exchange Area,
+phs001395,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001395,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs001395,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs001416,NHLBI,Exchange Area,
+phs001416,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001416,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs001416,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
-phs000296,NHLBI,Exchange Area,
+phs000296,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000296,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs000296,NHLBI,"Disease-Specific (COPD and Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000765,NHLBI,Exchange Area,
+phs000765,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000765,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs000765,NHLBI,"Disease-Specific (COPD and Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
-phs000951,NHLBI,Exchange Area,
+phs000951,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000951,NHLBI,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs000951,NHLBI,"Disease-Specific (COPD and Smoking, RD)",http://purl.obolibrary.org/obo/DUO_0000007
 phs000182,NEI,Eye Disease Research Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000182,NEI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000246,NEI,Eye Disease Research Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000246,NEI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000421,NEI,FECD Studies Only,
+phs000421,NEI,FECD Studies Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000421,NEI,Eye Disease Research Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000421,NEI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000310,NHGRI,"For general medical research, for non-profit only","http://purl.obolibrary.org/obo/DUO_0000006
@@ -3851,20 +3894,25 @@ phs001097,NIDDK,"Disease-Specific (Type 2 Diabetes, IRB, RD)","http://purl.oboli
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001143,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001143,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs001143,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002038,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs002038,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs002038,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002339,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs002339,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs002339,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002360,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs002360,NHLBI,Exchange Area (IRB),http://purl.obolibrary.org/obo/DUO_0000021
+phs002360,NHLBI,Exchange Area (IRB),"http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002617,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs002617,NHLBI,"Exchange Area (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002617,NHLBI,General Research Use (NPU),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs001879,NIAID,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
@@ -3951,7 +3999,8 @@ http://purl.obolibrary.org/obo/DUO_0000021"
 phs002451,NHLBI,General Research Use (IRB),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs002451,NHLBI,"Exchange Area (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000521,NCATS,"General Research Use (IRB, PUB)","http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000021"
@@ -4278,7 +4327,8 @@ http://purl.obolibrary.org/obo/DUO_0000021"
 phs002194,NHLBI,"Exchange Area (IRB, PUB, COL, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001468,NHLBI,"General Research Use (IRB, PUB, COL, NPU)","http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -4287,7 +4337,8 @@ http://purl.obolibrary.org/obo/DUO_0000021"
 phs001468,NHLBI,"Exchange Area (IRB, PUB, COL, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002148,NCI DAC,"General Research Use (IRB, PUB, COL, NPU)","http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
@@ -4310,7 +4361,7 @@ http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs000972,NHLBI,Exchange Area,
+phs000972,NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs001105,NHGRI,"General Research Use (IRB, PUB, GSO)","http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000016
@@ -4456,7 +4507,7 @@ phs001321,NCI DAC,General Research Use (NPU),"http://purl.obolibrary.org/obo/DUO
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs001321,NCI DAC,"Disease-Specific (Breast and Ovarian cancer, MDS, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001321,NCI DAC,"Cancer, Benign Neoplasms, or Hematopoietic Diseases (MDS)",
+phs001321,NCI DAC,"Cancer, Benign Neoplasms, or Hematopoietic Diseases (MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001321,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001321,NCI DAC,"Disease-Specific (Breast Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001321,NCI DAC,"Disease-Specific (Breast and Ovarian cancer, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
@@ -4679,9 +4730,9 @@ phs001995,NIGMS,"General Research Use (PUB, NPU)","http://purl.obolibrary.org/ob
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019"
 phs000102,NINDS,General research use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000102,NINDS,Stroke and Related Disorders,
+phs000102,NINDS,Stroke and Related Disorders,http://purl.obolibrary.org/obo/DUO_0000007
 phs000433,NIDDK,General Research Use except HIV/AIDS,http://purl.obolibrary.org/obo/DUO_0000042
-phs000433,NIDDK,Stroke and Risk factors for stroke,
+phs000433,NIDDK,Stroke and Risk factors for stroke,http://purl.obolibrary.org/obo/DUO_0000007
 phs000433,NIDDK,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs002138,NHLBI,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs002138,NHLBI,Disease-Specific (Asthma and/or other Respiratory Diseases),http://purl.obolibrary.org/obo/DUO_0000007
@@ -4704,7 +4755,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001554,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001554,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001554,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001554,NCI DAC,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
@@ -4816,16 +4867,16 @@ phs000130,NIDDK,Inflammatory Bowel Disease Only,http://purl.obolibrary.org/obo/D
 phs000345,NIDDK,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000345,NIDDK,Inflammatory Bowel Disease Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000308,NHGRI,General research use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000308,NHGRI,Massachusetts Eye and Ear Infirmary,
-phs000368,NICHD,Genetic Analysis of Polycystic Ovary Syndrome,
-phs000368,NICHD,NUgene Biorepository,
-phs000219,JAAMH,Genetic Basis of Alzheimerâ€™s,
-phs000477,NHGRI,Genetic Defects in familial renal disorders,
-phs000292,NHGRI,Genetic Studies of Stroke,
-phs000292,NHGRI,Studies of Genes for Medical Conditions,
-phs000240,NEI,Glaucoma and related conditions,
-phs000096,NHGRI,GWA mapping: Maternal Metabolism-Birth Weight Interactions,
-phs000289,NHGRI,GWAS of Venous Thrombosis,
+phs000308,NHGRI,Massachusetts Eye and Ear Infirmary,http://purl.obolibrary.org/obo/DUO_0000007
+phs000368,NICHD,Genetic Analysis of Polycystic Ovary Syndrome,http://purl.obolibrary.org/obo/DUO_0000007
+phs000368,NICHD,NUgene Biorepository,http://purl.obolibrary.org/obo/DUO_0000007
+phs000219,JAAMH,Genetic Basis of Alzheimerâ€™s,http://purl.obolibrary.org/obo/DUO_0000007
+phs000477,NHGRI,Genetic Defects in familial renal disorders,http://purl.obolibrary.org/obo/DUO_0000007
+phs000292,NHGRI,Genetic Studies of Stroke,http://purl.obolibrary.org/obo/DUO_0000007
+phs000292,NHGRI,Studies of Genes for Medical Conditions,http://purl.obolibrary.org/obo/DUO_0000007
+phs000240,NEI,Glaucoma and related conditions,http://purl.obolibrary.org/obo/DUO_0000007
+phs000096,NHGRI,GWA mapping: Maternal Metabolism-Birth Weight Interactions,http://purl.obolibrary.org/obo/DUO_0000007
+phs000289,NHGRI,GWAS of Venous Thrombosis,http://purl.obolibrary.org/obo/DUO_0000007
 phs000210,NIGMS,Health Research,http://purl.obolibrary.org/obo/DUO_0000006
 phs000495,NHGRI,Health Research - Children's Hospital Boston,http://purl.obolibrary.org/obo/DUO_0000006
 phs000494,NHGRI,Health Research - Cincinnati Children's Hospital Medical Center,http://purl.obolibrary.org/obo/DUO_0000006
@@ -4836,13 +4887,13 @@ phs000408,NHGRI,Health Research - Geisinger Clinic -NASH,http://purl.obolibrary.
 phs000234,NHGRI,Health Research - Marshfield Clinic,http://purl.obolibrary.org/obo/DUO_0000006
 phs000234,NHGRI,Health Research - Vanderbilt U,http://purl.obolibrary.org/obo/DUO_0000006
 phs000234,NHGRI,Health Research - Group Health Seattle,http://purl.obolibrary.org/obo/DUO_0000006
-phs000234,NHGRI,Dementia or Aging - Group Health Seattle,
+phs000234,NHGRI,Dementia or Aging - Group Health Seattle,http://purl.obolibrary.org/obo/DUO_0000007
 phs000234,NHGRI,Health Research - Mayo Clinic,http://purl.obolibrary.org/obo/DUO_0000006
 phs000297,NHGRI,Health Research - Marshfield Clinic,http://purl.obolibrary.org/obo/DUO_0000006
 phs000297,NHGRI,Health Research - Vanderbilt U,http://purl.obolibrary.org/obo/DUO_0000006
 phs000297,NHGRI,Health Research - Northwestern U,http://purl.obolibrary.org/obo/DUO_0000006
 phs000297,NHGRI,Health Research - Group Health Seattle,http://purl.obolibrary.org/obo/DUO_0000006
-phs000297,NHGRI,Dementia or Aging - Group Health Seattle,
+phs000297,NHGRI,Dementia or Aging - Group Health Seattle,http://purl.obolibrary.org/obo/DUO_0000007
 phs000297,NHGRI,Health Research - Mayo Clinic,http://purl.obolibrary.org/obo/DUO_0000006
 phs000203,NHGRI,Health Research - Mayo Clinic,http://purl.obolibrary.org/obo/DUO_0000006
 phs000388,NHGRI,Health Research - MSSM,http://purl.obolibrary.org/obo/DUO_0000006
@@ -4852,7 +4903,7 @@ phs000188,NHGRI,Health Research - Vanderbilt U,http://purl.obolibrary.org/obo/DU
 phs000188,NHGRI,Health Research - Northwestern U,http://purl.obolibrary.org/obo/DUO_0000006
 phs000048,NHGRI,Health research (HR),http://purl.obolibrary.org/obo/DUO_0000006
 phs000125,JAAMH,Health Research,http://purl.obolibrary.org/obo/DUO_0000006
-phs000125,JAAMH,Alcoholism and Related Conditions,
+phs000125,JAAMH,Alcoholism and Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000383,eNCI DAC,Health Research and General Methods,http://purl.obolibrary.org/obo/DUO_0000006
 phs000306,eNCI DAC,Health Research and Methods,http://purl.obolibrary.org/obo/DUO_0000006
 phs000306,eNCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
@@ -5378,7 +5429,8 @@ phs001601,NHLBI,"Health/Medical/Biomedical (IRB, PUB)","http://purl.obolibrary.o
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001601,NHLBI,"Exchange Area (IRB, PUB)","http://purl.obolibrary.org/obo/DUO_0000019
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002092,NICHD,"Health/Medical/Biomedical (IRB, PUB)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000021"
@@ -5436,7 +5488,8 @@ http://purl.obolibrary.org/obo/DUO_0000021"
 phs001543,NHLBI,"Exchange Area (IRB, PUB, COL, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001541,JAAMH,"Health/Medical/Biomedical (IRB, PUB, MDS)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000021"
@@ -5557,10 +5610,12 @@ phs002502,NHGRI,"Disease-Specific (Autism Spectrum Disorder, NPU, MDS)","http://
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001547,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001547,NHLBI,Exchange Area (NPU),http://purl.obolibrary.org/obo/DUO_0000045
+phs001547,NHLBI,Exchange Area (NPU),"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001644,NHLBI,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
-phs001644,NHLBI,Exchange Area (NPU),http://purl.obolibrary.org/obo/DUO_0000045
+phs001644,NHLBI,Exchange Area (NPU),"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002593,Kids First DAC,Health/Medical/Biomedical (NPU),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045"
 phs002593,Kids First DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
@@ -5650,7 +5705,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001265,eNCI DAC,"Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001265,eNCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001265,eNCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001265,eNCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001265,eNCI DAC,Disease-Specific (Breast and Ovarian cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs001265,eNCI DAC,"Disease-Specific (Breast Cancer, PUB)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -5670,7 +5725,8 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001515,NHLBI,Health/Medical/Biomedical (PUB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000019"
-phs001515,NHLBI,Exchange Area (PUB),http://purl.obolibrary.org/obo/DUO_0000019
+phs001515,NHLBI,Exchange Area (PUB),"http://purl.obolibrary.org/obo/DUO_0000019
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs001905,NCI DAC,Health/Medical/Biomedical (PUB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000019"
 phs001905,NCI DAC,"Health/Medical/Biomedical (IRB, NPU, GSO)","http://purl.obolibrary.org/obo/DUO_0000006
@@ -5679,7 +5735,7 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs001905,NCI DAC,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs001905,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs001905,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001905,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001905,NCI DAC,"Disease-Specific (Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001905,NCI DAC,"Disease-Specific (Colon Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
 phs001415,NCI DAC,Health/Medical/Biomedical (PUB),"http://purl.obolibrary.org/obo/DUO_0000006
@@ -5696,14 +5752,14 @@ http://purl.obolibrary.org/obo/DUO_0000020"
 phs001415,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001415,NCI DAC,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
-phs001415,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001415,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001415,NCI DAC,General Research Use (GSO),"http://purl.obolibrary.org/obo/DUO_0000042
 http://purl.obolibrary.org/obo/DUO_0000016"
 phs001415,NCI DAC,"Disease-Specific (Colorectal and Endometrial Cancer, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001415,NCI DAC,"Disease-Specific (Cancer, IRB)","http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001415,NCI DAC,"Rare and common variants associated with colorectal cancer risk, and methods",
+phs001415,NCI DAC,"Rare and common variants associated with colorectal cancer risk, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001415,NCI DAC,"Health/Medical/Biomedical (IRB, NPU)","http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000021"
@@ -5805,7 +5861,7 @@ phs001903,NCI DAC,"Disease-Specific (Cancer, MDS)",http://purl.obolibrary.org/ob
 phs001903,NCI DAC,"Disease-Specific (Cancer, PUB)","http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001903,NCI DAC,Epidemiological and Medical Research on Cancer and Methods,http://purl.obolibrary.org/obo/DUO_0000006
-phs001903,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",
+phs001903,NCI DAC,"Cancer in all age groups, other diseases in adults only, and methods",http://purl.obolibrary.org/obo/DUO_0000007
 phs001903,NCI DAC,"Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs001903,NCI DAC,"Disease-Specific (Colon Cancer, MDS)",http://purl.obolibrary.org/obo/DUO_0000007
@@ -5815,7 +5871,7 @@ http://purl.obolibrary.org/obo/DUO_0000007"
 phs001903,NCI DAC,"Disease-Specific (Colorectal Cancer, COL, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001903,NCI DAC,Colorectal Cancer and Statistical Methods,
+phs001903,NCI DAC,Colorectal Cancer and Statistical Methods,http://purl.obolibrary.org/obo/DUO_0000007
 phs001903,NCI DAC,"Disease-Specific (Colon Cancer, PUB, NPU)","http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000007"
@@ -5831,7 +5887,7 @@ phs001903,NCI DAC,"Disease-Specific (Cancer, IRB, PUB, NPU, MDS)","http://purl.o
 http://purl.obolibrary.org/obo/DUO_0000019
 http://purl.obolibrary.org/obo/DUO_0000021
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs001903,NCI DAC,Chronic Diseases (including Cancer) and Methods,
+phs001903,NCI DAC,Chronic Diseases (including Cancer) and Methods,http://purl.obolibrary.org/obo/DUO_0000007
 phs001903,NCI DAC,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs001903,NCI DAC,Disease-Specific (Colorectal Cancer),http://purl.obolibrary.org/obo/DUO_0000007
 phs001856,NCI DAC,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
@@ -5930,8 +5986,8 @@ http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000020
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000538,NHGRI,Heart Disease,http://purl.obolibrary.org/obo/DUO_0000007
-phs000445,NCI DAC,Hemophilia and Viral Infections,
-phs000492,NHGRI,Human Epilepsy and Cognition,
+phs000445,NCI DAC,Hemophilia and Viral Infections,http://purl.obolibrary.org/obo/DUO_0000007
+phs000492,NHGRI,Human Epilepsy and Cognition,http://purl.obolibrary.org/obo/DUO_0000007
 phs001798,NHGRI,Human Genetic Variation Research,
 phs000228,NHGRI,Human microbiome research,
 phs000251,NIAMS,Human Microbiome Research,
@@ -5949,70 +6005,78 @@ phs000263,NIAMS,Human Microbiome Research,
 phs000247,NIAID,Human Microbiome Research,
 phs000371,NINDS,Huntington's Disease Research,http://purl.obolibrary.org/obo/DUO_0000007
 phs000371,NINDS,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000511,NHGRI,"Hypertriglyceridemia type I, III, and V",
+phs000511,NHGRI,"Hypertriglyceridemia type I, III, and V",http://purl.obolibrary.org/obo/DUO_0000007
 phs000656,NIAID,Immunology Research Use,
-phs000416,NINDS,Intracerebral Hemorrhage or Related Neurological Disorders,
-phs000295,NHGRI,Kabuki Syndrome,
-phs000484,NHGRI,Kidney diseases,
-phs001720,NHGRI,Kidney Function,
-phs000217,NIAID,Leprosy Studies Only,
+phs000416,NINDS,Intracerebral Hemorrhage or Related Neurological Disorders,http://purl.obolibrary.org/obo/DUO_0000007
+phs000295,NHGRI,Kabuki Syndrome,http://purl.obolibrary.org/obo/DUO_0000007
+phs000484,NHGRI,Kidney diseases,http://purl.obolibrary.org/obo/DUO_0000007
+phs001720,NHGRI,Kidney Function,http://purl.obolibrary.org/obo/DUO_0000007
+phs000217,NIAID,Leprosy Studies Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs001852,NICHD,Limited Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs001852,NICHD,Health/Medical/Biomedical (IRB),"http://purl.obolibrary.org/obo/DUO_0000006
 http://purl.obolibrary.org/obo/DUO_0000021"
 phs000202,NIAMS,Lupus Related Research,
-phs000561,NHGRI,Metabolism and Genetics of Hypobetalipoproteinemia: Population Screen,
-phs001112,NCI DAC,Methods Only,
-phs000257,NIDDK,Microbiome,
-phs000265,NIDDK,Microbiome,
+phs000561,NHGRI,Metabolism and Genetics of Hypobetalipoproteinemia: Population Screen,http://purl.obolibrary.org/obo/DUO_0000007
+phs001112,NCI DAC,Methods Only,http://purl.obolibrary.org/obo/DUO_0000007
+phs000257,NIDDK,Microbiome,http://purl.obolibrary.org/obo/DUO_0000007
+phs000265,NIDDK,Microbiome,http://purl.obolibrary.org/obo/DUO_0000007
 phs000244,NHLBI,Miller Syndrome Exome - General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000275,NINDS,MS and Related Disorders,
+phs000275,NINDS,MS and Related Disorders,http://purl.obolibrary.org/obo/DUO_0000007
 phs000171,NINDS,Multiple Sclerosis Genetics research,
-phs000541,NHGRI,Muscle Development Disorders,
-phs002198,JAAMH,National law prohibits individual level data from being deposited. Only Summary-level statistics can be provided.,
+phs000541,NHGRI,Muscle Development Disorders,http://purl.obolibrary.org/obo/DUO_0000007
+phs002198,JAAMH,National law prohibits individual level data from being deposited. Only Summary-level statistics can be provided.,http://purl.obolibrary.org/obo/DUO_0000007
 phs002198,JAAMH,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006
 phs001790,JAAMH,"Neuroscience, health and disease",http://purl.obolibrary.org/obo/DUO_0000007
 phs001791,JAAMH,"Neuroscience, health and disease",http://purl.obolibrary.org/obo/DUO_0000007
 phs002697,JAAMH,"Neuroscience, health and disease",http://purl.obolibrary.org/obo/DUO_0000007
 phs000404,JAAMH,Nicotine Addiction Research,
 phs000404,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000931,JAAMH,Nicotine metabolism and smoking behaviors,
-phs000658,JAAMH,No data use restrictions,
+phs000931,JAAMH,Nicotine metabolism and smoking behaviors,http://purl.obolibrary.org/obo/DUO_0000007
+phs000658,JAAMH,No data use restrictions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000375,NHLBI,Non Profit Research Use,http://purl.obolibrary.org/obo/DUO_0000045
 phs000423,NHLBI,Non Profit Research Use,http://purl.obolibrary.org/obo/DUO_0000045
-phs000284,NHLBI,Non Profit Use,http://purl.obolibrary.org/obo/DUO_0000045
-phs000145,None,None,
-phs000179,None; NHLBI,None,
-phs000179,None; NHLBI,Exchange Area,
-phs000227,None; NHLBI,None,
-phs000227,None; NHLBI,Exchange Area,
+phs000284,NHLBI,Non Profit Use,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
+phs000145,None,None,http://purl.obolibrary.org/obo/DUO_0000007
+phs000179,None; NHLBI,None,http://purl.obolibrary.org/obo/DUO_0000007
+phs000179,None; NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
+phs000227,None; NHLBI,None,http://purl.obolibrary.org/obo/DUO_0000007
+phs000227,None; NHLBI,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
 phs000493,NHGRI,Non-profit Research,http://purl.obolibrary.org/obo/DUO_0000045
 phs000428,JAAMH,Non-profit research use only,http://purl.obolibrary.org/obo/DUO_0000045
-phs000449,ES DAC,Non-Profit Use,http://purl.obolibrary.org/obo/DUO_0000045
-phs000091,NHGRI,Non-Profit Use Only,http://purl.obolibrary.org/obo/DUO_0000045
-phs000139,NINDS,Non-Profit Use Only,http://purl.obolibrary.org/obo/DUO_0000045
-phs000139,NINDS,Multiple Sclerosis and Related disorders,
-phs000139,NINDS,Multiple Sclerosis,
-phs000160,JAAMH,Non-Profit Use,http://purl.obolibrary.org/obo/DUO_0000045
+phs000449,ES DAC,Non-Profit Use,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
+phs000091,NHGRI,Non-Profit Use Only,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
+phs000139,NINDS,Non-Profit Use Only,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
+phs000139,NINDS,Multiple Sclerosis and Related disorders,http://purl.obolibrary.org/obo/DUO_0000007
+phs000139,NINDS,Multiple Sclerosis,http://purl.obolibrary.org/obo/DUO_0000007
+phs000160,JAAMH,Non-Profit Use,"http://purl.obolibrary.org/obo/DUO_0000045
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000160,JAAMH,Alzheimer Disease Only,http://purl.obolibrary.org/obo/DUO_0000007
 phs000160,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
 phs000160,JAAMH,Alzheimer Disease and Non-Profit Use Only,"http://purl.obolibrary.org/obo/DUO_0000045
 http://purl.obolibrary.org/obo/DUO_0000007"
-phs000127,NINDS,Non-profit_use,
+phs000127,NINDS,Non-profit_use,http://purl.obolibrary.org/obo/DUO_0000007
 phs000459,NIDCR,"Oral Clefts, IRB, COL, GSO, Bailey-WilsonJ","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000459,NIDCR,"Oral Clefts, IRB, COL, GSO, MangoldE-NothenM","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000459,NIDCR,"Disease-Specific (Craniofacial Disorders, GSO)","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000007"
 phs000459,NIDCR,"Oral Clefts, IRB, COL, GSO, BeatyT","http://purl.obolibrary.org/obo/DUO_0000016
 http://purl.obolibrary.org/obo/DUO_0000020
-http://purl.obolibrary.org/obo/DUO_0000021"
+http://purl.obolibrary.org/obo/DUO_0000021
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs000459,NIDCR,Disease-Specific (Orofacial Cleft),http://purl.obolibrary.org/obo/DUO_0000007
-phs000440,NIDCR,Oral Health,
-phs000390,NIAMS,Osteoporosis,
-phs001922,NICHD,Other,
+phs000440,NIDCR,Oral Health,http://purl.obolibrary.org/obo/DUO_0000007
+phs000390,NIAMS,Osteoporosis,http://purl.obolibrary.org/obo/DUO_0000007
+phs001922,NICHD,Other,http://purl.obolibrary.org/obo/DUO_0000007
 phs000218,NCI DAC,Pediatric Cancer Research,
 phs000463,NCI DAC,Pediatric Cancer Research,
 phs000464,NCI DAC,Pediatric Cancer Research,
@@ -6025,36 +6089,38 @@ phs000470,NCI DAC,Pediatric Cancer Research,
 phs000471,NCI DAC,Pediatric Cancer Research,
 phs000515,eNCI DAC,Pediatric Cancer Research,
 phs000522,NCI DAC,Pediatric Cancer Research and General Methods,
-phs000353,NHGRI,Preterm Birth and its Complications,
-phs000444,NIDDK,Primary Biliary Cirrhosis and Related Conditions,
+phs000353,NHGRI,Preterm Birth and its Complications,http://purl.obolibrary.org/obo/DUO_0000007
+phs000444,NIDDK,Primary Biliary Cirrhosis and Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000487,eNCI DAC,Prostate Cancer Research and Cancer Methods,
-phs000476,NHGRI,Pseudohypoparathyroidism or Related Disorders,
-phs000020,JAAMH,Psychiatric and Related Somatic Conditions,
+phs000476,NHGRI,Pseudohypoparathyroidism or Related Disorders,http://purl.obolibrary.org/obo/DUO_0000007
+phs000020,JAAMH,Psychiatric and Related Somatic Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000520,JAAMH,Research in Developmental Psychopathology,
 phs000181,JAAMH,Research on Alcohol and Tobacco Related Phenotypes,
 phs000524,NIDDK,"Research on Disease of Kidney, Heart and Blood Vessels",http://purl.obolibrary.org/obo/DUO_0000007
-phs000524,NIDDK,All Health Conditions,
+phs000524,NIDDK,All Health Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000206,NCI DAC,Research related to adult diseases and methods,
 phs000207,NCI DAC,Research related to adult diseases and methods,
 phs000201,eNCI DAC,Research related to hematologic diseases and methods,
 phs001286,NCI DAC,Research relating to adults diseases and methods,
 phs002011,NCI DAC,Research relating to adults diseases and methods,
-phs000021,JAAMH,Schizophrenia and Related Conditions,
+phs000021,JAAMH,Schizophrenia and Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000021,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000167,JAAMH,Schizophrenia and Related Conditions,
+phs000167,JAAMH,Schizophrenia and Related Conditions,http://purl.obolibrary.org/obo/DUO_0000007
 phs000167,JAAMH,General Research Use,http://purl.obolibrary.org/obo/DUO_0000042
-phs000357,NIAMS,Scleroderma and other autoimmune diseases,
-phs000478,NHGRI,"Strabismus, cranial nerve abnormalities and associated disorders",
+phs000357,NIAMS,Scleroderma and other autoimmune diseases,http://purl.obolibrary.org/obo/DUO_0000007
+phs000478,NHGRI,"Strabismus, cranial nerve abnormalities and associated disorders",http://purl.obolibrary.org/obo/DUO_0000007
 phs000343,NHGRI,Stroke Research,
-phs000088,NIDDK,T1 Diabetes and complications (T1DC),
-phs000140,NIDDK,T2D and complications,
-phs002264,NLM_DAC,TestingG1,
-phs002693,NIDDK,"The Regents of the University of California, San Francisco",
-phs000583,NIDDK,Type 2 diabetes and metabolic syndrome,
-phs000905,NHGRI,Unrestricted,
+phs000088,NIDDK,T1 Diabetes and complications (T1DC),http://purl.obolibrary.org/obo/DUO_0000007
+phs000140,NIDDK,T2D and complications,http://purl.obolibrary.org/obo/DUO_0000007
+phs002264,NLM_DAC,TestingG1,http://purl.obolibrary.org/obo/DUO_0000007
+phs002693,NIDDK,"The Regents of the University of California, San Francisco",http://purl.obolibrary.org/obo/DUO_0000007
+phs000583,NIDDK,Type 2 diabetes and metabolic syndrome,http://purl.obolibrary.org/obo/DUO_0000007
+phs000905,NHGRI,Unrestricted,http://purl.obolibrary.org/obo/DUO_0000007
 phs000851,eNCI DAC,"Up for a Challenge (Not for Profit Use Only, Publication required)","http://purl.obolibrary.org/obo/DUO_0000045
-http://purl.obolibrary.org/obo/DUO_0000019"
-phs000851,eNCI DAC,Exchange Area,
-phs000851,eNCI DAC,Up for a Challenge (Publication required),http://purl.obolibrary.org/obo/DUO_0000019
+http://purl.obolibrary.org/obo/DUO_0000019
+http://purl.obolibrary.org/obo/DUO_0000007"
+phs000851,eNCI DAC,Exchange Area,http://purl.obolibrary.org/obo/DUO_0000007
+phs000851,eNCI DAC,Up for a Challenge (Publication required),"http://purl.obolibrary.org/obo/DUO_0000019
+http://purl.obolibrary.org/obo/DUO_0000007"
 phs002678,NIDCR,Use of the data is limited to microbial sequences for health/medical/biomedical purposes,http://purl.obolibrary.org/obo/DUO_0000006
 phs002678,NIDCR,Health/Medical/Biomedical,http://purl.obolibrary.org/obo/DUO_0000006

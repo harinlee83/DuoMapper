@@ -146,7 +146,7 @@ if __name__ == "__main__":
     MONDO_TITLES_COLUMN_NUMBER = MONDO_PURL_COLUMN_NUMBER + 1
     name_of_MONDO_TITLE_column = "MONDO Titles"
 
-    original_CSV_file = "csv files/ORGANIZED_v2: DUO Validation Project - Development Dataset - Sheet1.csv"
-    new_CSV_file = "csv files/ORGANIZED_v3: DUO Validation Project - Development Dataset - Sheet1.csv"
+    original_CSV_file = "csv files/ORGANIZED_v2: duo_validation_recompiliation_for_Harin_May 31 2022.csv"
+    new_CSV_file = "csv files/ORGANIZED_v3: duo_validation_recompiliation_for_Harin_May 31 2022.csv"
     
     main()
