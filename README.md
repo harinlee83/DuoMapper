@@ -1,5 +1,5 @@
-# Python Scripts
-- This repo contains miscellaneous Python scripts that organize and restructure datasets used to validate secondary use of human genomics data
+# DuoMapper
+- This repo contains a series of Python scripts that organize and restructure, particularly NIH, datasets’ information and assign them GA4GH Data Use Ontology terms
 - Note: make sure to keep track of which csv files the scripts are taking as input
 
 ## Script 1: organizer.py
