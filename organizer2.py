@@ -66,7 +66,7 @@ with open(original_CSV_file, "r") as originalFile:
                     if purl not in copyLine[PURL_COLUMN_NUMBER]:
                         copyLine[PURL_COLUMN_NUMBER] = copyLine[PURL_COLUMN_NUMBER] + purl
 
-            # Looks for "DISEASE" or "DISORDER"
+            # Looks for "disease" or "disorder"
             for key1 in keyList1:
                 pattern1 = re.compile(r'\b' + key1 + r'\b',re.IGNORECASE)
                 matches1 = re.search(pattern1,copyLine[CONSENT_TITLE_COLUMN_NUMBER])
@@ -74,14 +74,15 @@ with open(original_CSV_file, "r") as originalFile:
                     match1 = True
                     break
             
-             # Looks for GRU or HMB
+            # Looks for variations of "General Research Use" or "Health/Medical/Biomedical"
             for key2 in keyList2:
                 pattern2 = re.compile(r'\b' + key2 + r'\b',re.IGNORECASE)
                 matches2 = re.search(pattern2,copyLine[CONSENT_TITLE_COLUMN_NUMBER])
                 if matches2:
                     match2 = True
                     break
-
+            
+            # Algorithm for looking for alternate disease mappings
             if match1 or not match2 and copyLine[CONSENT_TITLE_COLUMN_NUMBER] != "":
                 # If (Disease or Disorder) OR NOT (GSU or HMB), then add disease purl if not already added
                 purl = "http://purl.obolibrary.org/obo/DUO_0000007"

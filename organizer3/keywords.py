@@ -1,4 +1,5 @@
-# This file contains all the keywords to remove from the consent title
+# This file contains lists of terms that are refrenced by other scripts
+# Terms will be added/removed from the lists based on the quality of results
 
 removeWords = ["Disease-Specific",
                "Disease Specific",

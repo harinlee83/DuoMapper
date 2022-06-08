@@ -64,8 +64,6 @@ def main():
             item = ""
         # "Quote" ensures that the query term is URL encoded
         searchTerms.append(item)
-        # if item != "":
-        #     print(item)
         doidPurls.append(construct_URL(quote(item),0,True))
         mondoPurls.append(construct_URL(quote(item),0,False))
 
