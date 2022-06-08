@@ -37,3 +37,4 @@
       identified, add a corresponding permanent URL (PURL) for each in a new column, Column K (DOID) and Column L (MONDO). This may involve adding
       multiple PURLs to a column.
 
+(Completed 5/27/2022)
